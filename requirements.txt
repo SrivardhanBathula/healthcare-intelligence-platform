@@ -1,0 +1,48 @@
+# Core ML/DL
+torch>=2.1.0
+tensorflow>=2.13.0
+xgboost>=2.0.0
+scikit-learn>=1.3.0
+shap>=0.43.0
+
+# Survival Analysis
+lifelines>=0.27.0
+
+# Clinical NLP
+transformers>=4.35.0
+spacy>=3.7.0
+scispacy>=0.5.3
+medspacy>=1.0.0
+# python -m spacy download en_core_sci_lg (after install)
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=13.0.0
+pyspark>=3.5.0
+
+# Healthcare Standards
+fhir.resources>=7.0.0
+
+# API
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+
+# MLOps
+mlflow>=2.10.0
+
+# Monitoring
+prometheus-client>=0.19.0
+boto3>=1.34.0
+evidently>=0.4.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+httpx>=0.26.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+loguru>=0.7.0
