@@ -6,3 +6,4 @@
 - [2021-09-08] test: add integration tests for clinical NER pipeline
 - [2021-09-09] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-09-09] refactor: improve temporal feature extraction efficiency
+- [2021-09-10] refactor: improve ICU risk model preprocessing
