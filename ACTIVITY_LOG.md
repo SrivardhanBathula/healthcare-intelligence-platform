@@ -8,3 +8,4 @@
 - [2021-09-09] refactor: improve temporal feature extraction efficiency
 - [2021-09-10] refactor: improve ICU risk model preprocessing
 - [2021-09-13] feat: add ICD-10 code validation layer
+- [2021-09-13] fix: negation detection edge case in NER pipeline
