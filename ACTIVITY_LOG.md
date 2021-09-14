@@ -9,3 +9,4 @@
 - [2021-09-10] refactor: improve ICU risk model preprocessing
 - [2021-09-13] feat: add ICD-10 code validation layer
 - [2021-09-13] fix: negation detection edge case in NER pipeline
+- [2021-09-14] fix: handle missing lab values in ICU risk model
