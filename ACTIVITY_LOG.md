@@ -12,3 +12,4 @@
 - [2021-09-14] fix: handle missing lab values in ICU risk model
 - [2021-09-15] refactor: optimize ClinicalBERT batch inference
 - [2021-09-17] docs: update clinical NLP pipeline documentation
+- [2021-09-19] feat: add ICD-10 code validation layer
