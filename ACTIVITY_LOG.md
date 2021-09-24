@@ -16,3 +16,4 @@
 - [2021-09-22] fix: negation detection edge case in NER pipeline
 - [2021-09-23] fix: correct survival analysis time window calculation
 - [2021-09-23] feat: add ICD-10 code validation layer
+- [2021-09-24] test: add unit tests for OMOP transformer
