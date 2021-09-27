@@ -18,3 +18,4 @@
 - [2021-09-23] feat: add ICD-10 code validation layer
 - [2021-09-24] test: add unit tests for OMOP transformer
 - [2021-09-25] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-09-27] test: add unit tests for OMOP transformer
