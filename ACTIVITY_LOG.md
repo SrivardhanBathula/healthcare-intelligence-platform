@@ -12,3 +12,4 @@
 - [2021-09-17] refactor: optimize ClinicalBERT batch inference
 - [2021-09-21] test: add unit tests for OMOP transformer
 - [2021-09-27] fix: negation detection edge case in NER pipeline
+- [2021-09-28] feat: add ICD-10 code validation layer
