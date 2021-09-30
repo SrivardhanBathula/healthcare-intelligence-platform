@@ -19,3 +19,4 @@
 - [2021-09-24] test: add unit tests for OMOP transformer
 - [2021-09-25] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-09-27] test: add unit tests for OMOP transformer
+- [2021-09-30] refactor: improve temporal feature extraction efficiency
