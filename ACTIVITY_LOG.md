@@ -14,3 +14,4 @@
 - [2021-09-27] fix: negation detection edge case in NER pipeline
 - [2021-09-28] feat: add ICD-10 code validation layer
 - [2021-09-30] fix: handle missing lab values in ICU risk model
+- [2021-09-30] fix: correct ICD-10 to SNOMED mapping for edge cases
