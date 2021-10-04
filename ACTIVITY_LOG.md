@@ -18,3 +18,4 @@
 - [2021-10-01] fix: handle null values in OMOP CDM transformer
 - [2021-10-03] feat: add ICD-10 code validation layer
 - [2021-10-03] chore: upgrade scikit-learn to latest stable
+- [2021-10-04] fix: handle missing lab values in ICU risk model
