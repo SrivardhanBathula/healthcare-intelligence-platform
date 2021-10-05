@@ -19,3 +19,4 @@
 - [2021-10-03] feat: add ICD-10 code validation layer
 - [2021-10-03] chore: upgrade scikit-learn to latest stable
 - [2021-10-04] fix: handle missing lab values in ICU risk model
+- [2021-10-05] fix: correct ICD-10 to SNOMED mapping for edge cases
