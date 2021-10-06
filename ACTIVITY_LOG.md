@@ -21,3 +21,4 @@
 - [2021-10-04] fix: handle missing lab values in ICU risk model
 - [2021-10-05] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-10-05] refactor: improve temporal feature extraction efficiency
+- [2021-10-06] test: add unit tests for OMOP transformer
