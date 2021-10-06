@@ -23,3 +23,4 @@
 - [2021-10-04] fix: correct survival analysis time window calculation
 - [2021-10-05] fix: correct survival analysis time window calculation
 - [2021-10-05] refactor: improve temporal feature extraction efficiency
+- [2021-10-06] docs: add HIPAA compliance notes to data pipeline
