@@ -25,3 +25,4 @@
 - [2021-10-05] refactor: improve temporal feature extraction efficiency
 - [2021-10-06] docs: add HIPAA compliance notes to data pipeline
 - [2021-10-07] fix: resolve memory leak in PySpark feature job
+- [2021-10-07] refactor: modularize EHR data standardization logic
