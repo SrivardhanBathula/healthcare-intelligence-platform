@@ -25,3 +25,4 @@
 - [2021-10-08] fix: handle null values in OMOP CDM transformer
 - [2021-10-08] refactor: improve ICU risk model preprocessing
 - [2021-10-11] chore: clean up unused imports and dead code
+- [2021-10-11] refactor: optimize EHR ingestion pipeline performance
