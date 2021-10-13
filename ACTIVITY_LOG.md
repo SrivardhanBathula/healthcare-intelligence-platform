@@ -30,3 +30,4 @@
 - [2021-10-12] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-10-12] chore: upgrade scikit-learn to latest stable
 - [2021-10-13] refactor: optimize EHR ingestion pipeline performance
+- [2021-10-13] fix: correct survival analysis time window calculation
