@@ -31,3 +31,4 @@
 - [2021-10-12] chore: upgrade scikit-learn to latest stable
 - [2021-10-13] refactor: optimize EHR ingestion pipeline performance
 - [2021-10-13] fix: correct survival analysis time window calculation
+- [2021-10-17] chore: clean up unused imports and dead code
