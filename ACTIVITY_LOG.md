@@ -33,3 +33,4 @@
 - [2021-10-13] fix: correct survival analysis time window calculation
 - [2021-10-17] chore: clean up unused imports and dead code
 - [2021-10-18] refactor: improve ICU risk model preprocessing
+- [2021-10-19] refactor: optimize EHR ingestion pipeline performance
