@@ -32,3 +32,4 @@
 - [2021-10-18] chore: clean up unused imports and dead code
 - [2021-10-18] fix: negation detection edge case in NER pipeline
 - [2021-10-20] refactor: optimize EHR ingestion pipeline performance
+- [2021-10-21] fix: negation detection edge case in NER pipeline
