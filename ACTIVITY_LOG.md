@@ -35,3 +35,4 @@
 - [2021-10-21] fix: negation detection edge case in NER pipeline
 - [2021-10-25] docs: add HIPAA compliance notes to data pipeline
 - [2021-10-25] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-10-27] fix: correct survival analysis time window calculation
