@@ -39,3 +39,4 @@
 - [2021-10-27] docs: add HIPAA compliance notes to data pipeline
 - [2021-10-29] refactor: modularize EHR data standardization logic
 - [2021-10-29] docs: update clinical NLP pipeline documentation
+- [2021-11-02] test: add unit tests for OMOP transformer
