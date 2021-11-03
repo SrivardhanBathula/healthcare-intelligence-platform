@@ -40,3 +40,4 @@
 - [2021-10-29] refactor: modularize EHR data standardization logic
 - [2021-10-29] docs: update clinical NLP pipeline documentation
 - [2021-11-02] test: add unit tests for OMOP transformer
+- [2021-11-03] fix: correct ICD-10 to SNOMED mapping for edge cases
