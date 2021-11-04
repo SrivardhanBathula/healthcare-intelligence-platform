@@ -38,3 +38,4 @@
 - [2021-10-27] fix: correct survival analysis time window calculation
 - [2021-10-27] refactor: modularize EHR data standardization logic
 - [2021-11-02] fix: handle missing lab values in ICU risk model
+- [2021-11-04] chore: upgrade scikit-learn to latest stable
