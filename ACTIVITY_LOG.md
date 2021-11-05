@@ -40,3 +40,4 @@
 - [2021-11-02] fix: handle missing lab values in ICU risk model
 - [2021-11-04] chore: upgrade scikit-learn to latest stable
 - [2021-11-05] test: add unit tests for OMOP transformer
+- [2021-11-05] fix: handle null values in OMOP CDM transformer
