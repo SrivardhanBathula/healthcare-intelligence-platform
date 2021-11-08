@@ -43,3 +43,4 @@
 - [2021-11-03] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-11-04] fix: handle null values in OMOP CDM transformer
 - [2021-11-05] feat: add ICD-10 code validation layer
+- [2021-11-08] refactor: improve temporal feature extraction efficiency
