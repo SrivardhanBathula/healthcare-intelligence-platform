@@ -41,3 +41,4 @@
 - [2021-11-04] chore: upgrade scikit-learn to latest stable
 - [2021-11-05] test: add unit tests for OMOP transformer
 - [2021-11-05] fix: handle null values in OMOP CDM transformer
+- [2021-11-09] docs: add HIPAA compliance notes to data pipeline
