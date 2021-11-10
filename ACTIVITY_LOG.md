@@ -43,3 +43,4 @@
 - [2021-11-05] fix: handle null values in OMOP CDM transformer
 - [2021-11-09] docs: add HIPAA compliance notes to data pipeline
 - [2021-11-09] refactor: improve temporal feature extraction efficiency
+- [2021-11-10] refactor: modularize EHR data standardization logic
