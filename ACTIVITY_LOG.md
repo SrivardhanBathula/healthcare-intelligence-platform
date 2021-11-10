@@ -45,3 +45,4 @@
 - [2021-11-05] feat: add ICD-10 code validation layer
 - [2021-11-08] refactor: improve temporal feature extraction efficiency
 - [2021-11-09] refactor: modularize EHR data standardization logic
+- [2021-11-10] fix: negation detection edge case in NER pipeline
