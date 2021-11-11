@@ -45,3 +45,4 @@
 - [2021-11-09] refactor: improve temporal feature extraction efficiency
 - [2021-11-10] refactor: modularize EHR data standardization logic
 - [2021-11-11] fix: negation detection edge case in NER pipeline
+- [2021-11-11] fix: handle null values in OMOP CDM transformer
