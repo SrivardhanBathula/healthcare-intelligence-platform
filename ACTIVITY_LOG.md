@@ -47,3 +47,4 @@
 - [2021-11-11] fix: negation detection edge case in NER pipeline
 - [2021-11-11] fix: handle null values in OMOP CDM transformer
 - [2021-11-14] chore: update SNOMED CT vocabulary mappings
+- [2021-11-15] fix: resolve memory leak in PySpark feature job
