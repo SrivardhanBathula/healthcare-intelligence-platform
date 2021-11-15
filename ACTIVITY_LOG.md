@@ -48,3 +48,4 @@
 - [2021-11-10] fix: negation detection edge case in NER pipeline
 - [2021-11-10] fix: handle null values in OMOP CDM transformer
 - [2021-11-13] chore: update SNOMED CT vocabulary mappings
+- [2021-11-15] refactor: improve ICU risk model preprocessing
