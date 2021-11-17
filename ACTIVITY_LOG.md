@@ -49,3 +49,4 @@
 - [2021-11-14] chore: update SNOMED CT vocabulary mappings
 - [2021-11-15] fix: resolve memory leak in PySpark feature job
 - [2021-11-16] feat: add ICD-10 code validation layer
+- [2021-11-17] chore: update SNOMED CT vocabulary mappings
