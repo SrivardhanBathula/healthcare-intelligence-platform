@@ -51,3 +51,4 @@
 - [2021-11-15] refactor: improve ICU risk model preprocessing
 - [2021-11-15] feat: add ICD-10 code validation layer
 - [2021-11-16] chore: update SNOMED CT vocabulary mappings
+- [2021-11-17] feat: add ICD-10 code validation layer
