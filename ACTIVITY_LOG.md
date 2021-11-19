@@ -52,3 +52,4 @@
 - [2021-11-17] chore: update SNOMED CT vocabulary mappings
 - [2021-11-18] feat: add ICD-10 code validation layer
 - [2021-11-18] refactor: improve ICU risk model preprocessing
+- [2021-11-19] feat: add Prometheus metrics for pipeline monitoring
