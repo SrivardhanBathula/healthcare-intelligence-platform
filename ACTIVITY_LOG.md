@@ -54,3 +54,4 @@
 - [2021-11-17] feat: add ICD-10 code validation layer
 - [2021-11-17] refactor: improve ICU risk model preprocessing
 - [2021-11-18] feat: add Prometheus metrics for pipeline monitoring
+- [2021-11-20] fix: handle missing lab values in ICU risk model
