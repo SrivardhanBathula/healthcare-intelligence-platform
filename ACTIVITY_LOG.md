@@ -54,3 +54,4 @@
 - [2021-11-18] refactor: improve ICU risk model preprocessing
 - [2021-11-19] feat: add Prometheus metrics for pipeline monitoring
 - [2021-11-22] fix: handle missing lab values in ICU risk model
+- [2021-11-22] fix: correct ICD-10 to SNOMED mapping for edge cases
