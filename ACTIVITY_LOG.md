@@ -56,3 +56,4 @@
 - [2021-11-22] fix: handle missing lab values in ICU risk model
 - [2021-11-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-11-24] fix: handle null values in OMOP CDM transformer
+- [2021-11-25] chore: upgrade scikit-learn to latest stable
