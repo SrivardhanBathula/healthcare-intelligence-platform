@@ -58,3 +58,4 @@
 - [2021-11-24] fix: handle null values in OMOP CDM transformer
 - [2021-11-25] chore: upgrade scikit-learn to latest stable
 - [2021-11-26] chore: clean up unused imports and dead code
+- [2021-11-26] feat: add ICD-10 code validation layer
