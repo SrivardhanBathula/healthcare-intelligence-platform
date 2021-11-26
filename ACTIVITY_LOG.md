@@ -55,3 +55,4 @@
 - [2021-11-17] refactor: improve ICU risk model preprocessing
 - [2021-11-18] feat: add Prometheus metrics for pipeline monitoring
 - [2021-11-20] fix: handle missing lab values in ICU risk model
+- [2021-11-26] fix: handle null values in OMOP CDM transformer
