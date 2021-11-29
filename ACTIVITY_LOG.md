@@ -60,3 +60,4 @@
 - [2021-11-26] chore: clean up unused imports and dead code
 - [2021-11-26] feat: add ICD-10 code validation layer
 - [2021-11-28] test: add unit tests for OMOP transformer
+- [2021-11-29] test: add integration tests for clinical NER pipeline
