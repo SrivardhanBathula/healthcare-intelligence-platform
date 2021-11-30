@@ -56,3 +56,4 @@
 - [2021-11-18] feat: add Prometheus metrics for pipeline monitoring
 - [2021-11-20] fix: handle missing lab values in ICU risk model
 - [2021-11-26] fix: handle null values in OMOP CDM transformer
+- [2021-11-30] chore: clean up unused imports and dead code
