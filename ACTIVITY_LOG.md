@@ -62,3 +62,4 @@
 - [2021-11-28] test: add unit tests for OMOP transformer
 - [2021-11-29] test: add integration tests for clinical NER pipeline
 - [2021-11-30] refactor: improve temporal feature extraction efficiency
+- [2021-11-30] fix: correct survival analysis time window calculation
