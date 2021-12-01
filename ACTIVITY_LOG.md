@@ -63,3 +63,4 @@
 - [2021-11-29] test: add integration tests for clinical NER pipeline
 - [2021-11-30] refactor: improve temporal feature extraction efficiency
 - [2021-11-30] fix: correct survival analysis time window calculation
+- [2021-12-01] fix: correct survival analysis time window calculation
