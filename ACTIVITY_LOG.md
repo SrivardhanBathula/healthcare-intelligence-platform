@@ -65,3 +65,4 @@
 - [2021-11-30] fix: correct survival analysis time window calculation
 - [2021-12-01] fix: correct survival analysis time window calculation
 - [2021-12-01] refactor: optimize ClinicalBERT batch inference
+- [2021-12-02] refactor: optimize EHR ingestion pipeline performance
