@@ -66,3 +66,4 @@
 - [2021-12-01] fix: correct survival analysis time window calculation
 - [2021-12-01] refactor: optimize ClinicalBERT batch inference
 - [2021-12-02] refactor: optimize EHR ingestion pipeline performance
+- [2021-12-03] fix: correct ICD-10 to SNOMED mapping for edge cases
