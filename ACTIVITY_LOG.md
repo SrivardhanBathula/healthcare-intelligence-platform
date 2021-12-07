@@ -62,3 +62,4 @@
 - [2021-12-02] refactor: improve temporal feature extraction efficiency
 - [2021-12-03] feat: add ICD-10 code validation layer
 - [2021-12-06] chore: upgrade scikit-learn to latest stable
+- [2021-12-07] refactor: optimize ClinicalBERT batch inference
