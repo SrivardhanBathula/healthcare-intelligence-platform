@@ -67,3 +67,4 @@
 - [2021-12-09] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-12-10] fix: negation detection edge case in NER pipeline
 - [2021-12-10] fix: negation detection edge case in NER pipeline
+- [2021-12-13] chore: clean up unused imports and dead code
