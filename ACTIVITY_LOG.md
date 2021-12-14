@@ -68,3 +68,4 @@
 - [2021-12-02] refactor: optimize EHR ingestion pipeline performance
 - [2021-12-03] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-12-09] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-12-14] chore: update SNOMED CT vocabulary mappings
