@@ -71,3 +71,4 @@
 - [2021-12-14] chore: update SNOMED CT vocabulary mappings
 - [2021-12-14] chore: update SNOMED CT vocabulary mappings
 - [2021-12-16] chore: upgrade scikit-learn to latest stable
+- [2021-12-16] fix: correct survival analysis time window calculation
