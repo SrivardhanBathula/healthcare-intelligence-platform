@@ -70,3 +70,4 @@
 - [2021-12-13] chore: clean up unused imports and dead code
 - [2021-12-14] chore: update SNOMED CT vocabulary mappings
 - [2021-12-14] chore: update SNOMED CT vocabulary mappings
+- [2021-12-16] chore: upgrade scikit-learn to latest stable
