@@ -73,3 +73,4 @@
 - [2021-12-16] chore: upgrade scikit-learn to latest stable
 - [2021-12-16] fix: correct survival analysis time window calculation
 - [2021-12-17] fix: handle null values in OMOP CDM transformer
+- [2021-12-18] fix: handle null values in OMOP CDM transformer
