@@ -75,3 +75,4 @@
 - [2021-12-17] fix: handle null values in OMOP CDM transformer
 - [2021-12-18] fix: handle null values in OMOP CDM transformer
 - [2021-12-19] fix: correct survival analysis time window calculation
+- [2021-12-19] fix: correct ICD-10 to SNOMED mapping for edge cases
