@@ -78,3 +78,4 @@
 - [2021-12-19] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-12-21] fix: resolve memory leak in PySpark feature job
 - [2021-12-22] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-12-23] fix: negation detection edge case in NER pipeline
