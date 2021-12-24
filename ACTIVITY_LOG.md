@@ -80,3 +80,4 @@
 - [2021-12-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-12-23] fix: negation detection edge case in NER pipeline
 - [2021-12-23] fix: negation detection edge case in NER pipeline
+- [2021-12-24] fix: negation detection edge case in NER pipeline
