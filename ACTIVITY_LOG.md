@@ -83,3 +83,4 @@
 - [2021-12-24] fix: negation detection edge case in NER pipeline
 - [2021-12-24] refactor: modularize EHR data standardization logic
 - [2021-12-28] refactor: improve ICU risk model preprocessing
+- [2021-12-30] refactor: modularize EHR data standardization logic
