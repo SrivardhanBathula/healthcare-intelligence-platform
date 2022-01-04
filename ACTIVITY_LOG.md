@@ -87,3 +87,4 @@
 - [2021-12-30] test: add unit tests for OMOP transformer
 - [2021-12-31] feat: add Prometheus metrics for pipeline monitoring
 - [2022-01-03] fix: negation detection edge case in NER pipeline
+- [2022-01-04] test: add unit tests for OMOP transformer
