@@ -84,3 +84,4 @@
 - [2021-12-27] test: add unit tests for OMOP transformer
 - [2022-01-01] refactor: modularize EHR data standardization logic
 - [2022-01-01] test: add unit tests for OMOP transformer
+- [2022-01-04] docs: add HIPAA compliance notes to data pipeline
