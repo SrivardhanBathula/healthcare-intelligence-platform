@@ -89,3 +89,4 @@
 - [2022-01-03] fix: negation detection edge case in NER pipeline
 - [2022-01-04] test: add unit tests for OMOP transformer
 - [2022-01-05] fix: correct survival analysis time window calculation
+- [2022-01-05] fix: correct survival analysis time window calculation
