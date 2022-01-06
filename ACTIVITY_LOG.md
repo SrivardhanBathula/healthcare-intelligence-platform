@@ -87,3 +87,4 @@
 - [2022-01-04] docs: add HIPAA compliance notes to data pipeline
 - [2022-01-04] fix: handle missing lab values in ICU risk model
 - [2022-01-05] test: add unit tests for OMOP transformer
+- [2022-01-06] chore: upgrade scikit-learn to latest stable
