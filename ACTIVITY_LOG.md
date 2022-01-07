@@ -91,3 +91,4 @@
 - [2022-01-05] fix: correct survival analysis time window calculation
 - [2022-01-05] fix: correct survival analysis time window calculation
 - [2022-01-06] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-01-07] fix: correct survival analysis time window calculation
