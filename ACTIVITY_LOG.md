@@ -93,3 +93,4 @@
 - [2022-01-06] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-01-07] fix: correct survival analysis time window calculation
 - [2022-01-08] test: add integration tests for clinical NER pipeline
+- [2022-01-11] feat: add Prometheus metrics for pipeline monitoring
