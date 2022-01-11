@@ -89,3 +89,4 @@
 - [2022-01-05] test: add unit tests for OMOP transformer
 - [2022-01-06] chore: upgrade scikit-learn to latest stable
 - [2022-01-07] fix: negation detection edge case in NER pipeline
+- [2022-01-11] fix: correct survival analysis time window calculation
