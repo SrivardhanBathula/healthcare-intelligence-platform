@@ -91,3 +91,4 @@
 - [2022-01-07] fix: negation detection edge case in NER pipeline
 - [2022-01-11] fix: correct survival analysis time window calculation
 - [2022-01-12] test: add integration tests for clinical NER pipeline
+- [2022-01-12] chore: upgrade scikit-learn to latest stable
