@@ -92,3 +92,4 @@
 - [2022-01-11] fix: correct survival analysis time window calculation
 - [2022-01-12] test: add integration tests for clinical NER pipeline
 - [2022-01-12] chore: upgrade scikit-learn to latest stable
+- [2022-01-13] refactor: improve temporal feature extraction efficiency
