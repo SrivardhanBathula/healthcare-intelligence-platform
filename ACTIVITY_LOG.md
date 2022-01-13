@@ -95,3 +95,4 @@
 - [2022-01-08] test: add integration tests for clinical NER pipeline
 - [2022-01-11] feat: add Prometheus metrics for pipeline monitoring
 - [2022-01-13] refactor: optimize EHR ingestion pipeline performance
+- [2022-01-13] fix: correct ICD-10 to SNOMED mapping for edge cases
