@@ -94,3 +94,4 @@
 - [2022-01-07] fix: correct survival analysis time window calculation
 - [2022-01-08] test: add integration tests for clinical NER pipeline
 - [2022-01-11] feat: add Prometheus metrics for pipeline monitoring
+- [2022-01-13] refactor: optimize EHR ingestion pipeline performance
