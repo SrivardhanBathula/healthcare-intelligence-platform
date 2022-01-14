@@ -94,3 +94,4 @@
 - [2022-01-12] chore: upgrade scikit-learn to latest stable
 - [2022-01-13] refactor: improve temporal feature extraction efficiency
 - [2022-01-14] refactor: optimize EHR ingestion pipeline performance
+- [2022-01-14] fix: correct ICD-10 to SNOMED mapping for edge cases
