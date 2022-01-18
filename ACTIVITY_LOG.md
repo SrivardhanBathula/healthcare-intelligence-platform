@@ -96,3 +96,4 @@
 - [2022-01-14] refactor: optimize EHR ingestion pipeline performance
 - [2022-01-14] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-01-18] chore: upgrade scikit-learn to latest stable
+- [2022-01-18] chore: update SNOMED CT vocabulary mappings
