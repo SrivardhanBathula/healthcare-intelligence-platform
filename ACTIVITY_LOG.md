@@ -100,3 +100,4 @@
 - [2022-01-17] chore: update SNOMED CT vocabulary mappings
 - [2022-01-19] chore: upgrade scikit-learn to latest stable
 - [2022-01-20] docs: update clinical NLP pipeline documentation
+- [2022-01-21] refactor: improve ICU risk model preprocessing
