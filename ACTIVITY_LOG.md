@@ -102,3 +102,4 @@
 - [2022-01-20] docs: update clinical NLP pipeline documentation
 - [2022-01-21] refactor: improve ICU risk model preprocessing
 - [2022-01-24] docs: update clinical NLP pipeline documentation
+- [2022-01-25] chore: upgrade scikit-learn to latest stable
