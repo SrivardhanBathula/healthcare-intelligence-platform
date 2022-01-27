@@ -104,3 +104,4 @@
 - [2022-01-24] docs: update clinical NLP pipeline documentation
 - [2022-01-25] chore: upgrade scikit-learn to latest stable
 - [2022-01-26] chore: clean up unused imports and dead code
+- [2022-01-27] feat: add ICD-10 code validation layer
