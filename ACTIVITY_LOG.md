@@ -99,3 +99,4 @@
 - [2022-01-18] chore: update SNOMED CT vocabulary mappings
 - [2022-01-20] chore: upgrade scikit-learn to latest stable
 - [2022-01-21] docs: update clinical NLP pipeline documentation
+- [2022-01-27] refactor: optimize ClinicalBERT batch inference
