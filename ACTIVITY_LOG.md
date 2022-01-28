@@ -100,3 +100,4 @@
 - [2022-01-20] chore: upgrade scikit-learn to latest stable
 - [2022-01-21] docs: update clinical NLP pipeline documentation
 - [2022-01-27] refactor: optimize ClinicalBERT batch inference
+- [2022-01-28] test: add integration tests for clinical NER pipeline
