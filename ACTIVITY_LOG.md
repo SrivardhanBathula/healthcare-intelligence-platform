@@ -106,3 +106,4 @@
 - [2022-01-26] chore: clean up unused imports and dead code
 - [2022-01-27] feat: add ICD-10 code validation layer
 - [2022-01-28] chore: upgrade scikit-learn to latest stable
+- [2022-01-29] refactor: optimize ClinicalBERT batch inference
