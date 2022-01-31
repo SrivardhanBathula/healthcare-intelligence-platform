@@ -108,3 +108,4 @@
 - [2022-01-28] chore: upgrade scikit-learn to latest stable
 - [2022-01-29] refactor: optimize ClinicalBERT batch inference
 - [2022-01-31] docs: add HIPAA compliance notes to data pipeline
+- [2022-01-31] feat: add ICD-10 code validation layer
