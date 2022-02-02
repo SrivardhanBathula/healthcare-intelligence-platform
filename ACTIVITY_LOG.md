@@ -102,3 +102,4 @@
 - [2022-01-27] refactor: optimize ClinicalBERT batch inference
 - [2022-01-28] test: add integration tests for clinical NER pipeline
 - [2022-01-31] refactor: improve ICU risk model preprocessing
+- [2022-02-02] chore: upgrade scikit-learn to latest stable
