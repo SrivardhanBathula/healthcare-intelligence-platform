@@ -104,3 +104,4 @@
 - [2022-01-31] refactor: improve ICU risk model preprocessing
 - [2022-02-02] chore: upgrade scikit-learn to latest stable
 - [2022-02-03] refactor: optimize ClinicalBERT batch inference
+- [2022-02-03] fix: resolve memory leak in PySpark feature job
