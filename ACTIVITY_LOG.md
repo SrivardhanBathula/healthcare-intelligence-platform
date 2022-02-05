@@ -107,3 +107,4 @@
 - [2022-02-03] fix: resolve memory leak in PySpark feature job
 - [2022-02-04] feat: add ICD-10 code validation layer
 - [2022-02-04] refactor: improve temporal feature extraction efficiency
+- [2022-02-05] feat: add Prometheus metrics for pipeline monitoring
