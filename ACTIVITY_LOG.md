@@ -111,3 +111,4 @@
 - [2022-01-31] feat: add ICD-10 code validation layer
 - [2022-02-01] feat: add Prometheus metrics for pipeline monitoring
 - [2022-02-02] refactor: optimize EHR ingestion pipeline performance
+- [2022-02-07] fix: handle missing lab values in ICU risk model
