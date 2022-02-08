@@ -109,3 +109,4 @@
 - [2022-02-04] refactor: improve temporal feature extraction efficiency
 - [2022-02-05] feat: add Prometheus metrics for pipeline monitoring
 - [2022-02-08] chore: update SNOMED CT vocabulary mappings
+- [2022-02-08] refactor: improve ICU risk model preprocessing
