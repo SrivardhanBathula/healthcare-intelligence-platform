@@ -115,3 +115,4 @@
 - [2022-02-08] chore: update SNOMED CT vocabulary mappings
 - [2022-02-08] fix: handle missing lab values in ICU risk model
 - [2022-02-11] test: add integration tests for clinical NER pipeline
+- [2022-02-14] refactor: improve ICU risk model preprocessing
