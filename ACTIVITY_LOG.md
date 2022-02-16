@@ -111,3 +111,4 @@
 - [2022-02-08] chore: update SNOMED CT vocabulary mappings
 - [2022-02-08] refactor: improve ICU risk model preprocessing
 - [2022-02-11] chore: update SNOMED CT vocabulary mappings
+- [2022-02-16] test: add integration tests for clinical NER pipeline
