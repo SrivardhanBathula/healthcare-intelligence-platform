@@ -118,3 +118,4 @@
 - [2022-02-14] refactor: improve ICU risk model preprocessing
 - [2022-02-16] fix: correct survival analysis time window calculation
 - [2022-02-18] fix: handle missing lab values in ICU risk model
+- [2022-02-19] chore: upgrade scikit-learn to latest stable
