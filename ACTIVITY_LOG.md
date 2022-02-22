@@ -113,3 +113,4 @@
 - [2022-02-11] chore: update SNOMED CT vocabulary mappings
 - [2022-02-16] test: add integration tests for clinical NER pipeline
 - [2022-02-21] docs: add HIPAA compliance notes to data pipeline
+- [2022-02-22] fix: correct survival analysis time window calculation
