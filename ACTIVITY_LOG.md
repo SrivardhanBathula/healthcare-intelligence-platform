@@ -121,3 +121,4 @@
 - [2022-02-19] chore: upgrade scikit-learn to latest stable
 - [2022-02-21] feat: add Prometheus metrics for pipeline monitoring
 - [2022-02-24] fix: handle missing lab values in ICU risk model
+- [2022-02-24] refactor: modularize EHR data standardization logic
