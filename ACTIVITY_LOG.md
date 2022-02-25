@@ -116,3 +116,4 @@
 - [2022-02-22] fix: correct survival analysis time window calculation
 - [2022-02-24] fix: handle missing lab values in ICU risk model
 - [2022-02-25] chore: upgrade scikit-learn to latest stable
+- [2022-02-25] feat: add ICD-10 code validation layer
