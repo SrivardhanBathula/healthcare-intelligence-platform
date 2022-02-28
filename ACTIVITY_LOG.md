@@ -118,3 +118,4 @@
 - [2022-02-25] chore: upgrade scikit-learn to latest stable
 - [2022-02-25] feat: add ICD-10 code validation layer
 - [2022-02-26] fix: resolve memory leak in PySpark feature job
+- [2022-02-28] fix: handle missing lab values in ICU risk model
