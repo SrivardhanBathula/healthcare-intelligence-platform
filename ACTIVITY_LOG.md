@@ -119,3 +119,4 @@
 - [2022-02-25] feat: add ICD-10 code validation layer
 - [2022-02-26] fix: resolve memory leak in PySpark feature job
 - [2022-02-28] fix: handle missing lab values in ICU risk model
+- [2022-02-28] refactor: modularize EHR data standardization logic
