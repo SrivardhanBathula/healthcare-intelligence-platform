@@ -123,3 +123,4 @@
 - [2022-03-01] refactor: optimize EHR ingestion pipeline performance
 - [2022-03-04] feat: add Prometheus metrics for pipeline monitoring
 - [2022-03-07] test: add integration tests for clinical NER pipeline
+- [2022-03-09] refactor: optimize EHR ingestion pipeline performance
