@@ -127,3 +127,4 @@
 - [2022-03-10] feat: add Prometheus metrics for pipeline monitoring
 - [2022-03-15] refactor: optimize EHR ingestion pipeline performance
 - [2022-03-16] fix: handle missing lab values in ICU risk model
+- [2022-03-16] feat: add Prometheus metrics for pipeline monitoring
