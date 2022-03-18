@@ -129,3 +129,4 @@
 - [2022-03-16] fix: handle missing lab values in ICU risk model
 - [2022-03-16] feat: add Prometheus metrics for pipeline monitoring
 - [2022-03-17] feat: add Prometheus metrics for pipeline monitoring
+- [2022-03-18] feat: add ICD-10 code validation layer
