@@ -132,3 +132,4 @@
 - [2022-03-18] feat: add ICD-10 code validation layer
 - [2022-03-21] feat: add ICD-10 code validation layer
 - [2022-03-21] refactor: optimize EHR ingestion pipeline performance
+- [2022-03-23] test: add unit tests for OMOP transformer
