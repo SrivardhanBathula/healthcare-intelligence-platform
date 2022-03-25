@@ -132,3 +132,4 @@
 - [2022-03-16] fix: correct survival analysis time window calculation
 - [2022-03-20] fix: handle null values in OMOP CDM transformer
 - [2022-03-22] fix: handle null values in OMOP CDM transformer
+- [2022-03-25] test: add unit tests for OMOP transformer
