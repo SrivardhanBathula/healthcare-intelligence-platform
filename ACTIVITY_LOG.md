@@ -133,3 +133,4 @@
 - [2022-03-20] fix: handle null values in OMOP CDM transformer
 - [2022-03-22] fix: handle null values in OMOP CDM transformer
 - [2022-03-25] test: add unit tests for OMOP transformer
+- [2022-03-25] chore: update SNOMED CT vocabulary mappings
