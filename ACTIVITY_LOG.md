@@ -137,3 +137,4 @@
 - [2022-03-24] fix: correct survival analysis time window calculation
 - [2022-03-26] chore: update SNOMED CT vocabulary mappings
 - [2022-03-28] refactor: optimize EHR ingestion pipeline performance
+- [2022-03-28] feat: add Prometheus metrics for pipeline monitoring
