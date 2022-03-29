@@ -138,3 +138,4 @@
 - [2022-03-26] chore: update SNOMED CT vocabulary mappings
 - [2022-03-28] refactor: optimize EHR ingestion pipeline performance
 - [2022-03-28] feat: add Prometheus metrics for pipeline monitoring
+- [2022-03-29] refactor: improve temporal feature extraction efficiency
