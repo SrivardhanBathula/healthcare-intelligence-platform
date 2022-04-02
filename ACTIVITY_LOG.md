@@ -138,3 +138,4 @@
 - [2022-03-30] refactor: optimize ClinicalBERT batch inference
 - [2022-03-31] refactor: improve temporal feature extraction efficiency
 - [2022-03-31] feat: add Prometheus metrics for pipeline monitoring
+- [2022-04-02] test: add unit tests for OMOP transformer
