@@ -141,3 +141,4 @@
 - [2022-03-29] refactor: improve temporal feature extraction efficiency
 - [2022-04-01] test: add integration tests for clinical NER pipeline
 - [2022-04-01] refactor: improve temporal feature extraction efficiency
+- [2022-04-04] chore: upgrade scikit-learn to latest stable
