@@ -140,3 +140,4 @@
 - [2022-03-31] feat: add Prometheus metrics for pipeline monitoring
 - [2022-04-02] test: add unit tests for OMOP transformer
 - [2022-04-03] test: add integration tests for clinical NER pipeline
+- [2022-04-06] refactor: modularize EHR data standardization logic
