@@ -144,3 +144,4 @@
 - [2022-04-04] chore: upgrade scikit-learn to latest stable
 - [2022-04-05] chore: update SNOMED CT vocabulary mappings
 - [2022-04-05] fix: handle missing lab values in ICU risk model
+- [2022-04-07] fix: correct survival analysis time window calculation
