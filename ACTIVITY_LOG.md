@@ -141,3 +141,4 @@
 - [2022-04-02] test: add unit tests for OMOP transformer
 - [2022-04-03] test: add integration tests for clinical NER pipeline
 - [2022-04-06] refactor: modularize EHR data standardization logic
+- [2022-04-08] refactor: modularize EHR data standardization logic
