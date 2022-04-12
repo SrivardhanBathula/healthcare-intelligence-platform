@@ -146,3 +146,4 @@
 - [2022-04-05] fix: handle missing lab values in ICU risk model
 - [2022-04-07] fix: correct survival analysis time window calculation
 - [2022-04-11] fix: correct survival analysis time window calculation
+- [2022-04-12] feat: add ICD-10 code validation layer
