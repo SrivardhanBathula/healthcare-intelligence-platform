@@ -144,3 +144,4 @@
 - [2022-04-08] refactor: modularize EHR data standardization logic
 - [2022-04-08] refactor: modularize EHR data standardization logic
 - [2022-04-13] fix: correct survival analysis time window calculation
+- [2022-04-14] fix: handle missing lab values in ICU risk model
