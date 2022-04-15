@@ -149,3 +149,4 @@
 - [2022-04-12] feat: add ICD-10 code validation layer
 - [2022-04-13] fix: handle missing lab values in ICU risk model
 - [2022-04-14] refactor: optimize EHR ingestion pipeline performance
+- [2022-04-15] docs: update clinical NLP pipeline documentation
