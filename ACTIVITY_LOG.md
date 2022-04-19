@@ -148,3 +148,4 @@
 - [2022-04-15] chore: upgrade scikit-learn to latest stable
 - [2022-04-18] fix: handle missing lab values in ICU risk model
 - [2022-04-18] feat: add Prometheus metrics for pipeline monitoring
+- [2022-04-19] refactor: improve ICU risk model preprocessing
