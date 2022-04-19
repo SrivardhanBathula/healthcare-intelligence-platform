@@ -151,3 +151,4 @@
 - [2022-04-14] refactor: optimize EHR ingestion pipeline performance
 - [2022-04-15] docs: update clinical NLP pipeline documentation
 - [2022-04-18] fix: correct survival analysis time window calculation
+- [2022-04-19] test: add unit tests for OMOP transformer
