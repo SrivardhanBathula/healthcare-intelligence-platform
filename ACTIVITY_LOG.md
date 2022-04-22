@@ -151,3 +151,4 @@
 - [2022-04-19] refactor: improve ICU risk model preprocessing
 - [2022-04-20] chore: upgrade scikit-learn to latest stable
 - [2022-04-21] fix: correct survival analysis time window calculation
+- [2022-04-22] test: add unit tests for OMOP transformer
