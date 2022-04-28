@@ -157,3 +157,4 @@
 - [2022-04-25] fix: negation detection edge case in NER pipeline
 - [2022-04-26] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-04-27] refactor: optimize ClinicalBERT batch inference
+- [2022-04-28] chore: upgrade scikit-learn to latest stable
