@@ -153,3 +153,4 @@
 - [2022-04-21] fix: correct survival analysis time window calculation
 - [2022-04-22] test: add unit tests for OMOP transformer
 - [2022-04-28] refactor: optimize ClinicalBERT batch inference
+- [2022-04-29] refactor: improve temporal feature extraction efficiency
