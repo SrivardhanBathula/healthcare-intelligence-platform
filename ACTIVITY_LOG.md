@@ -160,3 +160,4 @@
 - [2022-04-28] chore: upgrade scikit-learn to latest stable
 - [2022-04-29] refactor: improve ICU risk model preprocessing
 - [2022-04-29] docs: add HIPAA compliance notes to data pipeline
+- [2022-05-03] refactor: optimize ClinicalBERT batch inference
