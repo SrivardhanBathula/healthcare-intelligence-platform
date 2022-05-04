@@ -161,3 +161,4 @@
 - [2022-04-29] refactor: improve ICU risk model preprocessing
 - [2022-04-29] docs: add HIPAA compliance notes to data pipeline
 - [2022-05-03] refactor: optimize ClinicalBERT batch inference
+- [2022-05-04] fix: correct ICD-10 to SNOMED mapping for edge cases
