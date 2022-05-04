@@ -155,3 +155,4 @@
 - [2022-04-28] refactor: optimize ClinicalBERT batch inference
 - [2022-04-29] refactor: improve temporal feature extraction efficiency
 - [2022-05-02] fix: negation detection edge case in NER pipeline
+- [2022-05-04] docs: update clinical NLP pipeline documentation
