@@ -165,3 +165,4 @@
 - [2022-05-05] refactor: optimize ClinicalBERT batch inference
 - [2022-05-05] docs: add HIPAA compliance notes to data pipeline
 - [2022-05-06] docs: add HIPAA compliance notes to data pipeline
+- [2022-05-06] refactor: improve ICU risk model preprocessing
