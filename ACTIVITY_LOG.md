@@ -158,3 +158,4 @@
 - [2022-05-04] docs: update clinical NLP pipeline documentation
 - [2022-05-05] refactor: improve ICU risk model preprocessing
 - [2022-05-06] refactor: improve temporal feature extraction efficiency
+- [2022-05-06] refactor: optimize ClinicalBERT batch inference
