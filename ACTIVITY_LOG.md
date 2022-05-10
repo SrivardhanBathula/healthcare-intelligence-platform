@@ -167,3 +167,4 @@
 - [2022-05-06] docs: add HIPAA compliance notes to data pipeline
 - [2022-05-06] refactor: improve ICU risk model preprocessing
 - [2022-05-10] feat: add ICD-10 code validation layer
+- [2022-05-10] fix: handle null values in OMOP CDM transformer
