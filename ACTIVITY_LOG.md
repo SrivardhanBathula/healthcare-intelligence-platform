@@ -164,3 +164,4 @@
 - [2022-05-11] docs: add HIPAA compliance notes to data pipeline
 - [2022-05-12] docs: add HIPAA compliance notes to data pipeline
 - [2022-05-12] refactor: improve ICU risk model preprocessing
+- [2022-05-16] feat: add ICD-10 code validation layer
