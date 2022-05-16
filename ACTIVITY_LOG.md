@@ -170,3 +170,4 @@
 - [2022-05-10] fix: handle null values in OMOP CDM transformer
 - [2022-05-11] feat: add ICD-10 code validation layer
 - [2022-05-11] refactor: modularize EHR data standardization logic
+- [2022-05-16] refactor: improve temporal feature extraction efficiency
