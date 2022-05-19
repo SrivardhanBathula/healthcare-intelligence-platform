@@ -169,3 +169,4 @@
 - [2022-05-17] feat: add ICD-10 code validation layer
 - [2022-05-17] refactor: modularize EHR data standardization logic
 - [2022-05-18] chore: clean up unused imports and dead code
+- [2022-05-19] refactor: improve temporal feature extraction efficiency
