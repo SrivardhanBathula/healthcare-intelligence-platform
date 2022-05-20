@@ -172,3 +172,4 @@
 - [2022-05-11] refactor: modularize EHR data standardization logic
 - [2022-05-16] refactor: improve temporal feature extraction efficiency
 - [2022-05-18] chore: update SNOMED CT vocabulary mappings
+- [2022-05-20] feat: add ICD-10 code validation layer
