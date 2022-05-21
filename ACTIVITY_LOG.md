@@ -174,3 +174,4 @@
 - [2022-05-18] chore: update SNOMED CT vocabulary mappings
 - [2022-05-20] feat: add ICD-10 code validation layer
 - [2022-05-20] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-05-21] test: add integration tests for clinical NER pipeline
