@@ -176,3 +176,4 @@
 - [2022-05-20] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-05-21] test: add integration tests for clinical NER pipeline
 - [2022-05-23] fix: handle missing lab values in ICU risk model
+- [2022-05-23] fix: correct survival analysis time window calculation
