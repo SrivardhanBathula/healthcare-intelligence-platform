@@ -171,3 +171,4 @@
 - [2022-05-18] chore: clean up unused imports and dead code
 - [2022-05-19] refactor: improve temporal feature extraction efficiency
 - [2022-05-23] docs: update clinical NLP pipeline documentation
+- [2022-05-25] refactor: improve ICU risk model preprocessing
