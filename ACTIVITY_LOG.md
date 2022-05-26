@@ -172,3 +172,4 @@
 - [2022-05-19] refactor: improve temporal feature extraction efficiency
 - [2022-05-23] docs: update clinical NLP pipeline documentation
 - [2022-05-25] refactor: improve ICU risk model preprocessing
+- [2022-05-26] fix: handle missing lab values in ICU risk model
