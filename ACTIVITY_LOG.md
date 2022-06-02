@@ -177,3 +177,4 @@
 - [2022-05-21] test: add integration tests for clinical NER pipeline
 - [2022-05-23] fix: handle missing lab values in ICU risk model
 - [2022-05-23] fix: correct survival analysis time window calculation
+- [2022-06-02] test: add integration tests for clinical NER pipeline
