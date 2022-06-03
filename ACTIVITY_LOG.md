@@ -179,3 +179,4 @@
 - [2022-05-23] fix: correct survival analysis time window calculation
 - [2022-06-02] test: add integration tests for clinical NER pipeline
 - [2022-06-02] refactor: optimize ClinicalBERT batch inference
+- [2022-06-03] feat: add Prometheus metrics for pipeline monitoring
