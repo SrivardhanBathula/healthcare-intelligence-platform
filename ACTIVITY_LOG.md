@@ -177,3 +177,4 @@
 - [2022-05-29] fix: correct survival analysis time window calculation
 - [2022-06-03] fix: resolve memory leak in PySpark feature job
 - [2022-06-06] test: add integration tests for clinical NER pipeline
+- [2022-06-06] refactor: optimize ClinicalBERT batch inference
