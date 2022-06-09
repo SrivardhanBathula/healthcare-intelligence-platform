@@ -179,3 +179,4 @@
 - [2022-06-06] test: add integration tests for clinical NER pipeline
 - [2022-06-06] refactor: optimize ClinicalBERT batch inference
 - [2022-06-07] feat: add Prometheus metrics for pipeline monitoring
+- [2022-06-09] test: add integration tests for clinical NER pipeline
