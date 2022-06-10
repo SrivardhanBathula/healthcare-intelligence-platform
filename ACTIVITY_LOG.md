@@ -183,3 +183,4 @@
 - [2022-06-06] refactor: modularize EHR data standardization logic
 - [2022-06-09] refactor: improve temporal feature extraction efficiency
 - [2022-06-09] fix: correct survival analysis time window calculation
+- [2022-06-10] docs: add HIPAA compliance notes to data pipeline
