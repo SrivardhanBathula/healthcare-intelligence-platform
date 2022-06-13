@@ -182,3 +182,4 @@
 - [2022-06-09] test: add integration tests for clinical NER pipeline
 - [2022-06-10] test: add integration tests for clinical NER pipeline
 - [2022-06-10] test: add unit tests for OMOP transformer
+- [2022-06-13] fix: correct survival analysis time window calculation
