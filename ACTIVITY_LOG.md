@@ -184,3 +184,4 @@
 - [2022-06-10] test: add unit tests for OMOP transformer
 - [2022-06-13] fix: correct survival analysis time window calculation
 - [2022-06-14] docs: add HIPAA compliance notes to data pipeline
+- [2022-06-15] refactor: improve ICU risk model preprocessing
