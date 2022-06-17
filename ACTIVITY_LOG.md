@@ -185,3 +185,4 @@
 - [2022-06-13] fix: correct survival analysis time window calculation
 - [2022-06-14] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-15] refactor: improve ICU risk model preprocessing
+- [2022-06-17] docs: add HIPAA compliance notes to data pipeline
