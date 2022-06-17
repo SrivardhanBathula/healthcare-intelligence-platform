@@ -186,3 +186,4 @@
 - [2022-06-10] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-13] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-15] chore: update SNOMED CT vocabulary mappings
+- [2022-06-17] feat: add Prometheus metrics for pipeline monitoring
