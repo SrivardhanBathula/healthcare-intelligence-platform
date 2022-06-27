@@ -190,3 +190,4 @@
 - [2022-06-20] chore: update SNOMED CT vocabulary mappings
 - [2022-06-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-06-23] fix: negation detection edge case in NER pipeline
+- [2022-06-27] refactor: optimize ClinicalBERT batch inference
