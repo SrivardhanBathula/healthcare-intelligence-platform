@@ -188,3 +188,4 @@
 - [2022-06-17] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-22] feat: add Prometheus metrics for pipeline monitoring
 - [2022-06-24] fix: correct survival analysis time window calculation
+- [2022-06-27] fix: correct ICD-10 to SNOMED mapping for edge cases
