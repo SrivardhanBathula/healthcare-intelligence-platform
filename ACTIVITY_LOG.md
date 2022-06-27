@@ -191,3 +191,4 @@
 - [2022-06-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-06-23] fix: negation detection edge case in NER pipeline
 - [2022-06-27] refactor: optimize ClinicalBERT batch inference
+- [2022-06-27] docs: add HIPAA compliance notes to data pipeline
