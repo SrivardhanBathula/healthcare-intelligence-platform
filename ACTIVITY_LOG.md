@@ -192,3 +192,4 @@
 - [2022-06-23] fix: negation detection edge case in NER pipeline
 - [2022-06-27] refactor: optimize ClinicalBERT batch inference
 - [2022-06-27] docs: add HIPAA compliance notes to data pipeline
+- [2022-06-28] test: add unit tests for OMOP transformer
