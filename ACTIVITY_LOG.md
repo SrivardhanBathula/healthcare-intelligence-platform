@@ -194,3 +194,4 @@
 - [2022-06-27] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-28] test: add unit tests for OMOP transformer
 - [2022-06-28] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-06-29] chore: update SNOMED CT vocabulary mappings
