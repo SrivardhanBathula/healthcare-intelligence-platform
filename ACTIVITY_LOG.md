@@ -195,3 +195,4 @@
 - [2022-06-28] test: add unit tests for OMOP transformer
 - [2022-06-28] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-06-29] chore: update SNOMED CT vocabulary mappings
+- [2022-06-29] fix: resolve memory leak in PySpark feature job
