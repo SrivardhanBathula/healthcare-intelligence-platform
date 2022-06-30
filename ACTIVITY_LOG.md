@@ -190,3 +190,4 @@
 - [2022-06-24] fix: correct survival analysis time window calculation
 - [2022-06-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-06-28] fix: negation detection edge case in NER pipeline
+- [2022-06-30] docs: update clinical NLP pipeline documentation
