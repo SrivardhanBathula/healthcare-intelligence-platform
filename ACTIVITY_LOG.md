@@ -192,3 +192,4 @@
 - [2022-06-28] fix: negation detection edge case in NER pipeline
 - [2022-06-30] docs: update clinical NLP pipeline documentation
 - [2022-07-01] fix: handle missing lab values in ICU risk model
+- [2022-07-04] test: add unit tests for OMOP transformer
