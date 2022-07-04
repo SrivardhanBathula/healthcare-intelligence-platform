@@ -193,3 +193,4 @@
 - [2022-06-30] docs: update clinical NLP pipeline documentation
 - [2022-07-01] fix: handle missing lab values in ICU risk model
 - [2022-07-04] test: add unit tests for OMOP transformer
+- [2022-07-04] fix: correct ICD-10 to SNOMED mapping for edge cases
