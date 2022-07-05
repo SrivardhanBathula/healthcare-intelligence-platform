@@ -194,3 +194,4 @@
 - [2022-07-01] fix: handle missing lab values in ICU risk model
 - [2022-07-04] test: add unit tests for OMOP transformer
 - [2022-07-04] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-07-05] chore: update SNOMED CT vocabulary mappings
