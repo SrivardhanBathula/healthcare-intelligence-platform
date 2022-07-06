@@ -196,3 +196,4 @@
 - [2022-07-04] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-07-05] chore: update SNOMED CT vocabulary mappings
 - [2022-07-05] fix: resolve memory leak in PySpark feature job
+- [2022-07-06] fix: correct survival analysis time window calculation
