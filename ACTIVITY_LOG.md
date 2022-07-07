@@ -197,3 +197,4 @@
 - [2022-07-05] chore: update SNOMED CT vocabulary mappings
 - [2022-07-05] fix: resolve memory leak in PySpark feature job
 - [2022-07-06] fix: correct survival analysis time window calculation
+- [2022-07-07] fix: handle missing lab values in ICU risk model
