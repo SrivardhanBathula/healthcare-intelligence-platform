@@ -198,3 +198,4 @@
 - [2022-07-05] fix: resolve memory leak in PySpark feature job
 - [2022-07-06] fix: correct survival analysis time window calculation
 - [2022-07-07] fix: handle missing lab values in ICU risk model
+- [2022-07-08] test: add integration tests for clinical NER pipeline
