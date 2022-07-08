@@ -199,3 +199,4 @@
 - [2022-06-30] fix: correct survival analysis time window calculation
 - [2022-07-01] fix: handle missing lab values in ICU risk model
 - [2022-07-05] fix: correct survival analysis time window calculation
+- [2022-07-08] refactor: optimize EHR ingestion pipeline performance
