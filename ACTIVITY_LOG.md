@@ -202,3 +202,4 @@
 - [2022-07-08] refactor: optimize EHR ingestion pipeline performance
 - [2022-07-11] fix: resolve memory leak in PySpark feature job
 - [2022-07-12] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-07-14] test: add unit tests for OMOP transformer
