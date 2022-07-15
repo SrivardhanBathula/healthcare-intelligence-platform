@@ -203,3 +203,4 @@
 - [2022-07-11] fix: resolve memory leak in PySpark feature job
 - [2022-07-12] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-07-14] test: add unit tests for OMOP transformer
+- [2022-07-15] refactor: modularize EHR data standardization logic
