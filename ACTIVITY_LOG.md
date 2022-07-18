@@ -206,3 +206,4 @@
 - [2022-07-15] refactor: modularize EHR data standardization logic
 - [2022-07-16] feat: add Prometheus metrics for pipeline monitoring
 - [2022-07-16] fix: resolve memory leak in PySpark feature job
+- [2022-07-18] chore: update SNOMED CT vocabulary mappings
