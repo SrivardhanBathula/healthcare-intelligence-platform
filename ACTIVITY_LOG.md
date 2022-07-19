@@ -201,3 +201,4 @@
 - [2022-07-08] test: add integration tests for clinical NER pipeline
 - [2022-07-12] chore: upgrade scikit-learn to latest stable
 - [2022-07-14] refactor: optimize ClinicalBERT batch inference
+- [2022-07-19] fix: correct ICD-10 to SNOMED mapping for edge cases
