@@ -208,3 +208,4 @@
 - [2022-07-16] fix: resolve memory leak in PySpark feature job
 - [2022-07-18] chore: update SNOMED CT vocabulary mappings
 - [2022-07-18] chore: update SNOMED CT vocabulary mappings
+- [2022-07-19] fix: resolve memory leak in PySpark feature job
