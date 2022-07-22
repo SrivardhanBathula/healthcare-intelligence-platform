@@ -203,3 +203,4 @@
 - [2022-07-14] refactor: optimize ClinicalBERT batch inference
 - [2022-07-19] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-07-21] test: add unit tests for OMOP transformer
+- [2022-07-22] refactor: modularize EHR data standardization logic
