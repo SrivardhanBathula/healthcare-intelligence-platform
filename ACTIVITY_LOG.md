@@ -210,3 +210,4 @@
 - [2022-07-18] chore: update SNOMED CT vocabulary mappings
 - [2022-07-19] fix: resolve memory leak in PySpark feature job
 - [2022-07-20] docs: add HIPAA compliance notes to data pipeline
+- [2022-07-22] feat: add ICD-10 code validation layer
