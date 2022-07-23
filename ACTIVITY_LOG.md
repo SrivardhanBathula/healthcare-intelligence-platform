@@ -205,3 +205,4 @@
 - [2022-07-21] test: add unit tests for OMOP transformer
 - [2022-07-22] refactor: modularize EHR data standardization logic
 - [2022-07-23] feat: add Prometheus metrics for pipeline monitoring
+- [2022-07-23] fix: resolve memory leak in PySpark feature job
