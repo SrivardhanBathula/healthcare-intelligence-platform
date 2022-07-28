@@ -213,3 +213,4 @@
 - [2022-07-22] feat: add ICD-10 code validation layer
 - [2022-07-26] docs: add HIPAA compliance notes to data pipeline
 - [2022-07-28] refactor: optimize ClinicalBERT batch inference
+- [2022-07-28] refactor: modularize EHR data standardization logic
