@@ -214,3 +214,4 @@
 - [2022-07-26] docs: add HIPAA compliance notes to data pipeline
 - [2022-07-28] refactor: optimize ClinicalBERT batch inference
 - [2022-07-28] refactor: modularize EHR data standardization logic
+- [2022-08-01] refactor: optimize EHR ingestion pipeline performance
