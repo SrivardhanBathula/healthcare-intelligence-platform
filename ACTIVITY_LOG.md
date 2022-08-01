@@ -215,3 +215,4 @@
 - [2022-07-28] refactor: optimize ClinicalBERT batch inference
 - [2022-07-28] refactor: modularize EHR data standardization logic
 - [2022-08-01] refactor: optimize EHR ingestion pipeline performance
+- [2022-08-01] fix: handle null values in OMOP CDM transformer
