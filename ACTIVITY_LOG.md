@@ -217,3 +217,4 @@
 - [2022-08-01] refactor: optimize EHR ingestion pipeline performance
 - [2022-08-01] fix: handle null values in OMOP CDM transformer
 - [2022-08-02] test: add unit tests for OMOP transformer
+- [2022-08-03] refactor: improve ICU risk model preprocessing
