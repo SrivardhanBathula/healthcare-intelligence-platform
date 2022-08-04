@@ -218,3 +218,4 @@
 - [2022-08-01] fix: handle null values in OMOP CDM transformer
 - [2022-08-02] test: add unit tests for OMOP transformer
 - [2022-08-03] refactor: improve ICU risk model preprocessing
+- [2022-08-04] feat: add Prometheus metrics for pipeline monitoring
