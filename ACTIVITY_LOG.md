@@ -221,3 +221,4 @@
 - [2022-08-04] feat: add Prometheus metrics for pipeline monitoring
 - [2022-08-04] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-06] fix: handle missing lab values in ICU risk model
+- [2022-08-08] refactor: optimize ClinicalBERT batch inference
