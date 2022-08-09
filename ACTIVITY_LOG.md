@@ -223,3 +223,4 @@
 - [2022-08-06] fix: handle missing lab values in ICU risk model
 - [2022-08-08] refactor: optimize ClinicalBERT batch inference
 - [2022-08-08] feat: add ICD-10 code validation layer
+- [2022-08-09] refactor: modularize EHR data standardization logic
