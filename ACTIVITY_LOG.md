@@ -219,3 +219,4 @@
 - [2022-08-09] test: add unit tests for OMOP transformer
 - [2022-08-10] refactor: improve ICU risk model preprocessing
 - [2022-08-11] feat: add Prometheus metrics for pipeline monitoring
+- [2022-08-11] docs: add HIPAA compliance notes to data pipeline
