@@ -226,3 +226,4 @@
 - [2022-08-09] refactor: modularize EHR data standardization logic
 - [2022-08-11] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-12] refactor: improve temporal feature extraction efficiency
+- [2022-08-12] refactor: optimize EHR ingestion pipeline performance
