@@ -222,3 +222,4 @@
 - [2022-08-11] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-13] fix: handle missing lab values in ICU risk model
 - [2022-08-15] refactor: optimize ClinicalBERT batch inference
+- [2022-08-15] feat: add ICD-10 code validation layer
