@@ -227,3 +227,4 @@
 - [2022-08-18] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-19] refactor: improve temporal feature extraction efficiency
 - [2022-08-19] refactor: optimize EHR ingestion pipeline performance
+- [2022-08-22] fix: handle null values in OMOP CDM transformer
