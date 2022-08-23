@@ -228,3 +228,4 @@
 - [2022-08-12] refactor: improve temporal feature extraction efficiency
 - [2022-08-12] refactor: optimize EHR ingestion pipeline performance
 - [2022-08-15] fix: handle null values in OMOP CDM transformer
+- [2022-08-23] fix: resolve memory leak in PySpark feature job
