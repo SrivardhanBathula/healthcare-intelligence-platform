@@ -230,3 +230,4 @@
 - [2022-08-15] fix: handle null values in OMOP CDM transformer
 - [2022-08-23] fix: resolve memory leak in PySpark feature job
 - [2022-08-29] refactor: optimize ClinicalBERT batch inference
+- [2022-08-30] fix: resolve memory leak in PySpark feature job
