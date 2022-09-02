@@ -231,3 +231,4 @@
 - [2022-08-23] fix: resolve memory leak in PySpark feature job
 - [2022-08-29] refactor: optimize ClinicalBERT batch inference
 - [2022-08-30] fix: resolve memory leak in PySpark feature job
+- [2022-09-02] refactor: improve ICU risk model preprocessing
