@@ -229,3 +229,4 @@
 - [2022-08-19] refactor: optimize EHR ingestion pipeline performance
 - [2022-08-22] fix: handle null values in OMOP CDM transformer
 - [2022-08-30] fix: resolve memory leak in PySpark feature job
+- [2022-09-05] refactor: optimize ClinicalBERT batch inference
