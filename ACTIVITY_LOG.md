@@ -233,3 +233,4 @@
 - [2022-09-06] fix: resolve memory leak in PySpark feature job
 - [2022-09-09] refactor: improve ICU risk model preprocessing
 - [2022-09-12] chore: upgrade scikit-learn to latest stable
+- [2022-09-14] test: add unit tests for OMOP transformer
