@@ -238,3 +238,4 @@
 - [2022-09-14] fix: correct survival analysis time window calculation
 - [2022-09-15] chore: update SNOMED CT vocabulary mappings
 - [2022-09-20] feat: add ICD-10 code validation layer
+- [2022-09-22] refactor: modularize EHR data standardization logic
