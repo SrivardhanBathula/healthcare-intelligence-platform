@@ -236,3 +236,4 @@
 - [2022-09-14] test: add unit tests for OMOP transformer
 - [2022-09-20] fix: correct survival analysis time window calculation
 - [2022-09-21] fix: correct survival analysis time window calculation
+- [2022-09-22] chore: update SNOMED CT vocabulary mappings
