@@ -241,3 +241,4 @@
 - [2022-09-29] refactor: modularize EHR data standardization logic
 - [2022-09-30] docs: add HIPAA compliance notes to data pipeline
 - [2022-09-30] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-10-01] fix: correct ICD-10 to SNOMED mapping for edge cases
