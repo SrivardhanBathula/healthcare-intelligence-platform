@@ -247,3 +247,4 @@
 - [2022-09-29] fix: negation detection edge case in NER pipeline
 - [2022-09-30] fix: negation detection edge case in NER pipeline
 - [2022-09-30] docs: update clinical NLP pipeline documentation
+- [2022-10-04] test: add integration tests for clinical NER pipeline
