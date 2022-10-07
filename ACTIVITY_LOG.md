@@ -245,3 +245,4 @@
 - [2022-10-04] docs: add HIPAA compliance notes to data pipeline
 - [2022-10-04] fix: handle null values in OMOP CDM transformer
 - [2022-10-06] fix: negation detection edge case in NER pipeline
+- [2022-10-07] fix: negation detection edge case in NER pipeline
