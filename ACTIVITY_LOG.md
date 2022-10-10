@@ -255,3 +255,4 @@
 - [2022-10-07] test: add integration tests for clinical NER pipeline
 - [2022-10-08] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-10-08] chore: update SNOMED CT vocabulary mappings
+- [2022-10-10] test: add unit tests for OMOP transformer
