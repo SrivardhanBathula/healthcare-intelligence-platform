@@ -248,3 +248,4 @@
 - [2022-10-07] fix: negation detection edge case in NER pipeline
 - [2022-10-07] docs: update clinical NLP pipeline documentation
 - [2022-10-11] test: add integration tests for clinical NER pipeline
+- [2022-10-11] chore: upgrade scikit-learn to latest stable
