@@ -250,3 +250,4 @@
 - [2022-10-11] test: add integration tests for clinical NER pipeline
 - [2022-10-11] chore: upgrade scikit-learn to latest stable
 - [2022-10-12] docs: update clinical NLP pipeline documentation
+- [2022-10-13] refactor: improve temporal feature extraction efficiency
