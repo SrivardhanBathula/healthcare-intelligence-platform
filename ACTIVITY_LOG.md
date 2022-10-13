@@ -251,3 +251,4 @@
 - [2022-10-11] chore: upgrade scikit-learn to latest stable
 - [2022-10-12] docs: update clinical NLP pipeline documentation
 - [2022-10-13] refactor: improve temporal feature extraction efficiency
+- [2022-10-13] test: add unit tests for OMOP transformer
