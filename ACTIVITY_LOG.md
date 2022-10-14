@@ -252,3 +252,4 @@
 - [2022-10-12] docs: update clinical NLP pipeline documentation
 - [2022-10-13] refactor: improve temporal feature extraction efficiency
 - [2022-10-13] test: add unit tests for OMOP transformer
+- [2022-10-14] test: add integration tests for clinical NER pipeline
