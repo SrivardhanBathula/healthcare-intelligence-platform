@@ -253,3 +253,4 @@
 - [2022-10-13] refactor: improve temporal feature extraction efficiency
 - [2022-10-13] test: add unit tests for OMOP transformer
 - [2022-10-14] test: add integration tests for clinical NER pipeline
+- [2022-10-15] fix: correct ICD-10 to SNOMED mapping for edge cases
