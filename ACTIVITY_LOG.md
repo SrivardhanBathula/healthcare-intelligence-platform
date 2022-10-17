@@ -262,3 +262,4 @@
 - [2022-10-12] fix: handle missing lab values in ICU risk model
 - [2022-10-13] chore: clean up unused imports and dead code
 - [2022-10-14] docs: add HIPAA compliance notes to data pipeline
+- [2022-10-17] feat: add ICD-10 code validation layer
