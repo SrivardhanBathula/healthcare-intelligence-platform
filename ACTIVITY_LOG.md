@@ -257,3 +257,4 @@
 - [2022-10-15] chore: update SNOMED CT vocabulary mappings
 - [2022-10-17] test: add unit tests for OMOP transformer
 - [2022-10-17] refactor: improve ICU risk model preprocessing
+- [2022-10-18] chore: clean up unused imports and dead code
