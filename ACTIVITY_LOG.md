@@ -258,3 +258,4 @@
 - [2022-10-17] test: add unit tests for OMOP transformer
 - [2022-10-17] refactor: improve ICU risk model preprocessing
 - [2022-10-18] chore: clean up unused imports and dead code
+- [2022-10-19] fix: negation detection edge case in NER pipeline
