@@ -266,3 +266,4 @@
 - [2022-10-17] fix: resolve memory leak in PySpark feature job
 - [2022-10-18] refactor: improve temporal feature extraction efficiency
 - [2022-10-18] feat: add Prometheus metrics for pipeline monitoring
+- [2022-10-20] refactor: modularize EHR data standardization logic
