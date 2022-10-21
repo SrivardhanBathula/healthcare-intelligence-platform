@@ -268,3 +268,4 @@
 - [2022-10-18] feat: add Prometheus metrics for pipeline monitoring
 - [2022-10-20] refactor: modularize EHR data standardization logic
 - [2022-10-21] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-10-21] refactor: modularize EHR data standardization logic
