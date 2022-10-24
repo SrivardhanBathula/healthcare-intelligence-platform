@@ -263,3 +263,4 @@
 - [2022-10-20] chore: clean up unused imports and dead code
 - [2022-10-21] docs: add HIPAA compliance notes to data pipeline
 - [2022-10-24] feat: add ICD-10 code validation layer
+- [2022-10-24] fix: resolve memory leak in PySpark feature job
