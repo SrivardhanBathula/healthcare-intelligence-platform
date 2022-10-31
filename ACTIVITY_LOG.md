@@ -269,3 +269,4 @@
 - [2022-10-27] refactor: modularize EHR data standardization logic
 - [2022-10-28] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-10-28] refactor: modularize EHR data standardization logic
+- [2022-10-31] chore: update SNOMED CT vocabulary mappings
