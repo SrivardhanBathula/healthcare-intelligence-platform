@@ -270,3 +270,4 @@
 - [2022-10-28] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-10-28] refactor: modularize EHR data standardization logic
 - [2022-10-31] chore: update SNOMED CT vocabulary mappings
+- [2022-11-01] fix: negation detection edge case in NER pipeline
