@@ -273,3 +273,4 @@
 - [2022-10-25] fix: negation detection edge case in NER pipeline
 - [2022-10-28] feat: add ICD-10 code validation layer
 - [2022-10-31] refactor: improve temporal feature extraction efficiency
+- [2022-11-02] fix: negation detection edge case in NER pipeline
