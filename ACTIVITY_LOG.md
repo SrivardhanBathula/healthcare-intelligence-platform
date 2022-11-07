@@ -275,3 +275,4 @@
 - [2022-10-31] refactor: improve temporal feature extraction efficiency
 - [2022-11-02] fix: negation detection edge case in NER pipeline
 - [2022-11-07] fix: negation detection edge case in NER pipeline
+- [2022-11-07] docs: update clinical NLP pipeline documentation
