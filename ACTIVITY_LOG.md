@@ -281,3 +281,4 @@
 - [2022-11-09] refactor: modularize EHR data standardization logic
 - [2022-11-09] test: add integration tests for clinical NER pipeline
 - [2022-11-12] fix: correct survival analysis time window calculation
+- [2022-11-12] refactor: optimize ClinicalBERT batch inference
