@@ -277,3 +277,4 @@
 - [2022-11-14] fix: negation detection edge case in NER pipeline
 - [2022-11-14] docs: update clinical NLP pipeline documentation
 - [2022-11-15] chore: update SNOMED CT vocabulary mappings
+- [2022-11-15] fix: negation detection edge case in NER pipeline
