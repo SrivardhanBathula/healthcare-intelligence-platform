@@ -279,3 +279,4 @@
 - [2022-11-15] chore: update SNOMED CT vocabulary mappings
 - [2022-11-15] fix: negation detection edge case in NER pipeline
 - [2022-11-16] refactor: modularize EHR data standardization logic
+- [2022-11-16] test: add integration tests for clinical NER pipeline
