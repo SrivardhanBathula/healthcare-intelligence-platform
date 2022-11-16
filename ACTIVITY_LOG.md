@@ -284,3 +284,4 @@
 - [2022-11-12] refactor: optimize ClinicalBERT batch inference
 - [2022-11-14] refactor: improve temporal feature extraction efficiency
 - [2022-11-16] feat: add ICD-10 code validation layer
+- [2022-11-16] feat: add Prometheus metrics for pipeline monitoring
