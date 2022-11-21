@@ -281,3 +281,4 @@
 - [2022-11-16] refactor: modularize EHR data standardization logic
 - [2022-11-16] test: add integration tests for clinical NER pipeline
 - [2022-11-17] test: add integration tests for clinical NER pipeline
+- [2022-11-21] chore: upgrade scikit-learn to latest stable
