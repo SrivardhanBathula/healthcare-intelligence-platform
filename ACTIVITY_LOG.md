@@ -282,3 +282,4 @@
 - [2022-11-16] test: add integration tests for clinical NER pipeline
 - [2022-11-17] test: add integration tests for clinical NER pipeline
 - [2022-11-21] chore: upgrade scikit-learn to latest stable
+- [2022-11-21] fix: resolve memory leak in PySpark feature job
