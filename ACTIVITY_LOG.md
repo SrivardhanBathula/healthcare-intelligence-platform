@@ -285,3 +285,4 @@
 - [2022-11-21] fix: resolve memory leak in PySpark feature job
 - [2022-11-22] refactor: optimize EHR ingestion pipeline performance
 - [2022-11-23] refactor: modularize EHR data standardization logic
+- [2022-11-23] fix: negation detection edge case in NER pipeline
