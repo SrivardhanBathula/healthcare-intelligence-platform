@@ -284,3 +284,4 @@
 - [2022-11-21] chore: upgrade scikit-learn to latest stable
 - [2022-11-21] fix: resolve memory leak in PySpark feature job
 - [2022-11-22] refactor: optimize EHR ingestion pipeline performance
+- [2022-11-23] refactor: modularize EHR data standardization logic
