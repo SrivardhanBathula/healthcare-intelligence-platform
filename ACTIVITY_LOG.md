@@ -289,3 +289,4 @@
 - [2022-11-21] test: add integration tests for clinical NER pipeline
 - [2022-11-21] fix: correct survival analysis time window calculation
 - [2022-11-22] fix: handle missing lab values in ICU risk model
+- [2022-11-23] chore: update SNOMED CT vocabulary mappings
