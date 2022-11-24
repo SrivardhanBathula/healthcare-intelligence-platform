@@ -286,3 +286,4 @@
 - [2022-11-22] refactor: optimize EHR ingestion pipeline performance
 - [2022-11-23] refactor: modularize EHR data standardization logic
 - [2022-11-23] fix: negation detection edge case in NER pipeline
+- [2022-11-24] test: add integration tests for clinical NER pipeline
