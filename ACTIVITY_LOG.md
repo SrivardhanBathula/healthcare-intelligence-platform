@@ -292,3 +292,4 @@
 - [2022-11-23] chore: update SNOMED CT vocabulary mappings
 - [2022-11-24] refactor: improve temporal feature extraction efficiency
 - [2022-11-25] test: add unit tests for OMOP transformer
+- [2022-11-28] fix: resolve memory leak in PySpark feature job
