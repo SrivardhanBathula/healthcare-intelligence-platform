@@ -290,3 +290,4 @@
 - [2022-11-25] test: add integration tests for clinical NER pipeline
 - [2022-11-25] fix: correct survival analysis time window calculation
 - [2022-11-28] chore: clean up unused imports and dead code
+- [2022-11-29] refactor: improve temporal feature extraction efficiency
