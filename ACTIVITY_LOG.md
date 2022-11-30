@@ -292,3 +292,4 @@
 - [2022-11-28] chore: clean up unused imports and dead code
 - [2022-11-29] refactor: improve temporal feature extraction efficiency
 - [2022-11-29] refactor: optimize ClinicalBERT batch inference
+- [2022-11-30] refactor: optimize EHR ingestion pipeline performance
