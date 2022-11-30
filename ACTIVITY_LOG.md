@@ -296,3 +296,4 @@
 - [2022-11-28] chore: upgrade scikit-learn to latest stable
 - [2022-11-29] refactor: improve ICU risk model preprocessing
 - [2022-11-29] test: add unit tests for OMOP transformer
+- [2022-11-30] fix: negation detection edge case in NER pipeline
