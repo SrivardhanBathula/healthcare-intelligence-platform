@@ -295,3 +295,4 @@
 - [2022-11-30] refactor: optimize EHR ingestion pipeline performance
 - [2022-11-30] fix: resolve memory leak in PySpark feature job
 - [2022-12-02] refactor: modularize EHR data standardization logic
+- [2022-12-03] test: add unit tests for OMOP transformer
