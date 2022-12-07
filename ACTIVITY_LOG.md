@@ -300,3 +300,4 @@
 - [2022-12-01] refactor: modularize EHR data standardization logic
 - [2022-12-01] feat: add ICD-10 code validation layer
 - [2022-12-06] chore: upgrade scikit-learn to latest stable
+- [2022-12-07] fix: negation detection edge case in NER pipeline
