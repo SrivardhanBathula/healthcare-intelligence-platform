@@ -298,3 +298,4 @@
 - [2022-12-03] test: add unit tests for OMOP transformer
 - [2022-12-07] refactor: modularize EHR data standardization logic
 - [2022-12-07] feat: add ICD-10 code validation layer
+- [2022-12-09] refactor: modularize EHR data standardization logic
