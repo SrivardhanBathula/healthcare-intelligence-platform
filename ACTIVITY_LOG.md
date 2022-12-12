@@ -304,3 +304,4 @@
 - [2022-12-07] chore: update SNOMED CT vocabulary mappings
 - [2022-12-08] feat: add ICD-10 code validation layer
 - [2022-12-09] test: add unit tests for OMOP transformer
+- [2022-12-12] docs: update clinical NLP pipeline documentation
