@@ -300,3 +300,4 @@
 - [2022-12-07] feat: add ICD-10 code validation layer
 - [2022-12-09] refactor: modularize EHR data standardization logic
 - [2022-12-13] fix: negation detection edge case in NER pipeline
+- [2022-12-13] chore: update SNOMED CT vocabulary mappings
