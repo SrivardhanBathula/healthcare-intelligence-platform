@@ -306,3 +306,4 @@
 - [2022-12-09] test: add unit tests for OMOP transformer
 - [2022-12-12] docs: update clinical NLP pipeline documentation
 - [2022-12-14] fix: resolve memory leak in PySpark feature job
+- [2022-12-15] refactor: improve ICU risk model preprocessing
