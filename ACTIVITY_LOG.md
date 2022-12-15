@@ -302,3 +302,4 @@
 - [2022-12-13] fix: negation detection edge case in NER pipeline
 - [2022-12-13] chore: update SNOMED CT vocabulary mappings
 - [2022-12-14] feat: add ICD-10 code validation layer
+- [2022-12-15] test: add unit tests for OMOP transformer
