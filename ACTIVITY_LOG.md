@@ -308,3 +308,4 @@
 - [2022-12-14] fix: resolve memory leak in PySpark feature job
 - [2022-12-15] refactor: improve ICU risk model preprocessing
 - [2022-12-19] fix: handle missing lab values in ICU risk model
+- [2022-12-19] refactor: improve temporal feature extraction efficiency
