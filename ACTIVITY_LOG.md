@@ -304,3 +304,4 @@
 - [2022-12-14] feat: add ICD-10 code validation layer
 - [2022-12-15] test: add unit tests for OMOP transformer
 - [2022-12-16] chore: update SNOMED CT vocabulary mappings
+- [2022-12-20] fix: resolve memory leak in PySpark feature job
