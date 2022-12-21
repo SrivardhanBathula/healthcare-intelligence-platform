@@ -305,3 +305,4 @@
 - [2022-12-15] test: add unit tests for OMOP transformer
 - [2022-12-16] chore: update SNOMED CT vocabulary mappings
 - [2022-12-20] fix: resolve memory leak in PySpark feature job
+- [2022-12-21] refactor: improve ICU risk model preprocessing
