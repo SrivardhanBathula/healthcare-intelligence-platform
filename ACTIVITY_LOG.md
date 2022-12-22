@@ -311,3 +311,4 @@
 - [2022-12-19] refactor: improve temporal feature extraction efficiency
 - [2022-12-20] test: add integration tests for clinical NER pipeline
 - [2022-12-21] fix: handle missing lab values in ICU risk model
+- [2022-12-22] fix: correct survival analysis time window calculation
