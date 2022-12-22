@@ -306,3 +306,4 @@
 - [2022-12-16] chore: update SNOMED CT vocabulary mappings
 - [2022-12-20] fix: resolve memory leak in PySpark feature job
 - [2022-12-21] refactor: improve ICU risk model preprocessing
+- [2022-12-22] feat: add ICD-10 code validation layer
