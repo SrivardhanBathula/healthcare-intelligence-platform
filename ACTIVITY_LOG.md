@@ -313,3 +313,4 @@
 - [2022-12-21] fix: handle missing lab values in ICU risk model
 - [2022-12-22] fix: correct survival analysis time window calculation
 - [2022-12-22] chore: clean up unused imports and dead code
+- [2022-12-23] fix: handle null values in OMOP CDM transformer
