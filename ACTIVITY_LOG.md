@@ -307,3 +307,4 @@
 - [2022-12-20] fix: resolve memory leak in PySpark feature job
 - [2022-12-21] refactor: improve ICU risk model preprocessing
 - [2022-12-22] feat: add ICD-10 code validation layer
+- [2022-12-23] fix: handle missing lab values in ICU risk model
