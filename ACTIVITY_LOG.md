@@ -315,3 +315,4 @@
 - [2022-12-22] chore: clean up unused imports and dead code
 - [2022-12-23] fix: handle null values in OMOP CDM transformer
 - [2022-12-23] feat: add ICD-10 code validation layer
+- [2022-12-26] fix: handle missing lab values in ICU risk model
