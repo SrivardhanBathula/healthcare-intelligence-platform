@@ -310,3 +310,4 @@
 - [2022-12-23] fix: handle missing lab values in ICU risk model
 - [2022-12-23] refactor: improve temporal feature extraction efficiency
 - [2022-12-26] chore: upgrade scikit-learn to latest stable
+- [2022-12-27] refactor: optimize ClinicalBERT batch inference
