@@ -318,3 +318,4 @@
 - [2022-12-26] fix: handle missing lab values in ICU risk model
 - [2022-12-26] fix: handle null values in OMOP CDM transformer
 - [2022-12-27] docs: update clinical NLP pipeline documentation
+- [2022-12-28] fix: handle null values in OMOP CDM transformer
