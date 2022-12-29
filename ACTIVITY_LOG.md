@@ -314,3 +314,4 @@
 - [2022-12-27] fix: handle null values in OMOP CDM transformer
 - [2022-12-28] fix: handle missing lab values in ICU risk model
 - [2022-12-29] feat: add ICD-10 code validation layer
+- [2022-12-29] feat: add ICD-10 code validation layer
