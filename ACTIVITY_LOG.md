@@ -4,3 +4,4 @@
 - [2023-01-02] fix: handle missing lab values in ICU risk model
 - [2023-01-03] refactor: modularize EHR data standardization logic
 - [2023-01-04] refactor: modularize EHR data standardization logic
+- [2023-01-05] chore: update SNOMED CT vocabulary mappings
