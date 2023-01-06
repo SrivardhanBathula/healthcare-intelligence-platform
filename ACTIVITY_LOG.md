@@ -5,3 +5,4 @@
 - [2023-01-03] refactor: modularize EHR data standardization logic
 - [2023-01-04] refactor: modularize EHR data standardization logic
 - [2023-01-05] chore: update SNOMED CT vocabulary mappings
+- [2023-01-06] docs: add HIPAA compliance notes to data pipeline
