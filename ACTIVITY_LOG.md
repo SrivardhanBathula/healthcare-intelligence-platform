@@ -5,3 +5,4 @@
 - [2023-01-02] chore: clean up unused imports and dead code
 - [2023-01-03] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-01-06] chore: update SNOMED CT vocabulary mappings
+- [2023-01-08] fix: resolve memory leak in PySpark feature job
