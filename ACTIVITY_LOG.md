@@ -8,3 +8,4 @@
 - [2023-01-06] docs: add HIPAA compliance notes to data pipeline
 - [2023-01-07] fix: correct survival analysis time window calculation
 - [2023-01-09] refactor: improve ICU risk model preprocessing
+- [2023-01-12] chore: update SNOMED CT vocabulary mappings
