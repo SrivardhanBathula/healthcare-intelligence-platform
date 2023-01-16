@@ -8,3 +8,4 @@
 - [2023-01-08] fix: resolve memory leak in PySpark feature job
 - [2023-01-10] refactor: improve ICU risk model preprocessing
 - [2023-01-11] refactor: improve ICU risk model preprocessing
+- [2023-01-16] refactor: improve temporal feature extraction efficiency
