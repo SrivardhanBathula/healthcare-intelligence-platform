@@ -9,3 +9,4 @@
 - [2023-01-07] fix: correct survival analysis time window calculation
 - [2023-01-09] refactor: improve ICU risk model preprocessing
 - [2023-01-12] chore: update SNOMED CT vocabulary mappings
+- [2023-01-17] chore: upgrade scikit-learn to latest stable
