@@ -11,3 +11,4 @@
 - [2023-01-12] chore: update SNOMED CT vocabulary mappings
 - [2023-01-17] chore: upgrade scikit-learn to latest stable
 - [2023-01-17] fix: handle missing lab values in ICU risk model
+- [2023-01-18] chore: upgrade scikit-learn to latest stable
