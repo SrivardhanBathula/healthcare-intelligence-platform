@@ -13,3 +13,4 @@
 - [2023-01-17] fix: handle missing lab values in ICU risk model
 - [2023-01-18] chore: upgrade scikit-learn to latest stable
 - [2023-01-18] fix: correct survival analysis time window calculation
+- [2023-01-19] feat: add ICD-10 code validation layer
