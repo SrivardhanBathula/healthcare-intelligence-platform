@@ -9,3 +9,4 @@
 - [2023-01-10] refactor: improve ICU risk model preprocessing
 - [2023-01-11] refactor: improve ICU risk model preprocessing
 - [2023-01-16] refactor: improve temporal feature extraction efficiency
+- [2023-01-19] chore: upgrade scikit-learn to latest stable
