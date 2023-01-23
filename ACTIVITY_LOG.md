@@ -14,3 +14,4 @@
 - [2023-01-18] chore: upgrade scikit-learn to latest stable
 - [2023-01-18] fix: correct survival analysis time window calculation
 - [2023-01-19] feat: add ICD-10 code validation layer
+- [2023-01-23] refactor: modularize EHR data standardization logic
