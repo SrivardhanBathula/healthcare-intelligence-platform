@@ -14,3 +14,4 @@
 - [2023-01-20] chore: upgrade scikit-learn to latest stable
 - [2023-01-20] fix: correct survival analysis time window calculation
 - [2023-01-23] refactor: optimize ClinicalBERT batch inference
+- [2023-01-24] refactor: modularize EHR data standardization logic
