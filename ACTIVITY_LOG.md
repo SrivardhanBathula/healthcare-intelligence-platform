@@ -16,3 +16,4 @@
 - [2023-01-23] refactor: optimize ClinicalBERT batch inference
 - [2023-01-24] refactor: modularize EHR data standardization logic
 - [2023-01-25] feat: add ICD-10 code validation layer
+- [2023-01-25] feat: add ICD-10 code validation layer
