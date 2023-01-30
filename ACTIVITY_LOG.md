@@ -19,3 +19,4 @@
 - [2023-01-24] feat: add ICD-10 code validation layer
 - [2023-01-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-01-30] chore: update SNOMED CT vocabulary mappings
+- [2023-01-30] chore: upgrade scikit-learn to latest stable
