@@ -20,3 +20,4 @@
 - [2023-01-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-01-30] chore: update SNOMED CT vocabulary mappings
 - [2023-01-30] chore: upgrade scikit-learn to latest stable
+- [2023-01-31] fix: handle missing lab values in ICU risk model
