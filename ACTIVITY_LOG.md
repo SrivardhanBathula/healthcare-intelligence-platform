@@ -17,3 +17,4 @@
 - [2023-01-24] refactor: modularize EHR data standardization logic
 - [2023-01-25] feat: add ICD-10 code validation layer
 - [2023-01-25] feat: add ICD-10 code validation layer
+- [2023-01-31] refactor: optimize EHR ingestion pipeline performance
