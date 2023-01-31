@@ -21,3 +21,4 @@
 - [2023-01-30] chore: update SNOMED CT vocabulary mappings
 - [2023-01-30] chore: upgrade scikit-learn to latest stable
 - [2023-01-31] fix: handle missing lab values in ICU risk model
+- [2023-01-31] feat: add Prometheus metrics for pipeline monitoring
