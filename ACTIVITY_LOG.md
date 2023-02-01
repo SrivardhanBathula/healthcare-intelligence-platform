@@ -23,3 +23,4 @@
 - [2023-01-31] fix: handle missing lab values in ICU risk model
 - [2023-01-31] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-01] docs: update clinical NLP pipeline documentation
+- [2023-02-01] feat: add Prometheus metrics for pipeline monitoring
