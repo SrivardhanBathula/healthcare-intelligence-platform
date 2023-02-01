@@ -18,3 +18,4 @@
 - [2023-01-25] feat: add ICD-10 code validation layer
 - [2023-01-25] feat: add ICD-10 code validation layer
 - [2023-01-31] refactor: optimize EHR ingestion pipeline performance
+- [2023-02-01] fix: resolve memory leak in PySpark feature job
