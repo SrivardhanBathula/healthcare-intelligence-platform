@@ -20,3 +20,4 @@
 - [2023-01-31] refactor: optimize EHR ingestion pipeline performance
 - [2023-02-01] fix: resolve memory leak in PySpark feature job
 - [2023-02-01] chore: upgrade scikit-learn to latest stable
+- [2023-02-02] fix: handle missing lab values in ICU risk model
