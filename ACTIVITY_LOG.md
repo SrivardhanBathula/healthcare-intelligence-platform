@@ -25,3 +25,4 @@
 - [2023-02-01] docs: update clinical NLP pipeline documentation
 - [2023-02-01] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-02] test: add integration tests for clinical NER pipeline
+- [2023-02-02] chore: upgrade scikit-learn to latest stable
