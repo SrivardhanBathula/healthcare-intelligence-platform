@@ -24,3 +24,4 @@
 - [2023-02-02] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-03] docs: update clinical NLP pipeline documentation
 - [2023-02-03] feat: add Prometheus metrics for pipeline monitoring
+- [2023-02-04] test: add integration tests for clinical NER pipeline
