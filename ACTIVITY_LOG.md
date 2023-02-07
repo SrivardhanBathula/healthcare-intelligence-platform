@@ -27,3 +27,4 @@
 - [2023-02-02] test: add integration tests for clinical NER pipeline
 - [2023-02-02] chore: upgrade scikit-learn to latest stable
 - [2023-02-03] refactor: improve ICU risk model preprocessing
+- [2023-02-07] fix: negation detection edge case in NER pipeline
