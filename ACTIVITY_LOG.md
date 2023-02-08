@@ -27,3 +27,4 @@
 - [2023-02-04] test: add integration tests for clinical NER pipeline
 - [2023-02-07] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-02-08] fix: handle null values in OMOP CDM transformer
+- [2023-02-08] test: add unit tests for OMOP transformer
