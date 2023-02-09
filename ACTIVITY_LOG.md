@@ -29,3 +29,4 @@
 - [2023-02-03] refactor: improve ICU risk model preprocessing
 - [2023-02-07] fix: negation detection edge case in NER pipeline
 - [2023-02-07] feat: add Prometheus metrics for pipeline monitoring
+- [2023-02-09] fix: handle null values in OMOP CDM transformer
