@@ -29,3 +29,4 @@
 - [2023-02-08] fix: handle null values in OMOP CDM transformer
 - [2023-02-08] test: add unit tests for OMOP transformer
 - [2023-02-09] feat: add Prometheus metrics for pipeline monitoring
+- [2023-02-10] chore: update SNOMED CT vocabulary mappings
