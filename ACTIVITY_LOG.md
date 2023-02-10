@@ -31,3 +31,4 @@
 - [2023-02-07] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-09] fix: handle null values in OMOP CDM transformer
 - [2023-02-10] test: add integration tests for clinical NER pipeline
+- [2023-02-10] chore: clean up unused imports and dead code
