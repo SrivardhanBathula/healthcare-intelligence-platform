@@ -32,3 +32,4 @@
 - [2023-02-09] fix: handle null values in OMOP CDM transformer
 - [2023-02-10] test: add integration tests for clinical NER pipeline
 - [2023-02-10] chore: clean up unused imports and dead code
+- [2023-02-13] fix: handle missing lab values in ICU risk model
