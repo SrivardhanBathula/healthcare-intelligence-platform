@@ -32,3 +32,4 @@
 - [2023-02-10] chore: update SNOMED CT vocabulary mappings
 - [2023-02-11] chore: clean up unused imports and dead code
 - [2023-02-11] chore: update SNOMED CT vocabulary mappings
+- [2023-02-13] feat: add Prometheus metrics for pipeline monitoring
