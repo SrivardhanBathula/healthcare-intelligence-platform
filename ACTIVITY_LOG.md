@@ -34,3 +34,4 @@
 - [2023-02-11] chore: update SNOMED CT vocabulary mappings
 - [2023-02-13] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-14] test: add unit tests for OMOP transformer
+- [2023-02-14] refactor: modularize EHR data standardization logic
