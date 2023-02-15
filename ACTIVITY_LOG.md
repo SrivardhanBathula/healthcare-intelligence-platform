@@ -34,3 +34,4 @@
 - [2023-02-10] chore: clean up unused imports and dead code
 - [2023-02-13] fix: handle missing lab values in ICU risk model
 - [2023-02-15] test: add unit tests for OMOP transformer
+- [2023-02-15] refactor: modularize EHR data standardization logic
