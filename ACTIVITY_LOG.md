@@ -37,3 +37,4 @@
 - [2023-02-14] refactor: modularize EHR data standardization logic
 - [2023-02-15] refactor: improve ICU risk model preprocessing
 - [2023-02-15] chore: upgrade scikit-learn to latest stable
+- [2023-02-16] fix: resolve memory leak in PySpark feature job
