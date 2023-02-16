@@ -36,3 +36,4 @@
 - [2023-02-15] test: add unit tests for OMOP transformer
 - [2023-02-15] refactor: modularize EHR data standardization logic
 - [2023-02-16] refactor: improve ICU risk model preprocessing
+- [2023-02-16] chore: upgrade scikit-learn to latest stable
