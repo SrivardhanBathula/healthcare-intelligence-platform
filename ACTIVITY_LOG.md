@@ -38,3 +38,4 @@
 - [2023-02-16] refactor: improve ICU risk model preprocessing
 - [2023-02-16] chore: upgrade scikit-learn to latest stable
 - [2023-02-17] fix: resolve memory leak in PySpark feature job
+- [2023-02-20] fix: correct survival analysis time window calculation
