@@ -39,3 +39,4 @@
 - [2023-02-15] chore: upgrade scikit-learn to latest stable
 - [2023-02-16] fix: resolve memory leak in PySpark feature job
 - [2023-02-18] docs: add HIPAA compliance notes to data pipeline
+- [2023-02-20] docs: add HIPAA compliance notes to data pipeline
