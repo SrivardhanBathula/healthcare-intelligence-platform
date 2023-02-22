@@ -41,3 +41,4 @@
 - [2023-02-20] fix: correct survival analysis time window calculation
 - [2023-02-20] feat: add ICD-10 code validation layer
 - [2023-02-21] test: add unit tests for OMOP transformer
+- [2023-02-22] fix: resolve memory leak in PySpark feature job
