@@ -41,3 +41,4 @@
 - [2023-02-18] docs: add HIPAA compliance notes to data pipeline
 - [2023-02-20] docs: add HIPAA compliance notes to data pipeline
 - [2023-02-22] docs: update clinical NLP pipeline documentation
+- [2023-02-22] refactor: optimize ClinicalBERT batch inference
