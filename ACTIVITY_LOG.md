@@ -45,3 +45,4 @@
 - [2023-02-22] fix: handle missing lab values in ICU risk model
 - [2023-02-23] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-02-24] refactor: modularize EHR data standardization logic
+- [2023-02-27] fix: resolve memory leak in PySpark feature job
