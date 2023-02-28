@@ -43,3 +43,4 @@
 - [2023-02-22] docs: update clinical NLP pipeline documentation
 - [2023-02-22] refactor: optimize ClinicalBERT batch inference
 - [2023-02-23] docs: add HIPAA compliance notes to data pipeline
+- [2023-02-28] refactor: modularize EHR data standardization logic
