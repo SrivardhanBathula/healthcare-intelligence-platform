@@ -47,3 +47,4 @@
 - [2023-02-24] refactor: modularize EHR data standardization logic
 - [2023-02-27] fix: resolve memory leak in PySpark feature job
 - [2023-03-01] feat: add ICD-10 code validation layer
+- [2023-03-01] test: add unit tests for OMOP transformer
