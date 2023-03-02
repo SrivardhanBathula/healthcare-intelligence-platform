@@ -49,3 +49,4 @@
 - [2023-03-01] feat: add ICD-10 code validation layer
 - [2023-03-01] test: add unit tests for OMOP transformer
 - [2023-03-02] chore: clean up unused imports and dead code
+- [2023-03-02] docs: add HIPAA compliance notes to data pipeline
