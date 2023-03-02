@@ -48,3 +48,4 @@
 - [2023-02-27] fix: resolve memory leak in PySpark feature job
 - [2023-03-01] feat: add ICD-10 code validation layer
 - [2023-03-01] test: add unit tests for OMOP transformer
+- [2023-03-02] chore: clean up unused imports and dead code
