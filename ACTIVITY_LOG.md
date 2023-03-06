@@ -51,3 +51,4 @@
 - [2023-03-02] chore: clean up unused imports and dead code
 - [2023-03-02] docs: add HIPAA compliance notes to data pipeline
 - [2023-03-05] fix: correct survival analysis time window calculation
+- [2023-03-06] fix: negation detection edge case in NER pipeline
