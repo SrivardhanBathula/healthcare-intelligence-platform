@@ -47,3 +47,4 @@
 - [2023-03-01] test: add integration tests for clinical NER pipeline
 - [2023-03-06] feat: add ICD-10 code validation layer
 - [2023-03-06] test: add unit tests for OMOP transformer
+- [2023-03-07] chore: clean up unused imports and dead code
