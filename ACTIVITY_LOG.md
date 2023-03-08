@@ -53,3 +53,4 @@
 - [2023-03-05] fix: correct survival analysis time window calculation
 - [2023-03-06] fix: negation detection edge case in NER pipeline
 - [2023-03-07] fix: handle missing lab values in ICU risk model
+- [2023-03-08] test: add unit tests for OMOP transformer
