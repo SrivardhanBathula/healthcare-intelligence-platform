@@ -54,3 +54,4 @@
 - [2023-03-06] fix: negation detection edge case in NER pipeline
 - [2023-03-07] fix: handle missing lab values in ICU risk model
 - [2023-03-08] test: add unit tests for OMOP transformer
+- [2023-03-10] refactor: improve temporal feature extraction efficiency
