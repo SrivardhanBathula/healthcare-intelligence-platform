@@ -50,3 +50,4 @@
 - [2023-03-07] chore: clean up unused imports and dead code
 - [2023-03-07] docs: add HIPAA compliance notes to data pipeline
 - [2023-03-09] fix: handle missing lab values in ICU risk model
+- [2023-03-12] fix: negation detection edge case in NER pipeline
