@@ -51,3 +51,4 @@
 - [2023-03-07] docs: add HIPAA compliance notes to data pipeline
 - [2023-03-09] fix: handle missing lab values in ICU risk model
 - [2023-03-12] fix: negation detection edge case in NER pipeline
+- [2023-03-13] chore: upgrade scikit-learn to latest stable
