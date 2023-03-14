@@ -53,3 +53,4 @@
 - [2023-03-12] fix: negation detection edge case in NER pipeline
 - [2023-03-13] chore: upgrade scikit-learn to latest stable
 - [2023-03-13] docs: update clinical NLP pipeline documentation
+- [2023-03-14] refactor: optimize ClinicalBERT batch inference
