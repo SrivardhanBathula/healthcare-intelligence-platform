@@ -60,3 +60,4 @@
 - [2023-03-13] chore: clean up unused imports and dead code
 - [2023-03-16] chore: clean up unused imports and dead code
 - [2023-03-17] chore: update SNOMED CT vocabulary mappings
+- [2023-03-17] fix: negation detection edge case in NER pipeline
