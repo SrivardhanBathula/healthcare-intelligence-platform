@@ -55,3 +55,4 @@
 - [2023-03-13] docs: update clinical NLP pipeline documentation
 - [2023-03-14] refactor: optimize ClinicalBERT batch inference
 - [2023-03-16] fix: handle null values in OMOP CDM transformer
+- [2023-03-20] refactor: improve temporal feature extraction efficiency
