@@ -63,3 +63,4 @@
 - [2023-03-17] fix: negation detection edge case in NER pipeline
 - [2023-03-18] chore: clean up unused imports and dead code
 - [2023-03-20] chore: clean up unused imports and dead code
+- [2023-03-21] fix: handle missing lab values in ICU risk model
