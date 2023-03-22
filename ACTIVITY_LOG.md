@@ -64,3 +64,4 @@
 - [2023-03-18] chore: clean up unused imports and dead code
 - [2023-03-20] chore: clean up unused imports and dead code
 - [2023-03-21] fix: handle missing lab values in ICU risk model
+- [2023-03-22] refactor: optimize EHR ingestion pipeline performance
