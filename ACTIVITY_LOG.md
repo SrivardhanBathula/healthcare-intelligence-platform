@@ -59,3 +59,4 @@
 - [2023-03-20] docs: update clinical NLP pipeline documentation
 - [2023-03-21] chore: clean up unused imports and dead code
 - [2023-03-22] chore: update SNOMED CT vocabulary mappings
+- [2023-03-22] fix: negation detection edge case in NER pipeline
