@@ -62,3 +62,4 @@
 - [2023-03-22] fix: negation detection edge case in NER pipeline
 - [2023-03-23] chore: clean up unused imports and dead code
 - [2023-03-23] fix: resolve memory leak in PySpark feature job
+- [2023-03-24] feat: add Prometheus metrics for pipeline monitoring
