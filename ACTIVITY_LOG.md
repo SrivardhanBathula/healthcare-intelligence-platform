@@ -66,3 +66,4 @@
 - [2023-03-21] fix: handle missing lab values in ICU risk model
 - [2023-03-22] refactor: optimize EHR ingestion pipeline performance
 - [2023-03-24] chore: update SNOMED CT vocabulary mappings
+- [2023-03-29] fix: negation detection edge case in NER pipeline
