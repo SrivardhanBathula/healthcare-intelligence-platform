@@ -64,3 +64,4 @@
 - [2023-03-23] fix: resolve memory leak in PySpark feature job
 - [2023-03-24] feat: add Prometheus metrics for pipeline monitoring
 - [2023-03-27] refactor: optimize EHR ingestion pipeline performance
+- [2023-03-29] chore: update SNOMED CT vocabulary mappings
