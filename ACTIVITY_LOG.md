@@ -66,3 +66,4 @@
 - [2023-03-27] refactor: optimize EHR ingestion pipeline performance
 - [2023-03-29] chore: update SNOMED CT vocabulary mappings
 - [2023-03-31] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-03-31] refactor: improve ICU risk model preprocessing
