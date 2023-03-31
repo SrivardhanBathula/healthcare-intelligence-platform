@@ -70,3 +70,4 @@
 - [2023-03-30] fix: handle null values in OMOP CDM transformer
 - [2023-03-30] chore: upgrade scikit-learn to latest stable
 - [2023-03-31] chore: upgrade scikit-learn to latest stable
+- [2023-03-31] fix: handle missing lab values in ICU risk model
