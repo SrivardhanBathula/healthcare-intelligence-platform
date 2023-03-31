@@ -65,3 +65,4 @@
 - [2023-03-24] feat: add Prometheus metrics for pipeline monitoring
 - [2023-03-27] refactor: optimize EHR ingestion pipeline performance
 - [2023-03-29] chore: update SNOMED CT vocabulary mappings
+- [2023-03-31] fix: correct ICD-10 to SNOMED mapping for edge cases
