@@ -71,3 +71,4 @@
 - [2023-03-30] chore: upgrade scikit-learn to latest stable
 - [2023-03-31] chore: upgrade scikit-learn to latest stable
 - [2023-03-31] fix: handle missing lab values in ICU risk model
+- [2023-04-01] test: add unit tests for OMOP transformer
