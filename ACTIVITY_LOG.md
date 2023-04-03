@@ -73,3 +73,4 @@
 - [2023-03-31] fix: handle missing lab values in ICU risk model
 - [2023-04-01] test: add unit tests for OMOP transformer
 - [2023-04-01] test: add integration tests for clinical NER pipeline
+- [2023-04-03] chore: update SNOMED CT vocabulary mappings
