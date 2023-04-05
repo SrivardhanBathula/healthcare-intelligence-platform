@@ -69,3 +69,4 @@
 - [2023-03-31] refactor: improve ICU risk model preprocessing
 - [2023-04-02] feat: add ICD-10 code validation layer
 - [2023-04-05] chore: upgrade scikit-learn to latest stable
+- [2023-04-05] fix: handle missing lab values in ICU risk model
