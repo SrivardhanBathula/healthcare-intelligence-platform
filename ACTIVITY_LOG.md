@@ -76,3 +76,4 @@
 - [2023-04-03] chore: update SNOMED CT vocabulary mappings
 - [2023-04-03] feat: add ICD-10 code validation layer
 - [2023-04-05] test: add unit tests for OMOP transformer
+- [2023-04-06] refactor: improve ICU risk model preprocessing
