@@ -70,3 +70,4 @@
 - [2023-04-02] feat: add ICD-10 code validation layer
 - [2023-04-05] chore: upgrade scikit-learn to latest stable
 - [2023-04-05] fix: handle missing lab values in ICU risk model
+- [2023-04-06] test: add unit tests for OMOP transformer
