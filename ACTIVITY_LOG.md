@@ -72,3 +72,4 @@
 - [2023-04-05] fix: handle missing lab values in ICU risk model
 - [2023-04-06] test: add unit tests for OMOP transformer
 - [2023-04-06] test: add integration tests for clinical NER pipeline
+- [2023-04-07] fix: handle null values in OMOP CDM transformer
