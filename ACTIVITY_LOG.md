@@ -76,3 +76,4 @@
 - [2023-04-07] refactor: optimize EHR ingestion pipeline performance
 - [2023-04-08] test: add unit tests for OMOP transformer
 - [2023-04-08] test: add integration tests for clinical NER pipeline
+- [2023-04-10] refactor: improve temporal feature extraction efficiency
