@@ -78,3 +78,4 @@
 - [2023-04-05] test: add unit tests for OMOP transformer
 - [2023-04-06] refactor: improve ICU risk model preprocessing
 - [2023-04-10] refactor: modularize EHR data standardization logic
+- [2023-04-12] fix: handle missing lab values in ICU risk model
