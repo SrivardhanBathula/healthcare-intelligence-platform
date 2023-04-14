@@ -80,3 +80,4 @@
 - [2023-04-10] refactor: modularize EHR data standardization logic
 - [2023-04-12] fix: handle missing lab values in ICU risk model
 - [2023-04-13] refactor: optimize EHR ingestion pipeline performance
+- [2023-04-14] fix: handle null values in OMOP CDM transformer
