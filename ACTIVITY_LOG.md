@@ -81,3 +81,4 @@
 - [2023-04-12] fix: handle missing lab values in ICU risk model
 - [2023-04-13] refactor: optimize EHR ingestion pipeline performance
 - [2023-04-14] fix: handle null values in OMOP CDM transformer
+- [2023-04-18] chore: update SNOMED CT vocabulary mappings
