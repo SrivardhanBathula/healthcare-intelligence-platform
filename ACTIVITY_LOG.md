@@ -82,3 +82,4 @@
 - [2023-04-13] refactor: optimize EHR ingestion pipeline performance
 - [2023-04-14] fix: handle null values in OMOP CDM transformer
 - [2023-04-18] chore: update SNOMED CT vocabulary mappings
+- [2023-04-18] fix: correct survival analysis time window calculation
