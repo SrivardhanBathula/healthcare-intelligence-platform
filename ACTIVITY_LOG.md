@@ -84,3 +84,4 @@
 - [2023-04-18] chore: update SNOMED CT vocabulary mappings
 - [2023-04-18] fix: correct survival analysis time window calculation
 - [2023-04-25] feat: add ICD-10 code validation layer
+- [2023-04-26] chore: update SNOMED CT vocabulary mappings
