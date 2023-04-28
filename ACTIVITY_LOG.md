@@ -88,3 +88,4 @@
 - [2023-04-26] feat: add ICD-10 code validation layer
 - [2023-04-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-04-27] refactor: optimize EHR ingestion pipeline performance
+- [2023-04-28] refactor: optimize ClinicalBERT batch inference
