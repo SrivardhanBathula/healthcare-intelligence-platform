@@ -89,3 +89,4 @@
 - [2023-04-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-04-27] refactor: optimize EHR ingestion pipeline performance
 - [2023-04-28] refactor: optimize ClinicalBERT batch inference
+- [2023-05-01] test: add integration tests for clinical NER pipeline
