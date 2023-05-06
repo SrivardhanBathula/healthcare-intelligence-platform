@@ -95,3 +95,4 @@
 - [2023-05-03] feat: add Prometheus metrics for pipeline monitoring
 - [2023-05-04] feat: add ICD-10 code validation layer
 - [2023-05-05] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-05-06] fix: handle missing lab values in ICU risk model
