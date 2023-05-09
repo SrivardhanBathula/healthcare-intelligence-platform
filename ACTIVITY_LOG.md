@@ -98,3 +98,4 @@
 - [2023-05-06] fix: handle missing lab values in ICU risk model
 - [2023-05-08] chore: update SNOMED CT vocabulary mappings
 - [2023-05-08] docs: add HIPAA compliance notes to data pipeline
+- [2023-05-09] fix: correct survival analysis time window calculation
