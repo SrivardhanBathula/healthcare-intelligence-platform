@@ -100,3 +100,4 @@
 - [2023-05-08] docs: add HIPAA compliance notes to data pipeline
 - [2023-05-09] fix: correct survival analysis time window calculation
 - [2023-05-09] refactor: modularize EHR data standardization logic
+- [2023-05-10] chore: update SNOMED CT vocabulary mappings
