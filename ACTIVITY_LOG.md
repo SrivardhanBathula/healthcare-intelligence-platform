@@ -103,3 +103,4 @@
 - [2023-05-10] chore: update SNOMED CT vocabulary mappings
 - [2023-05-10] chore: clean up unused imports and dead code
 - [2023-05-20] refactor: improve ICU risk model preprocessing
+- [2023-05-20] fix: negation detection edge case in NER pipeline
