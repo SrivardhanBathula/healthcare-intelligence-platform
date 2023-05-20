@@ -102,3 +102,4 @@
 - [2023-05-09] refactor: modularize EHR data standardization logic
 - [2023-05-10] chore: update SNOMED CT vocabulary mappings
 - [2023-05-10] chore: clean up unused imports and dead code
+- [2023-05-20] refactor: improve ICU risk model preprocessing
