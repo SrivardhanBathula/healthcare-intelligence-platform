@@ -105,3 +105,4 @@
 - [2023-05-20] refactor: improve ICU risk model preprocessing
 - [2023-05-20] fix: negation detection edge case in NER pipeline
 - [2023-05-23] refactor: modularize EHR data standardization logic
+- [2023-05-23] test: add unit tests for OMOP transformer
