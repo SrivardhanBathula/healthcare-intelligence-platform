@@ -108,3 +108,4 @@
 - [2023-05-23] test: add unit tests for OMOP transformer
 - [2023-05-24] refactor: optimize EHR ingestion pipeline performance
 - [2023-05-25] fix: handle null values in OMOP CDM transformer
+- [2023-05-26] chore: update SNOMED CT vocabulary mappings
