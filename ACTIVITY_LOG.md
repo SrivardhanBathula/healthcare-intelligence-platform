@@ -111,3 +111,4 @@
 - [2023-05-26] chore: update SNOMED CT vocabulary mappings
 - [2023-05-29] feat: add ICD-10 code validation layer
 - [2023-05-30] chore: clean up unused imports and dead code
+- [2023-06-02] test: add integration tests for clinical NER pipeline
