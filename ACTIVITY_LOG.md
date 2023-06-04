@@ -113,3 +113,4 @@
 - [2023-05-30] chore: clean up unused imports and dead code
 - [2023-06-02] test: add integration tests for clinical NER pipeline
 - [2023-06-02] fix: negation detection edge case in NER pipeline
+- [2023-06-04] fix: negation detection edge case in NER pipeline
