@@ -115,3 +115,4 @@
 - [2023-06-02] fix: negation detection edge case in NER pipeline
 - [2023-06-04] fix: negation detection edge case in NER pipeline
 - [2023-06-07] fix: resolve memory leak in PySpark feature job
+- [2023-06-08] fix: correct survival analysis time window calculation
