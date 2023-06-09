@@ -117,3 +117,4 @@
 - [2023-06-07] fix: resolve memory leak in PySpark feature job
 - [2023-06-08] fix: correct survival analysis time window calculation
 - [2023-06-08] fix: handle missing lab values in ICU risk model
+- [2023-06-09] refactor: improve temporal feature extraction efficiency
