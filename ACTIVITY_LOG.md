@@ -118,3 +118,4 @@
 - [2023-06-08] fix: correct survival analysis time window calculation
 - [2023-06-08] fix: handle missing lab values in ICU risk model
 - [2023-06-09] refactor: improve temporal feature extraction efficiency
+- [2023-06-14] refactor: improve ICU risk model preprocessing
