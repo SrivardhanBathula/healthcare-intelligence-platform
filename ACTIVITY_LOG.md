@@ -120,3 +120,4 @@
 - [2023-06-09] refactor: improve temporal feature extraction efficiency
 - [2023-06-14] refactor: improve ICU risk model preprocessing
 - [2023-06-14] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-06-16] chore: upgrade scikit-learn to latest stable
