@@ -122,3 +122,4 @@
 - [2023-06-14] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-06-16] chore: upgrade scikit-learn to latest stable
 - [2023-06-19] chore: clean up unused imports and dead code
+- [2023-06-20] test: add unit tests for OMOP transformer
