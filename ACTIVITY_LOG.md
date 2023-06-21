@@ -123,3 +123,4 @@
 - [2023-06-16] chore: upgrade scikit-learn to latest stable
 - [2023-06-19] chore: clean up unused imports and dead code
 - [2023-06-20] test: add unit tests for OMOP transformer
+- [2023-06-21] refactor: optimize ClinicalBERT batch inference
