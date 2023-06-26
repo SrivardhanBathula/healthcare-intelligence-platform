@@ -128,3 +128,4 @@
 - [2023-06-23] chore: upgrade scikit-learn to latest stable
 - [2023-06-23] feat: add Prometheus metrics for pipeline monitoring
 - [2023-06-25] fix: handle null values in OMOP CDM transformer
+- [2023-06-26] test: add unit tests for OMOP transformer
