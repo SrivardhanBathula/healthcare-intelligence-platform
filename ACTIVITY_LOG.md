@@ -130,3 +130,4 @@
 - [2023-06-25] fix: handle null values in OMOP CDM transformer
 - [2023-06-26] test: add unit tests for OMOP transformer
 - [2023-06-26] refactor: improve temporal feature extraction efficiency
+- [2023-06-27] test: add unit tests for OMOP transformer
