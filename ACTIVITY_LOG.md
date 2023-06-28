@@ -131,3 +131,4 @@
 - [2023-06-25] chore: update SNOMED CT vocabulary mappings
 - [2023-06-26] refactor: improve temporal feature extraction efficiency
 - [2023-06-27] test: add unit tests for OMOP transformer
+- [2023-06-28] fix: handle missing lab values in ICU risk model
