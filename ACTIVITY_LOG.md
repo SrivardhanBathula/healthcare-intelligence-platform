@@ -132,3 +132,4 @@
 - [2023-06-26] refactor: improve temporal feature extraction efficiency
 - [2023-06-27] test: add unit tests for OMOP transformer
 - [2023-06-28] fix: handle missing lab values in ICU risk model
+- [2023-06-28] chore: upgrade scikit-learn to latest stable
