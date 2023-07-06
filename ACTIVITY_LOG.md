@@ -135,3 +135,4 @@
 - [2023-06-28] chore: upgrade scikit-learn to latest stable
 - [2023-07-03] fix: negation detection edge case in NER pipeline
 - [2023-07-06] fix: negation detection edge case in NER pipeline
+- [2023-07-06] refactor: improve temporal feature extraction efficiency
