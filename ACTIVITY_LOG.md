@@ -138,3 +138,4 @@
 - [2023-07-06] refactor: improve temporal feature extraction efficiency
 - [2023-07-11] refactor: modularize EHR data standardization logic
 - [2023-07-11] refactor: improve ICU risk model preprocessing
+- [2023-07-14] refactor: improve ICU risk model preprocessing
