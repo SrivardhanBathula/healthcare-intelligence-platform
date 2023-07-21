@@ -144,3 +144,4 @@
 - [2023-07-17] fix: handle missing lab values in ICU risk model
 - [2023-07-17] fix: handle null values in OMOP CDM transformer
 - [2023-07-18] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-07-21] test: add unit tests for OMOP transformer
