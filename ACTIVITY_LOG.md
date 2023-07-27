@@ -146,3 +146,4 @@
 - [2023-07-18] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-07-21] test: add unit tests for OMOP transformer
 - [2023-07-26] test: add integration tests for clinical NER pipeline
+- [2023-07-27] fix: negation detection edge case in NER pipeline
