@@ -148,3 +148,4 @@
 - [2023-07-26] test: add integration tests for clinical NER pipeline
 - [2023-07-27] fix: negation detection edge case in NER pipeline
 - [2023-08-01] refactor: improve ICU risk model preprocessing
+- [2023-08-03] refactor: optimize ClinicalBERT batch inference
