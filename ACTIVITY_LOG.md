@@ -152,3 +152,4 @@
 - [2023-08-07] chore: clean up unused imports and dead code
 - [2023-08-09] docs: update clinical NLP pipeline documentation
 - [2023-08-09] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-08-10] refactor: optimize ClinicalBERT batch inference
