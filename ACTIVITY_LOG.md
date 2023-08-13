@@ -154,3 +154,4 @@
 - [2023-08-09] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-08-10] refactor: optimize ClinicalBERT batch inference
 - [2023-08-11] refactor: optimize EHR ingestion pipeline performance
+- [2023-08-13] refactor: optimize EHR ingestion pipeline performance
