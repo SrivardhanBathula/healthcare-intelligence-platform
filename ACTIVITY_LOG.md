@@ -155,3 +155,4 @@
 - [2023-08-10] refactor: optimize ClinicalBERT batch inference
 - [2023-08-11] refactor: optimize EHR ingestion pipeline performance
 - [2023-08-13] refactor: optimize EHR ingestion pipeline performance
+- [2023-08-13] feat: add ICD-10 code validation layer
