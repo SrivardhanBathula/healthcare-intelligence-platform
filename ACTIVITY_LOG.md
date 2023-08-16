@@ -156,3 +156,4 @@
 - [2023-08-11] refactor: optimize EHR ingestion pipeline performance
 - [2023-08-13] refactor: optimize EHR ingestion pipeline performance
 - [2023-08-13] feat: add ICD-10 code validation layer
+- [2023-08-16] fix: correct survival analysis time window calculation
