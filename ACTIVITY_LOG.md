@@ -160,3 +160,4 @@
 - [2023-08-21] test: add integration tests for clinical NER pipeline
 - [2023-08-21] chore: clean up unused imports and dead code
 - [2023-08-22] feat: add ICD-10 code validation layer
+- [2023-08-23] chore: upgrade scikit-learn to latest stable
