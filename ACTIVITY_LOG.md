@@ -163,3 +163,4 @@
 - [2023-08-23] chore: upgrade scikit-learn to latest stable
 - [2023-08-25] test: add integration tests for clinical NER pipeline
 - [2023-08-25] refactor: optimize ClinicalBERT batch inference
+- [2023-08-28] fix: handle missing lab values in ICU risk model
