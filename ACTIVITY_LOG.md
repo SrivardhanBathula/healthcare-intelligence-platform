@@ -165,3 +165,4 @@
 - [2023-08-25] refactor: optimize ClinicalBERT batch inference
 - [2023-08-28] fix: handle missing lab values in ICU risk model
 - [2023-08-28] docs: update clinical NLP pipeline documentation
+- [2023-08-29] fix: resolve memory leak in PySpark feature job
