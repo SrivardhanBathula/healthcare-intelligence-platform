@@ -164,3 +164,4 @@
 - [2023-08-25] test: add integration tests for clinical NER pipeline
 - [2023-08-29] chore: update SNOMED CT vocabulary mappings
 - [2023-08-30] docs: update clinical NLP pipeline documentation
+- [2023-08-30] chore: update SNOMED CT vocabulary mappings
