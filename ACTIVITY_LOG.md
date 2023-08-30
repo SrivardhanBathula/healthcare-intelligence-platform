@@ -163,3 +163,4 @@
 - [2023-08-23] chore: upgrade scikit-learn to latest stable
 - [2023-08-25] test: add integration tests for clinical NER pipeline
 - [2023-08-29] chore: update SNOMED CT vocabulary mappings
+- [2023-08-30] docs: update clinical NLP pipeline documentation
