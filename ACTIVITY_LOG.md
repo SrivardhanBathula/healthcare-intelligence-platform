@@ -168,3 +168,4 @@
 - [2023-08-31] refactor: improve temporal feature extraction efficiency
 - [2023-09-04] chore: update SNOMED CT vocabulary mappings
 - [2023-09-04] fix: handle null values in OMOP CDM transformer
+- [2023-09-05] fix: negation detection edge case in NER pipeline
