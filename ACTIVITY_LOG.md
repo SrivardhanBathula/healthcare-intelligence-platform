@@ -169,3 +169,4 @@
 - [2023-09-04] feat: add ICD-10 code validation layer
 - [2023-09-06] refactor: improve temporal feature extraction efficiency
 - [2023-09-06] fix: negation detection edge case in NER pipeline
+- [2023-09-08] chore: update SNOMED CT vocabulary mappings
