@@ -171,3 +171,4 @@
 - [2023-09-06] fix: negation detection edge case in NER pipeline
 - [2023-09-08] chore: update SNOMED CT vocabulary mappings
 - [2023-09-08] refactor: optimize ClinicalBERT batch inference
+- [2023-09-13] test: add unit tests for OMOP transformer
