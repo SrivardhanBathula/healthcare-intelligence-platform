@@ -172,3 +172,4 @@
 - [2023-09-07] chore: update SNOMED CT vocabulary mappings
 - [2023-09-07] refactor: optimize ClinicalBERT batch inference
 - [2023-09-08] fix: resolve memory leak in PySpark feature job
+- [2023-09-13] refactor: optimize EHR ingestion pipeline performance
