@@ -174,3 +174,4 @@
 - [2023-09-08] fix: resolve memory leak in PySpark feature job
 - [2023-09-13] refactor: optimize EHR ingestion pipeline performance
 - [2023-09-13] docs: update clinical NLP pipeline documentation
+- [2023-09-15] refactor: optimize EHR ingestion pipeline performance
