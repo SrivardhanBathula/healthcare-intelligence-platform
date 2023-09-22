@@ -177,3 +177,4 @@
 - [2023-09-15] refactor: optimize EHR ingestion pipeline performance
 - [2023-09-18] refactor: optimize ClinicalBERT batch inference
 - [2023-09-18] refactor: optimize ClinicalBERT batch inference
+- [2023-09-22] test: add integration tests for clinical NER pipeline
