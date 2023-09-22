@@ -177,3 +177,4 @@
 - [2023-09-15] chore: upgrade scikit-learn to latest stable
 - [2023-09-19] chore: clean up unused imports and dead code
 - [2023-09-20] feat: add ICD-10 code validation layer
+- [2023-09-22] fix: negation detection edge case in NER pipeline
