@@ -179,3 +179,4 @@
 - [2023-09-18] refactor: optimize ClinicalBERT batch inference
 - [2023-09-22] test: add integration tests for clinical NER pipeline
 - [2023-09-23] fix: resolve memory leak in PySpark feature job
+- [2023-09-23] chore: clean up unused imports and dead code
