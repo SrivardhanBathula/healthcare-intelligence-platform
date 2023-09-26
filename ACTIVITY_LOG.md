@@ -181,3 +181,4 @@
 - [2023-09-23] fix: resolve memory leak in PySpark feature job
 - [2023-09-23] chore: clean up unused imports and dead code
 - [2023-09-25] refactor: modularize EHR data standardization logic
+- [2023-09-26] refactor: optimize EHR ingestion pipeline performance
