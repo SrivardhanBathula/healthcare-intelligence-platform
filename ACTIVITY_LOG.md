@@ -180,3 +180,4 @@
 - [2023-09-22] fix: negation detection edge case in NER pipeline
 - [2023-09-25] refactor: optimize EHR ingestion pipeline performance
 - [2023-09-25] fix: handle missing lab values in ICU risk model
+- [2023-09-26] feat: add Prometheus metrics for pipeline monitoring
