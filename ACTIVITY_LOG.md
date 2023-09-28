@@ -182,3 +182,4 @@
 - [2023-09-25] fix: handle missing lab values in ICU risk model
 - [2023-09-26] feat: add Prometheus metrics for pipeline monitoring
 - [2023-09-27] chore: clean up unused imports and dead code
+- [2023-09-28] refactor: optimize EHR ingestion pipeline performance
