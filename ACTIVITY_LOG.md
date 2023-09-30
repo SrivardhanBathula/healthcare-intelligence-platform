@@ -185,3 +185,4 @@
 - [2023-09-28] refactor: optimize EHR ingestion pipeline performance
 - [2023-09-29] refactor: improve temporal feature extraction efficiency
 - [2023-09-30] docs: add HIPAA compliance notes to data pipeline
+- [2023-09-30] test: add unit tests for OMOP transformer
