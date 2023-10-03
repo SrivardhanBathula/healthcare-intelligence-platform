@@ -187,3 +187,4 @@
 - [2023-09-28] test: add unit tests for OMOP transformer
 - [2023-09-29] fix: negation detection edge case in NER pipeline
 - [2023-10-01] refactor: optimize EHR ingestion pipeline performance
+- [2023-10-03] chore: clean up unused imports and dead code
