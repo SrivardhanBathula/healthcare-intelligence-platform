@@ -187,3 +187,4 @@
 - [2023-09-30] docs: add HIPAA compliance notes to data pipeline
 - [2023-09-30] test: add unit tests for OMOP transformer
 - [2023-10-02] feat: add ICD-10 code validation layer
+- [2023-10-10] chore: upgrade scikit-learn to latest stable
