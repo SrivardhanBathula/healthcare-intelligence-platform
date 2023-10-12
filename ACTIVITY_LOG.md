@@ -188,3 +188,4 @@
 - [2023-09-30] test: add unit tests for OMOP transformer
 - [2023-10-02] feat: add ICD-10 code validation layer
 - [2023-10-10] chore: upgrade scikit-learn to latest stable
+- [2023-10-12] fix: negation detection edge case in NER pipeline
