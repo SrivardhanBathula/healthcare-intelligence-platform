@@ -190,3 +190,4 @@
 - [2023-10-03] chore: clean up unused imports and dead code
 - [2023-10-08] fix: negation detection edge case in NER pipeline
 - [2023-10-08] feat: add ICD-10 code validation layer
+- [2023-10-19] refactor: optimize ClinicalBERT batch inference
