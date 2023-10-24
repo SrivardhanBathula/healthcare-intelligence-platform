@@ -191,3 +191,4 @@
 - [2023-10-12] fix: negation detection edge case in NER pipeline
 - [2023-10-12] feat: add ICD-10 code validation layer
 - [2023-10-23] refactor: optimize ClinicalBERT batch inference
+- [2023-10-24] feat: add ICD-10 code validation layer
