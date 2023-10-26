@@ -195,3 +195,4 @@
 - [2023-10-24] fix: resolve memory leak in PySpark feature job
 - [2023-10-25] chore: update SNOMED CT vocabulary mappings
 - [2023-10-25] refactor: improve temporal feature extraction efficiency
+- [2023-10-26] feat: add ICD-10 code validation layer
