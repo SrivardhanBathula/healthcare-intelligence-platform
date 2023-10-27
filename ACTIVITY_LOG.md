@@ -198,3 +198,4 @@
 - [2023-10-22] feat: add ICD-10 code validation layer
 - [2023-10-26] fix: handle null values in OMOP CDM transformer
 - [2023-10-26] refactor: optimize ClinicalBERT batch inference
+- [2023-10-27] refactor: modularize EHR data standardization logic
