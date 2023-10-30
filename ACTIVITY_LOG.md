@@ -199,3 +199,4 @@
 - [2023-10-26] fix: handle null values in OMOP CDM transformer
 - [2023-10-26] refactor: optimize ClinicalBERT batch inference
 - [2023-10-27] refactor: modularize EHR data standardization logic
+- [2023-10-30] refactor: improve ICU risk model preprocessing
