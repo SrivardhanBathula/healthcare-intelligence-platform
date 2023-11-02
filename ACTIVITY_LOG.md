@@ -200,3 +200,4 @@
 - [2023-10-26] refactor: optimize ClinicalBERT batch inference
 - [2023-10-27] refactor: modularize EHR data standardization logic
 - [2023-10-30] refactor: improve ICU risk model preprocessing
+- [2023-11-02] fix: negation detection edge case in NER pipeline
