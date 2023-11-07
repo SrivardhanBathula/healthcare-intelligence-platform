@@ -204,3 +204,4 @@
 - [2023-11-03] fix: correct survival analysis time window calculation
 - [2023-11-06] chore: update SNOMED CT vocabulary mappings
 - [2023-11-07] chore: update SNOMED CT vocabulary mappings
+- [2023-11-07] fix: handle null values in OMOP CDM transformer
