@@ -203,3 +203,4 @@
 - [2023-10-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-11-03] fix: negation detection edge case in NER pipeline
 - [2023-11-06] feat: add Prometheus metrics for pipeline monitoring
+- [2023-11-09] docs: add HIPAA compliance notes to data pipeline
