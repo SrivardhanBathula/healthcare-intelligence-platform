@@ -207,3 +207,4 @@
 - [2023-11-07] fix: handle null values in OMOP CDM transformer
 - [2023-11-08] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-11-09] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-11-11] refactor: optimize ClinicalBERT batch inference
