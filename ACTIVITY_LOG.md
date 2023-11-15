@@ -208,3 +208,4 @@
 - [2023-11-13] fix: handle missing lab values in ICU risk model
 - [2023-11-14] chore: upgrade scikit-learn to latest stable
 - [2023-11-15] refactor: optimize ClinicalBERT batch inference
+- [2023-11-15] fix: correct ICD-10 to SNOMED mapping for edge cases
