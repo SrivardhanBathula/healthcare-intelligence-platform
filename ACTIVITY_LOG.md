@@ -209,3 +209,4 @@
 - [2023-11-09] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-11-11] refactor: optimize ClinicalBERT batch inference
 - [2023-11-15] refactor: improve temporal feature extraction efficiency
+- [2023-11-15] refactor: improve temporal feature extraction efficiency
