@@ -209,3 +209,4 @@
 - [2023-11-14] chore: upgrade scikit-learn to latest stable
 - [2023-11-15] refactor: optimize ClinicalBERT batch inference
 - [2023-11-15] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-11-16] refactor: improve temporal feature extraction efficiency
