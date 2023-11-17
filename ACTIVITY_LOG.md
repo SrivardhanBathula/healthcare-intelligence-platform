@@ -212,3 +212,4 @@
 - [2023-11-15] refactor: improve temporal feature extraction efficiency
 - [2023-11-16] refactor: modularize EHR data standardization logic
 - [2023-11-16] refactor: optimize EHR ingestion pipeline performance
+- [2023-11-17] chore: update SNOMED CT vocabulary mappings
