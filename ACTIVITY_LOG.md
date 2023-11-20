@@ -214,3 +214,4 @@
 - [2023-11-16] refactor: optimize EHR ingestion pipeline performance
 - [2023-11-17] chore: update SNOMED CT vocabulary mappings
 - [2023-11-19] refactor: improve ICU risk model preprocessing
+- [2023-11-20] docs: update clinical NLP pipeline documentation
