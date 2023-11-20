@@ -213,3 +213,4 @@
 - [2023-11-16] refactor: improve temporal feature extraction efficiency
 - [2023-11-17] refactor: modularize EHR data standardization logic
 - [2023-11-17] refactor: optimize EHR ingestion pipeline performance
+- [2023-11-20] fix: handle null values in OMOP CDM transformer
