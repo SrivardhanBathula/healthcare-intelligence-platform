@@ -215,3 +215,4 @@
 - [2023-11-17] chore: update SNOMED CT vocabulary mappings
 - [2023-11-19] refactor: improve ICU risk model preprocessing
 - [2023-11-20] docs: update clinical NLP pipeline documentation
+- [2023-11-21] fix: correct survival analysis time window calculation
