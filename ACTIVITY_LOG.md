@@ -217,3 +217,4 @@
 - [2023-11-20] refactor: improve ICU risk model preprocessing
 - [2023-11-21] docs: update clinical NLP pipeline documentation
 - [2023-11-22] fix: correct survival analysis time window calculation
+- [2023-11-22] feat: add ICD-10 code validation layer
