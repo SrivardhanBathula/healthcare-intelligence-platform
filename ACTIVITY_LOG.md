@@ -218,3 +218,4 @@
 - [2023-11-21] fix: correct survival analysis time window calculation
 - [2023-11-21] feat: add ICD-10 code validation layer
 - [2023-11-23] refactor: optimize ClinicalBERT batch inference
+- [2023-11-23] feat: add ICD-10 code validation layer
