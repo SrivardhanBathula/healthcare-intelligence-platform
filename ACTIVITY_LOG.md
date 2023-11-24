@@ -218,3 +218,4 @@
 - [2023-11-21] docs: update clinical NLP pipeline documentation
 - [2023-11-22] fix: correct survival analysis time window calculation
 - [2023-11-22] feat: add ICD-10 code validation layer
+- [2023-11-24] refactor: optimize ClinicalBERT batch inference
