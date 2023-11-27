@@ -220,3 +220,4 @@
 - [2023-11-23] refactor: optimize ClinicalBERT batch inference
 - [2023-11-23] feat: add ICD-10 code validation layer
 - [2023-11-24] fix: negation detection edge case in NER pipeline
+- [2023-11-27] fix: handle missing lab values in ICU risk model
