@@ -222,3 +222,4 @@
 - [2023-11-24] fix: negation detection edge case in NER pipeline
 - [2023-11-27] fix: handle missing lab values in ICU risk model
 - [2023-11-28] fix: correct survival analysis time window calculation
+- [2023-11-28] fix: correct survival analysis time window calculation
