@@ -221,3 +221,4 @@
 - [2023-11-24] refactor: optimize ClinicalBERT batch inference
 - [2023-11-24] feat: add ICD-10 code validation layer
 - [2023-11-27] docs: add HIPAA compliance notes to data pipeline
+- [2023-11-28] feat: add ICD-10 code validation layer
