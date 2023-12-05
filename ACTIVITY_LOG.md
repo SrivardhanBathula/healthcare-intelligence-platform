@@ -227,3 +227,4 @@
 - [2023-12-02] docs: add HIPAA compliance notes to data pipeline
 - [2023-12-04] fix: handle null values in OMOP CDM transformer
 - [2023-12-05] docs: add HIPAA compliance notes to data pipeline
+- [2023-12-05] chore: update SNOMED CT vocabulary mappings
