@@ -226,3 +226,4 @@
 - [2023-11-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-12-02] docs: add HIPAA compliance notes to data pipeline
 - [2023-12-04] fix: handle null values in OMOP CDM transformer
+- [2023-12-05] docs: add HIPAA compliance notes to data pipeline
