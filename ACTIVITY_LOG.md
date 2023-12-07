@@ -228,3 +228,4 @@
 - [2023-12-04] fix: handle null values in OMOP CDM transformer
 - [2023-12-05] docs: add HIPAA compliance notes to data pipeline
 - [2023-12-05] chore: update SNOMED CT vocabulary mappings
+- [2023-12-07] fix: negation detection edge case in NER pipeline
