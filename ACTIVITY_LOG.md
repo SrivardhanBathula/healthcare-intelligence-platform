@@ -225,3 +225,4 @@
 - [2023-11-30] fix: correct survival analysis time window calculation
 - [2023-12-04] fix: resolve memory leak in PySpark feature job
 - [2023-12-10] chore: update SNOMED CT vocabulary mappings
+- [2023-12-11] refactor: improve ICU risk model preprocessing
