@@ -229,3 +229,4 @@
 - [2023-12-05] docs: add HIPAA compliance notes to data pipeline
 - [2023-12-05] chore: update SNOMED CT vocabulary mappings
 - [2023-12-07] fix: negation detection edge case in NER pipeline
+- [2023-12-11] docs: update clinical NLP pipeline documentation
