@@ -227,3 +227,4 @@
 - [2023-12-10] chore: update SNOMED CT vocabulary mappings
 - [2023-12-11] refactor: improve ICU risk model preprocessing
 - [2023-12-11] fix: handle missing lab values in ICU risk model
+- [2023-12-12] refactor: optimize EHR ingestion pipeline performance
