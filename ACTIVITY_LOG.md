@@ -232,3 +232,4 @@
 - [2023-12-11] docs: update clinical NLP pipeline documentation
 - [2023-12-11] feat: add Prometheus metrics for pipeline monitoring
 - [2023-12-12] docs: add HIPAA compliance notes to data pipeline
+- [2023-12-13] feat: add ICD-10 code validation layer
