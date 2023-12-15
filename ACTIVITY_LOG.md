@@ -229,3 +229,4 @@
 - [2023-12-11] fix: handle missing lab values in ICU risk model
 - [2023-12-12] refactor: optimize EHR ingestion pipeline performance
 - [2023-12-13] fix: negation detection edge case in NER pipeline
+- [2023-12-15] test: add integration tests for clinical NER pipeline
