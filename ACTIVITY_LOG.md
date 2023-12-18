@@ -230,3 +230,4 @@
 - [2023-12-12] refactor: optimize EHR ingestion pipeline performance
 - [2023-12-13] fix: negation detection edge case in NER pipeline
 - [2023-12-15] test: add integration tests for clinical NER pipeline
+- [2023-12-18] fix: correct survival analysis time window calculation
