@@ -231,3 +231,4 @@
 - [2023-12-13] fix: negation detection edge case in NER pipeline
 - [2023-12-15] test: add integration tests for clinical NER pipeline
 - [2023-12-18] fix: correct survival analysis time window calculation
+- [2023-12-19] fix: correct ICD-10 to SNOMED mapping for edge cases
