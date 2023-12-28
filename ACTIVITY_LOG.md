@@ -242,3 +242,4 @@
 - [2023-12-25] fix: negation detection edge case in NER pipeline
 - [2023-12-27] feat: add ICD-10 code validation layer
 - [2023-12-28] fix: handle missing lab values in ICU risk model
+- [2023-12-28] feat: add Prometheus metrics for pipeline monitoring
