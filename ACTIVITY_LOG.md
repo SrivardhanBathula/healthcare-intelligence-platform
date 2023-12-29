@@ -234,3 +234,4 @@
 - [2023-12-19] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-12-20] chore: upgrade scikit-learn to latest stable
 - [2023-12-22] fix: correct survival analysis time window calculation
+- [2023-12-29] fix: handle missing lab values in ICU risk model
