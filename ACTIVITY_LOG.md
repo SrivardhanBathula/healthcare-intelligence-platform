@@ -238,3 +238,4 @@
 - [2024-01-01] test: add integration tests for clinical NER pipeline
 - [2024-01-01] fix: negation detection edge case in NER pipeline
 - [2024-01-03] feat: add ICD-10 code validation layer
+- [2024-01-04] fix: handle missing lab values in ICU risk model
