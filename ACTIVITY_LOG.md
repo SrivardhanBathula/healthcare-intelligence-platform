@@ -240,3 +240,4 @@
 - [2024-01-03] feat: add ICD-10 code validation layer
 - [2024-01-04] fix: handle missing lab values in ICU risk model
 - [2024-01-04] feat: add Prometheus metrics for pipeline monitoring
+- [2024-01-05] docs: add HIPAA compliance notes to data pipeline
