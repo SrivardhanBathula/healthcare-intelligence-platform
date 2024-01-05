@@ -241,3 +241,4 @@
 - [2024-01-04] fix: handle missing lab values in ICU risk model
 - [2024-01-04] feat: add Prometheus metrics for pipeline monitoring
 - [2024-01-05] docs: add HIPAA compliance notes to data pipeline
+- [2024-01-05] fix: resolve memory leak in PySpark feature job
