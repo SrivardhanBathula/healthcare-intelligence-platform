@@ -250,3 +250,4 @@
 - [2024-01-03] refactor: improve ICU risk model preprocessing
 - [2024-01-03] refactor: modularize EHR data standardization logic
 - [2024-01-04] refactor: optimize EHR ingestion pipeline performance
+- [2024-01-05] docs: update clinical NLP pipeline documentation
