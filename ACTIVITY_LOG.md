@@ -242,3 +242,4 @@
 - [2024-01-04] feat: add Prometheus metrics for pipeline monitoring
 - [2024-01-05] docs: add HIPAA compliance notes to data pipeline
 - [2024-01-05] fix: resolve memory leak in PySpark feature job
+- [2024-01-08] fix: correct survival analysis time window calculation
