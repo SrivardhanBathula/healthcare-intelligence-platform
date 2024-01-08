@@ -252,3 +252,4 @@
 - [2024-01-04] refactor: optimize EHR ingestion pipeline performance
 - [2024-01-05] docs: update clinical NLP pipeline documentation
 - [2024-01-05] test: add unit tests for OMOP transformer
+- [2024-01-08] fix: negation detection edge case in NER pipeline
