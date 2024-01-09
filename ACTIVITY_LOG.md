@@ -243,3 +243,4 @@
 - [2024-01-05] docs: add HIPAA compliance notes to data pipeline
 - [2024-01-05] fix: resolve memory leak in PySpark feature job
 - [2024-01-08] fix: correct survival analysis time window calculation
+- [2024-01-09] chore: clean up unused imports and dead code
