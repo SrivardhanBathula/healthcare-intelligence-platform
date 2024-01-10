@@ -245,3 +245,4 @@
 - [2024-01-08] fix: correct survival analysis time window calculation
 - [2024-01-09] chore: clean up unused imports and dead code
 - [2024-01-10] refactor: improve ICU risk model preprocessing
+- [2024-01-10] refactor: modularize EHR data standardization logic
