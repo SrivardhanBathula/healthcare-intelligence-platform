@@ -248,3 +248,4 @@
 - [2024-01-10] refactor: modularize EHR data standardization logic
 - [2024-01-11] refactor: optimize EHR ingestion pipeline performance
 - [2024-01-12] docs: update clinical NLP pipeline documentation
+- [2024-01-12] test: add unit tests for OMOP transformer
