@@ -254,3 +254,4 @@
 - [2024-01-05] test: add unit tests for OMOP transformer
 - [2024-01-08] fix: negation detection edge case in NER pipeline
 - [2024-01-12] chore: upgrade scikit-learn to latest stable
+- [2024-01-18] docs: add HIPAA compliance notes to data pipeline
