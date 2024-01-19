@@ -250,3 +250,4 @@
 - [2024-01-12] docs: update clinical NLP pipeline documentation
 - [2024-01-12] test: add unit tests for OMOP transformer
 - [2024-01-15] fix: negation detection edge case in NER pipeline
+- [2024-01-19] chore: upgrade scikit-learn to latest stable
