@@ -258,3 +258,4 @@
 - [2024-01-18] chore: clean up unused imports and dead code
 - [2024-01-19] chore: upgrade scikit-learn to latest stable
 - [2024-01-22] chore: update SNOMED CT vocabulary mappings
+- [2024-01-23] fix: handle null values in OMOP CDM transformer
