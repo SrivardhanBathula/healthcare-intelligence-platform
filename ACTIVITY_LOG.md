@@ -260,3 +260,4 @@
 - [2024-01-22] chore: update SNOMED CT vocabulary mappings
 - [2024-01-23] fix: handle null values in OMOP CDM transformer
 - [2024-01-25] fix: correct survival analysis time window calculation
+- [2024-01-31] refactor: improve temporal feature extraction efficiency
