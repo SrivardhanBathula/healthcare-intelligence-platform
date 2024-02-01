@@ -256,3 +256,4 @@
 - [2024-01-26] chore: upgrade scikit-learn to latest stable
 - [2024-01-29] chore: update SNOMED CT vocabulary mappings
 - [2024-01-30] fix: handle null values in OMOP CDM transformer
+- [2024-02-01] fix: correct survival analysis time window calculation
