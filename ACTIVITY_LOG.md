@@ -258,3 +258,4 @@
 - [2024-01-30] fix: handle null values in OMOP CDM transformer
 - [2024-02-01] fix: correct survival analysis time window calculation
 - [2024-02-07] refactor: improve temporal feature extraction efficiency
+- [2024-02-07] feat: add Prometheus metrics for pipeline monitoring
