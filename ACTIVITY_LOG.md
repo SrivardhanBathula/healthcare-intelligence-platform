@@ -267,3 +267,4 @@
 - [2024-02-07] refactor: optimize EHR ingestion pipeline performance
 - [2024-02-12] fix: resolve memory leak in PySpark feature job
 - [2024-02-12] fix: correct survival analysis time window calculation
+- [2024-02-13] refactor: improve temporal feature extraction efficiency
