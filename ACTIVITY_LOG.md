@@ -260,3 +260,4 @@
 - [2024-02-07] refactor: improve temporal feature extraction efficiency
 - [2024-02-07] feat: add Prometheus metrics for pipeline monitoring
 - [2024-02-12] test: add unit tests for OMOP transformer
+- [2024-02-14] fix: handle null values in OMOP CDM transformer
