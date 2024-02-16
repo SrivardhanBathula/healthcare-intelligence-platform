@@ -269,3 +269,4 @@
 - [2024-02-12] fix: correct survival analysis time window calculation
 - [2024-02-13] refactor: improve temporal feature extraction efficiency
 - [2024-02-14] chore: clean up unused imports and dead code
+- [2024-02-16] fix: negation detection edge case in NER pipeline
