@@ -263,3 +263,4 @@
 - [2024-02-14] fix: handle null values in OMOP CDM transformer
 - [2024-02-14] refactor: optimize EHR ingestion pipeline performance
 - [2024-02-19] fix: resolve memory leak in PySpark feature job
+- [2024-02-19] fix: correct survival analysis time window calculation
