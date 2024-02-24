@@ -267,3 +267,4 @@
 - [2024-02-20] refactor: improve temporal feature extraction efficiency
 - [2024-02-21] chore: clean up unused imports and dead code
 - [2024-02-23] fix: negation detection edge case in NER pipeline
+- [2024-02-24] feat: add ICD-10 code validation layer
