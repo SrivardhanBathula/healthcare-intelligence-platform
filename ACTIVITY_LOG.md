@@ -269,3 +269,4 @@
 - [2024-02-23] fix: negation detection edge case in NER pipeline
 - [2024-02-24] feat: add ICD-10 code validation layer
 - [2024-02-26] fix: negation detection edge case in NER pipeline
+- [2024-02-27] chore: upgrade scikit-learn to latest stable
