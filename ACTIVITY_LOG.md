@@ -271,3 +271,4 @@
 - [2024-02-26] fix: negation detection edge case in NER pipeline
 - [2024-02-27] chore: upgrade scikit-learn to latest stable
 - [2024-02-28] docs: update clinical NLP pipeline documentation
+- [2024-02-29] feat: add ICD-10 code validation layer
