@@ -273,3 +273,4 @@
 - [2024-02-28] docs: update clinical NLP pipeline documentation
 - [2024-02-29] feat: add ICD-10 code validation layer
 - [2024-03-04] refactor: optimize ClinicalBERT batch inference
+- [2024-03-08] feat: add Prometheus metrics for pipeline monitoring
