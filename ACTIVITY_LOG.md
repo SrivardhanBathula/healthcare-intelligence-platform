@@ -281,3 +281,4 @@
 - [2024-03-07] fix: handle null values in OMOP CDM transformer
 - [2024-03-07] refactor: modularize EHR data standardization logic
 - [2024-03-08] feat: add Prometheus metrics for pipeline monitoring
+- [2024-03-10] refactor: improve temporal feature extraction efficiency
