@@ -283,3 +283,4 @@
 - [2024-03-08] feat: add Prometheus metrics for pipeline monitoring
 - [2024-03-10] refactor: improve temporal feature extraction efficiency
 - [2024-03-10] chore: clean up unused imports and dead code
+- [2024-03-11] fix: correct ICD-10 to SNOMED mapping for edge cases
