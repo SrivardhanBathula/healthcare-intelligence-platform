@@ -285,3 +285,4 @@
 - [2024-03-10] chore: clean up unused imports and dead code
 - [2024-03-11] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-03-12] docs: add HIPAA compliance notes to data pipeline
+- [2024-03-12] fix: handle missing lab values in ICU risk model
