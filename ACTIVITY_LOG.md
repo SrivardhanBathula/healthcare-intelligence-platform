@@ -275,3 +275,4 @@
 - [2024-03-04] refactor: optimize ClinicalBERT batch inference
 - [2024-03-08] feat: add Prometheus metrics for pipeline monitoring
 - [2024-03-12] refactor: improve temporal feature extraction efficiency
+- [2024-03-14] fix: handle null values in OMOP CDM transformer
