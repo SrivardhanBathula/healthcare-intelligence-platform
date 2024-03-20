@@ -283,3 +283,4 @@
 - [2024-03-18] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-03-19] docs: add HIPAA compliance notes to data pipeline
 - [2024-03-19] fix: handle missing lab values in ICU risk model
+- [2024-03-20] fix: correct survival analysis time window calculation
