@@ -285,3 +285,4 @@
 - [2024-03-19] fix: handle missing lab values in ICU risk model
 - [2024-03-20] fix: correct survival analysis time window calculation
 - [2024-03-20] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-03-23] fix: correct ICD-10 to SNOMED mapping for edge cases
