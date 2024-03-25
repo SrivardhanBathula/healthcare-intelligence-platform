@@ -294,3 +294,4 @@
 - [2024-03-20] test: add unit tests for OMOP transformer
 - [2024-03-21] docs: add HIPAA compliance notes to data pipeline
 - [2024-03-25] refactor: optimize ClinicalBERT batch inference
+- [2024-03-25] docs: update clinical NLP pipeline documentation
