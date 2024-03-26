@@ -287,3 +287,4 @@
 - [2024-03-20] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-03-23] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-03-26] fix: handle null values in OMOP CDM transformer
+- [2024-03-26] chore: update SNOMED CT vocabulary mappings
