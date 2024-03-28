@@ -289,3 +289,4 @@
 - [2024-03-26] fix: handle null values in OMOP CDM transformer
 - [2024-03-26] chore: update SNOMED CT vocabulary mappings
 - [2024-03-27] test: add unit tests for OMOP transformer
+- [2024-03-28] docs: add HIPAA compliance notes to data pipeline
