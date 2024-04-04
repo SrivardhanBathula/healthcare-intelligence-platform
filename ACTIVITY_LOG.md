@@ -293,3 +293,4 @@
 - [2024-04-01] refactor: optimize ClinicalBERT batch inference
 - [2024-04-01] docs: update clinical NLP pipeline documentation
 - [2024-04-03] feat: add Prometheus metrics for pipeline monitoring
+- [2024-04-04] refactor: modularize EHR data standardization logic
