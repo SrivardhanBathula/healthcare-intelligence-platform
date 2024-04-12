@@ -295,3 +295,4 @@
 - [2024-04-03] feat: add Prometheus metrics for pipeline monitoring
 - [2024-04-04] refactor: modularize EHR data standardization logic
 - [2024-04-10] refactor: improve ICU risk model preprocessing
+- [2024-04-12] feat: add Prometheus metrics for pipeline monitoring
