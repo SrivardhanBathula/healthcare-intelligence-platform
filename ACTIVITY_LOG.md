@@ -303,3 +303,4 @@
 - [2024-04-10] docs: add HIPAA compliance notes to data pipeline
 - [2024-04-11] refactor: optimize ClinicalBERT batch inference
 - [2024-04-18] fix: handle missing lab values in ICU risk model
+- [2024-04-20] chore: upgrade scikit-learn to latest stable
