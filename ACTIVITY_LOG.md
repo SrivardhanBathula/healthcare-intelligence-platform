@@ -307,3 +307,4 @@
 - [2024-04-23] chore: update SNOMED CT vocabulary mappings
 - [2024-04-24] docs: add HIPAA compliance notes to data pipeline
 - [2024-04-24] fix: resolve memory leak in PySpark feature job
+- [2024-04-25] test: add unit tests for OMOP transformer
