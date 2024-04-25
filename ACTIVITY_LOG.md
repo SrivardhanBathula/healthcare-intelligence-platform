@@ -299,3 +299,4 @@
 - [2024-04-15] chore: clean up unused imports and dead code
 - [2024-04-17] docs: add HIPAA compliance notes to data pipeline
 - [2024-04-18] refactor: optimize ClinicalBERT batch inference
+- [2024-04-25] fix: handle missing lab values in ICU risk model
