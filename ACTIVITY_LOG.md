@@ -309,3 +309,4 @@
 - [2024-04-24] fix: resolve memory leak in PySpark feature job
 - [2024-04-25] test: add unit tests for OMOP transformer
 - [2024-04-29] feat: add Prometheus metrics for pipeline monitoring
+- [2024-04-29] feat: add Prometheus metrics for pipeline monitoring
