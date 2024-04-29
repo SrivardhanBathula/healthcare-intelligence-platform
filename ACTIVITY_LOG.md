@@ -301,3 +301,4 @@
 - [2024-04-18] refactor: optimize ClinicalBERT batch inference
 - [2024-04-25] fix: handle missing lab values in ICU risk model
 - [2024-04-27] chore: upgrade scikit-learn to latest stable
+- [2024-04-29] test: add integration tests for clinical NER pipeline
