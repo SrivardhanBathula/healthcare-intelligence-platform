@@ -310,3 +310,4 @@
 - [2024-04-25] test: add unit tests for OMOP transformer
 - [2024-04-29] feat: add Prometheus metrics for pipeline monitoring
 - [2024-04-29] feat: add Prometheus metrics for pipeline monitoring
+- [2024-05-01] feat: add ICD-10 code validation layer
