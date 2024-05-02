@@ -304,3 +304,4 @@
 - [2024-04-29] test: add integration tests for clinical NER pipeline
 - [2024-05-01] refactor: optimize EHR ingestion pipeline performance
 - [2024-05-01] refactor: improve temporal feature extraction efficiency
+- [2024-05-02] test: add unit tests for OMOP transformer
