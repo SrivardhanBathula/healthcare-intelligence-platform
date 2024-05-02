@@ -312,3 +312,4 @@
 - [2024-04-29] feat: add Prometheus metrics for pipeline monitoring
 - [2024-05-01] feat: add ICD-10 code validation layer
 - [2024-05-01] fix: correct survival analysis time window calculation
+- [2024-05-02] fix: correct ICD-10 to SNOMED mapping for edge cases
