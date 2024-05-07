@@ -308,3 +308,4 @@
 - [2024-05-02] chore: update SNOMED CT vocabulary mappings
 - [2024-05-03] refactor: optimize ClinicalBERT batch inference
 - [2024-05-06] feat: add ICD-10 code validation layer
+- [2024-05-07] fix: handle missing lab values in ICU risk model
