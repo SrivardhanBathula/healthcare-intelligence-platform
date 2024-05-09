@@ -316,3 +316,4 @@
 - [2024-05-03] fix: resolve memory leak in PySpark feature job
 - [2024-05-08] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-08] test: add unit tests for OMOP transformer
+- [2024-05-09] docs: add HIPAA compliance notes to data pipeline
