@@ -309,3 +309,4 @@
 - [2024-05-03] refactor: optimize ClinicalBERT batch inference
 - [2024-05-06] feat: add ICD-10 code validation layer
 - [2024-05-07] fix: handle missing lab values in ICU risk model
+- [2024-05-09] refactor: improve ICU risk model preprocessing
