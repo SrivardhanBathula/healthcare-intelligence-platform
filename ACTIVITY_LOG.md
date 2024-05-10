@@ -317,3 +317,4 @@
 - [2024-05-08] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-08] test: add unit tests for OMOP transformer
 - [2024-05-09] docs: add HIPAA compliance notes to data pipeline
+- [2024-05-10] fix: correct survival analysis time window calculation
