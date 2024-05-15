@@ -319,3 +319,4 @@
 - [2024-05-09] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-10] fix: correct survival analysis time window calculation
 - [2024-05-14] docs: add HIPAA compliance notes to data pipeline
+- [2024-05-15] fix: negation detection edge case in NER pipeline
