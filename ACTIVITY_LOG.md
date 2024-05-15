@@ -313,3 +313,4 @@
 - [2024-05-09] test: add integration tests for clinical NER pipeline
 - [2024-05-12] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-14] docs: add HIPAA compliance notes to data pipeline
+- [2024-05-15] fix: correct survival analysis time window calculation
