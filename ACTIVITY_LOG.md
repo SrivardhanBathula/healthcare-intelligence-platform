@@ -321,3 +321,4 @@
 - [2024-05-14] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-15] fix: negation detection edge case in NER pipeline
 - [2024-05-15] refactor: improve temporal feature extraction efficiency
+- [2024-05-16] fix: negation detection edge case in NER pipeline
