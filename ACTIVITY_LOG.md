@@ -322,3 +322,4 @@
 - [2024-05-15] fix: negation detection edge case in NER pipeline
 - [2024-05-15] refactor: improve temporal feature extraction efficiency
 - [2024-05-16] fix: negation detection edge case in NER pipeline
+- [2024-05-17] fix: correct ICD-10 to SNOMED mapping for edge cases
