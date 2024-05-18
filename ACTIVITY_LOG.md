@@ -316,3 +316,4 @@
 - [2024-05-15] fix: correct survival analysis time window calculation
 - [2024-05-16] feat: add ICD-10 code validation layer
 - [2024-05-17] docs: add HIPAA compliance notes to data pipeline
+- [2024-05-18] fix: negation detection edge case in NER pipeline
