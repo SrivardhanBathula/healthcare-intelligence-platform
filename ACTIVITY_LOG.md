@@ -325,3 +325,4 @@
 - [2024-05-17] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-17] refactor: optimize EHR ingestion pipeline performance
 - [2024-05-18] docs: update clinical NLP pipeline documentation
+- [2024-05-20] docs: add HIPAA compliance notes to data pipeline
