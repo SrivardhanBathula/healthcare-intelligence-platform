@@ -328,3 +328,4 @@
 - [2024-05-20] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-22] chore: update SNOMED CT vocabulary mappings
 - [2024-05-23] docs: update clinical NLP pipeline documentation
+- [2024-05-23] feat: add ICD-10 code validation layer
