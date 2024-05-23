@@ -319,3 +319,4 @@
 - [2024-05-18] fix: negation detection edge case in NER pipeline
 - [2024-05-21] refactor: optimize ClinicalBERT batch inference
 - [2024-05-22] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-05-23] chore: update SNOMED CT vocabulary mappings
