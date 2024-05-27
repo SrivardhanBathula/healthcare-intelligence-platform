@@ -321,3 +321,4 @@
 - [2024-05-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-23] chore: update SNOMED CT vocabulary mappings
 - [2024-05-24] refactor: modularize EHR data standardization logic
+- [2024-05-27] fix: handle missing lab values in ICU risk model
