@@ -323,3 +323,4 @@
 - [2024-05-24] refactor: modularize EHR data standardization logic
 - [2024-05-27] fix: handle missing lab values in ICU risk model
 - [2024-05-27] chore: update SNOMED CT vocabulary mappings
+- [2024-05-28] docs: update clinical NLP pipeline documentation
