@@ -324,3 +324,4 @@
 - [2024-05-27] fix: handle missing lab values in ICU risk model
 - [2024-05-27] chore: update SNOMED CT vocabulary mappings
 - [2024-05-28] docs: update clinical NLP pipeline documentation
+- [2024-05-28] feat: add ICD-10 code validation layer
