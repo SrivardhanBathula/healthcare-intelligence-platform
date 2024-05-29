@@ -332,3 +332,4 @@
 - [2024-05-24] feat: add ICD-10 code validation layer
 - [2024-05-24] feat: add Prometheus metrics for pipeline monitoring
 - [2024-05-27] chore: clean up unused imports and dead code
+- [2024-05-29] fix: correct ICD-10 to SNOMED mapping for edge cases
