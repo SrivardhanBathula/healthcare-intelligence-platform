@@ -325,3 +325,4 @@
 - [2024-05-27] chore: update SNOMED CT vocabulary mappings
 - [2024-05-28] docs: update clinical NLP pipeline documentation
 - [2024-05-28] feat: add ICD-10 code validation layer
+- [2024-05-29] feat: add ICD-10 code validation layer
