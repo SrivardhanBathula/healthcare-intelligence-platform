@@ -336,3 +336,4 @@
 - [2024-05-29] fix: correct survival analysis time window calculation
 - [2024-05-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-31] docs: add HIPAA compliance notes to data pipeline
+- [2024-05-31] refactor: improve temporal feature extraction efficiency
