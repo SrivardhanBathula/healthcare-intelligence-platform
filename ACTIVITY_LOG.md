@@ -329,3 +329,4 @@
 - [2024-05-29] feat: add Prometheus metrics for pipeline monitoring
 - [2024-05-30] chore: clean up unused imports and dead code
 - [2024-06-01] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-06-03] chore: upgrade scikit-learn to latest stable
