@@ -337,3 +337,4 @@
 - [2024-05-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-31] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-31] refactor: improve temporal feature extraction efficiency
+- [2024-06-03] fix: handle missing lab values in ICU risk model
