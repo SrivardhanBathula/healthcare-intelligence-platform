@@ -338,3 +338,4 @@
 - [2024-05-31] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-31] refactor: improve temporal feature extraction efficiency
 - [2024-06-03] fix: handle missing lab values in ICU risk model
+- [2024-06-04] fix: handle missing lab values in ICU risk model
