@@ -331,3 +331,4 @@
 - [2024-06-01] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-06-03] chore: upgrade scikit-learn to latest stable
 - [2024-06-04] refactor: improve ICU risk model preprocessing
+- [2024-06-06] docs: update clinical NLP pipeline documentation
