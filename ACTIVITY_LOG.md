@@ -332,3 +332,4 @@
 - [2024-06-03] chore: upgrade scikit-learn to latest stable
 - [2024-06-04] refactor: improve ICU risk model preprocessing
 - [2024-06-06] docs: update clinical NLP pipeline documentation
+- [2024-06-07] refactor: improve temporal feature extraction efficiency
