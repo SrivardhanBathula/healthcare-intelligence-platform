@@ -333,3 +333,4 @@
 - [2024-06-04] refactor: improve ICU risk model preprocessing
 - [2024-06-06] docs: update clinical NLP pipeline documentation
 - [2024-06-07] refactor: improve temporal feature extraction efficiency
+- [2024-06-11] fix: negation detection edge case in NER pipeline
