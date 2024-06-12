@@ -341,3 +341,4 @@
 - [2024-06-04] fix: handle missing lab values in ICU risk model
 - [2024-06-04] fix: resolve memory leak in PySpark feature job
 - [2024-06-05] refactor: optimize ClinicalBERT batch inference
+- [2024-06-12] feat: add ICD-10 code validation layer
