@@ -343,3 +343,4 @@
 - [2024-06-05] refactor: optimize ClinicalBERT batch inference
 - [2024-06-12] feat: add ICD-10 code validation layer
 - [2024-06-14] refactor: optimize ClinicalBERT batch inference
+- [2024-06-17] fix: handle null values in OMOP CDM transformer
