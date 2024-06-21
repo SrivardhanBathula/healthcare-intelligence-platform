@@ -345,3 +345,4 @@
 - [2024-06-14] refactor: optimize ClinicalBERT batch inference
 - [2024-06-17] fix: handle null values in OMOP CDM transformer
 - [2024-06-21] refactor: improve temporal feature extraction efficiency
+- [2024-06-21] chore: clean up unused imports and dead code
