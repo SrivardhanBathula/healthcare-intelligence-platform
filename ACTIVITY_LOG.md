@@ -337,3 +337,4 @@
 - [2024-06-13] chore: clean up unused imports and dead code
 - [2024-06-19] refactor: improve temporal feature extraction efficiency
 - [2024-06-19] fix: correct survival analysis time window calculation
+- [2024-06-21] chore: upgrade scikit-learn to latest stable
