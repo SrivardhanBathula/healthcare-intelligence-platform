@@ -339,3 +339,4 @@
 - [2024-06-19] fix: correct survival analysis time window calculation
 - [2024-06-21] chore: upgrade scikit-learn to latest stable
 - [2024-06-21] fix: handle missing lab values in ICU risk model
+- [2024-06-24] refactor: optimize EHR ingestion pipeline performance
