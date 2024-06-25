@@ -349,3 +349,4 @@
 - [2024-06-22] test: add unit tests for OMOP transformer
 - [2024-06-22] feat: add ICD-10 code validation layer
 - [2024-06-25] docs: update clinical NLP pipeline documentation
+- [2024-06-25] chore: upgrade scikit-learn to latest stable
