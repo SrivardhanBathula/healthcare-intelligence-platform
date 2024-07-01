@@ -344,3 +344,4 @@
 - [2024-06-27] chore: clean up unused imports and dead code
 - [2024-06-28] test: add unit tests for OMOP transformer
 - [2024-06-28] feat: add ICD-10 code validation layer
+- [2024-07-01] docs: update clinical NLP pipeline documentation
