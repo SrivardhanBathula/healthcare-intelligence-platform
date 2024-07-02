@@ -352,3 +352,4 @@
 - [2024-06-25] chore: upgrade scikit-learn to latest stable
 - [2024-07-01] fix: correct survival analysis time window calculation
 - [2024-07-01] refactor: modularize EHR data standardization logic
+- [2024-07-02] refactor: optimize EHR ingestion pipeline performance
