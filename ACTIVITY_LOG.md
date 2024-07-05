@@ -356,3 +356,4 @@
 - [2024-07-02] test: add unit tests for OMOP transformer
 - [2024-07-04] docs: update clinical NLP pipeline documentation
 - [2024-07-04] docs: update clinical NLP pipeline documentation
+- [2024-07-05] test: add unit tests for OMOP transformer
