@@ -346,3 +346,4 @@
 - [2024-06-28] feat: add ICD-10 code validation layer
 - [2024-07-01] docs: update clinical NLP pipeline documentation
 - [2024-07-01] chore: upgrade scikit-learn to latest stable
+- [2024-07-05] refactor: improve ICU risk model preprocessing
