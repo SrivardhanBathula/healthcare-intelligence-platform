@@ -348,3 +348,4 @@
 - [2024-07-01] chore: upgrade scikit-learn to latest stable
 - [2024-07-05] refactor: improve ICU risk model preprocessing
 - [2024-07-08] feat: add Prometheus metrics for pipeline monitoring
+- [2024-07-08] refactor: optimize EHR ingestion pipeline performance
