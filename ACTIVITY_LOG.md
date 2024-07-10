@@ -350,3 +350,4 @@
 - [2024-07-08] feat: add Prometheus metrics for pipeline monitoring
 - [2024-07-08] refactor: optimize EHR ingestion pipeline performance
 - [2024-07-10] refactor: optimize EHR ingestion pipeline performance
+- [2024-07-10] docs: update clinical NLP pipeline documentation
