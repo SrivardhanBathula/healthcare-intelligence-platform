@@ -361,3 +361,4 @@
 - [2024-07-08] chore: clean up unused imports and dead code
 - [2024-07-09] refactor: improve temporal feature extraction efficiency
 - [2024-07-09] test: add unit tests for OMOP transformer
+- [2024-07-12] chore: upgrade scikit-learn to latest stable
