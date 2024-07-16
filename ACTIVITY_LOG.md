@@ -362,3 +362,4 @@
 - [2024-07-09] refactor: improve temporal feature extraction efficiency
 - [2024-07-09] test: add unit tests for OMOP transformer
 - [2024-07-12] chore: upgrade scikit-learn to latest stable
+- [2024-07-16] refactor: modularize EHR data standardization logic
