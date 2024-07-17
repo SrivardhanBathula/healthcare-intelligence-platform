@@ -351,3 +351,4 @@
 - [2024-07-08] refactor: optimize EHR ingestion pipeline performance
 - [2024-07-10] refactor: optimize EHR ingestion pipeline performance
 - [2024-07-10] docs: update clinical NLP pipeline documentation
+- [2024-07-17] refactor: improve ICU risk model preprocessing
