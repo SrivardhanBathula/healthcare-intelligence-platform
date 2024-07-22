@@ -353,3 +353,4 @@
 - [2024-07-10] docs: update clinical NLP pipeline documentation
 - [2024-07-17] refactor: improve ICU risk model preprocessing
 - [2024-07-19] refactor: modularize EHR data standardization logic
+- [2024-07-22] fix: correct ICD-10 to SNOMED mapping for edge cases
