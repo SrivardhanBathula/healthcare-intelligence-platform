@@ -366,3 +366,4 @@
 - [2024-07-17] refactor: improve ICU risk model preprocessing
 - [2024-07-19] fix: negation detection edge case in NER pipeline
 - [2024-07-23] docs: add HIPAA compliance notes to data pipeline
+- [2024-07-24] refactor: modularize EHR data standardization logic
