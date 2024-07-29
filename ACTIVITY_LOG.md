@@ -359,3 +359,4 @@
 - [2024-07-24] chore: clean up unused imports and dead code
 - [2024-07-25] refactor: modularize EHR data standardization logic
 - [2024-07-26] refactor: improve ICU risk model preprocessing
+- [2024-07-29] docs: add HIPAA compliance notes to data pipeline
