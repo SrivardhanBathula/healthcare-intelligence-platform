@@ -370,3 +370,4 @@
 - [2024-07-24] fix: handle missing lab values in ICU risk model
 - [2024-07-26] chore: upgrade scikit-learn to latest stable
 - [2024-07-26] refactor: improve temporal feature extraction efficiency
+- [2024-07-29] docs: update clinical NLP pipeline documentation
