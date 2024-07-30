@@ -371,3 +371,4 @@
 - [2024-07-26] chore: upgrade scikit-learn to latest stable
 - [2024-07-26] refactor: improve temporal feature extraction efficiency
 - [2024-07-29] docs: update clinical NLP pipeline documentation
+- [2024-07-30] fix: handle null values in OMOP CDM transformer
