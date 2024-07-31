@@ -363,3 +363,4 @@
 - [2024-07-30] refactor: improve ICU risk model preprocessing
 - [2024-07-30] refactor: improve ICU risk model preprocessing
 - [2024-07-31] chore: clean up unused imports and dead code
+- [2024-07-31] docs: add HIPAA compliance notes to data pipeline
