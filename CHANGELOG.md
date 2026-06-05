@@ -99,3 +99,4 @@
 - [2022-03-25] chore: clean up unused imports and dead code
 - [2022-03-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-04-01] fix: correct survival analysis time window calculation
+- [2022-04-04] fix: resolve Grafana dashboard data source config
