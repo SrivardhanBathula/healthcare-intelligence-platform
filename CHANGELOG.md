@@ -756,3 +756,4 @@
 - [2024-06-24] refactor: improve ICU risk model preprocessing
 - [2024-06-26] chore: update requirements.txt dependencies
 - [2024-06-26] fix: correct patient age calculation in risk model
+- [2024-06-27] refactor: modularize EHR data standardization logic
