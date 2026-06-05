@@ -489,3 +489,4 @@
 - [2023-02-21] chore: update requirements.txt dependencies
 - [2023-02-22] fix: correct patient age calculation in risk model
 - [2023-02-23] feat: add ICD-10 code validation layer
+- [2023-02-24] feat: add Prometheus metrics for pipeline monitoring
