@@ -133,3 +133,4 @@
 - [2022-06-13] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-06-16] fix: handle missing lab values in ICU risk model
 - [2022-06-17] fix: correct patient age calculation in risk model
+- [2022-06-21] fix: correct patient age calculation in risk model
