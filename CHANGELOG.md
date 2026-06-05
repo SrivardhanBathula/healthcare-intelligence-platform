@@ -136,3 +136,4 @@
 - [2022-06-21] fix: correct patient age calculation in risk model
 - [2022-06-21] refactor: improve temporal feature extraction efficiency
 - [2022-06-22] chore: update SNOMED CT vocabulary mappings
+- [2022-06-23] refactor: improve ICU risk model preprocessing
