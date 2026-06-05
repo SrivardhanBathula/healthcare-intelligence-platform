@@ -417,3 +417,4 @@
 - [2022-09-28] chore: update SNOMED CT vocabulary mappings
 - [2022-09-30] refactor: vectorize survival analysis feature computation
 - [2022-10-01] fix: handle null values in OMOP CDM transformer
+- [2022-10-04] refactor: improve ICU risk model preprocessing
