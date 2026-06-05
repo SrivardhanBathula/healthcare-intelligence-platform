@@ -332,3 +332,4 @@
 - [2022-04-07] fix: handle missing lab values in ICU risk model
 - [2022-04-12] docs: document OMOP CDM schema transformations
 - [2022-04-12] refactor: optimize EHR ingestion pipeline performance
+- [2022-04-13] refactor: modularize EHR data standardization logic
