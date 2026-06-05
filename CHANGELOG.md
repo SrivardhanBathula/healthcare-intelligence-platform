@@ -156,3 +156,4 @@
 - [2022-08-02] fix: correct survival analysis time window calculation
 - [2022-08-09] fix: handle null values in OMOP CDM transformer
 - [2022-08-10] fix: resolve Grafana dashboard data source config
+- [2022-08-11] refactor: improve temporal feature extraction efficiency
