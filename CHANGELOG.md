@@ -215,3 +215,4 @@
 - [2022-12-08] refactor: modularize EHR data standardization logic
 - [2022-12-08] docs: add HIPAA compliance notes to data pipeline
 - [2022-12-09] fix: negation detection edge case in NER pipeline
+- [2022-12-09] test: add unit tests for OMOP transformer
