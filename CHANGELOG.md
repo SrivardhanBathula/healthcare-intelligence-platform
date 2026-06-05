@@ -81,3 +81,4 @@
 - [2022-02-13] test: add integration tests for clinical NER pipeline
 - [2022-02-15] chore: clean up unused imports and dead code
 - [2022-02-17] refactor: vectorize survival analysis feature computation
+- [2022-02-23] feat: add ICD-10 code validation layer
