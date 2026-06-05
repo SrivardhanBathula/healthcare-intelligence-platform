@@ -331,3 +331,4 @@
 - [2022-04-06] docs: update clinical NLP pipeline documentation
 - [2022-04-07] fix: handle missing lab values in ICU risk model
 - [2022-04-12] docs: document OMOP CDM schema transformations
+- [2022-04-12] refactor: optimize EHR ingestion pipeline performance
