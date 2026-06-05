@@ -683,3 +683,4 @@
 - [2024-02-15] fix: correct survival analysis time window calculation
 - [2024-02-22] chore: upgrade scikit-learn to latest stable
 - [2024-02-23] docs: update clinical NLP pipeline documentation
+- [2024-02-26] test: add unit tests for OMOP transformer
