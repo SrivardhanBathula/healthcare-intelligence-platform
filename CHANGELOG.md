@@ -46,3 +46,4 @@
 - [2021-12-08] docs: document OMOP CDM schema transformations
 - [2021-12-09] docs: add HIPAA compliance notes to data pipeline
 - [2021-12-12] feat: add Prometheus metrics for pipeline monitoring
+- [2021-12-12] fix: handle missing lab values in ICU risk model
