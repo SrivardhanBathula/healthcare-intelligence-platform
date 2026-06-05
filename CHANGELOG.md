@@ -36,3 +36,4 @@
 - [2021-11-16] chore: clean up unused imports and dead code
 - [2021-11-18] test: add unit tests for OMOP transformer
 - [2021-11-23] test: add unit tests for OMOP transformer
+- [2021-11-26] docs: add HIPAA compliance notes to data pipeline
