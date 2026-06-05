@@ -422,3 +422,4 @@
 - [2022-10-05] refactor: improve temporal feature extraction efficiency
 - [2022-10-07] chore: update requirements.txt dependencies
 - [2022-10-10] feat: add ICD-10 code validation layer
+- [2022-10-11] refactor: modularize EHR data standardization logic
