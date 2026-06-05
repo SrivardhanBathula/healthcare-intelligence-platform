@@ -16,3 +16,4 @@
 - [2021-09-29] fix: handle missing lab values in ICU risk model
 - [2021-09-30] fix: negation detection edge case in NER pipeline
 - [2021-09-30] refactor: vectorize survival analysis feature computation
+- [2021-10-04] feat: add Prometheus metrics for pipeline monitoring
