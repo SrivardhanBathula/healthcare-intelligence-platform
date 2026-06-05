@@ -736,3 +736,4 @@
 - [2024-05-22] refactor: vectorize survival analysis feature computation
 - [2024-05-24] fix: correct survival analysis time window calculation
 - [2024-05-27] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-05-27] fix: correct ICD-10 to SNOMED mapping for edge cases
