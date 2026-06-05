@@ -238,3 +238,4 @@
 - [2021-09-26] test: add unit tests for OMOP transformer
 - [2021-09-29] fix: handle missing lab values in ICU risk model
 - [2021-09-30] fix: negation detection edge case in NER pipeline
+- [2021-09-30] refactor: vectorize survival analysis feature computation
