@@ -636,3 +636,4 @@
 - [2023-11-01] refactor: optimize ClinicalBERT batch inference
 - [2023-11-07] refactor: improve ICU risk model preprocessing
 - [2023-11-07] refactor: improve ICU risk model preprocessing
+- [2023-11-09] fix: correct patient age calculation in risk model
