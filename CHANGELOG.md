@@ -174,3 +174,4 @@
 - [2022-09-01] test: add integration tests for clinical NER pipeline
 - [2022-09-02] feat: add ICD-10 code validation layer
 - [2022-09-02] refactor: modularize EHR data standardization logic
+- [2022-09-05] refactor: optimize ClinicalBERT batch inference
