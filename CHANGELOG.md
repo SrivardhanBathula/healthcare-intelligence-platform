@@ -469,3 +469,4 @@
 - [2023-01-17] fix: handle null values in OMOP CDM transformer
 - [2023-01-17] chore: upgrade scikit-learn to latest stable
 - [2023-01-18] chore: update requirements.txt dependencies
+- [2023-01-20] refactor: optimize ClinicalBERT batch inference
