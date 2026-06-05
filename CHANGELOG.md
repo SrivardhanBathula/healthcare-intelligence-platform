@@ -18,3 +18,4 @@
 - [2021-09-30] refactor: vectorize survival analysis feature computation
 - [2021-10-04] feat: add Prometheus metrics for pipeline monitoring
 - [2021-10-04] refactor: vectorize survival analysis feature computation
+- [2021-10-05] docs: document OMOP CDM schema transformations
