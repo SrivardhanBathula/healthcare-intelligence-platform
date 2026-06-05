@@ -216,3 +216,4 @@
 - [2022-12-08] docs: add HIPAA compliance notes to data pipeline
 - [2022-12-09] fix: negation detection edge case in NER pipeline
 - [2022-12-09] test: add unit tests for OMOP transformer
+- [2022-12-14] fix: correct survival analysis time window calculation
