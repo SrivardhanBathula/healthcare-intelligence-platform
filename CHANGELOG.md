@@ -667,3 +667,4 @@
 - [2024-01-11] test: add unit tests for OMOP transformer
 - [2024-01-12] docs: update clinical NLP pipeline documentation
 - [2024-01-12] fix: handle null values in OMOP CDM transformer
+- [2024-01-16] feat: add ICD-10 code validation layer
