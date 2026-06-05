@@ -649,3 +649,4 @@
 - [2023-11-27] fix: negation detection edge case in NER pipeline
 - [2023-11-29] refactor: improve ICU risk model preprocessing
 - [2023-12-06] test: add unit tests for OMOP transformer
+- [2023-12-07] fix: correct patient age calculation in risk model
