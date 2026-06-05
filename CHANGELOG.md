@@ -584,3 +584,4 @@
 - [2023-07-19] docs: document OMOP CDM schema transformations
 - [2023-07-19] refactor: improve ICU risk model preprocessing
 - [2023-07-20] fix: handle null values in OMOP CDM transformer
+- [2023-07-21] refactor: improve ICU risk model preprocessing
