@@ -700,3 +700,4 @@
 - [2024-03-21] docs: add HIPAA compliance notes to data pipeline
 - [2024-03-23] chore: clean up unused imports and dead code
 - [2024-03-23] refactor: optimize ClinicalBERT batch inference
+- [2024-03-25] refactor: improve ICU risk model preprocessing
