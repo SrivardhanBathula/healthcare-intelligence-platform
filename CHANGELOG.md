@@ -743,3 +743,4 @@
 - [2024-06-02] test: add integration tests for clinical NER pipeline
 - [2024-06-03] refactor: vectorize survival analysis feature computation
 - [2024-06-05] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-06-06] docs: document OMOP CDM schema transformations
