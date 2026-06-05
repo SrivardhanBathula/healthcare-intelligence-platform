@@ -558,3 +558,4 @@
 - [2023-06-12] docs: add HIPAA compliance notes to data pipeline
 - [2023-06-13] feat: add ICD-10 code validation layer
 - [2023-06-14] refactor: improve ICU risk model preprocessing
+- [2023-06-15] fix: handle missing lab values in ICU risk model
