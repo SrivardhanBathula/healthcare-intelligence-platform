@@ -553,3 +553,4 @@
 - [2023-05-29] refactor: improve ICU risk model preprocessing
 - [2023-06-01] fix: handle null values in OMOP CDM transformer
 - [2023-06-02] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-06-05] docs: document OMOP CDM schema transformations
