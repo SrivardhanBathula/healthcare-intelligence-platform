@@ -166,3 +166,4 @@
 - [2022-08-22] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-23] fix: correct survival analysis time window calculation
 - [2022-08-23] refactor: optimize ClinicalBERT batch inference
+- [2022-08-24] refactor: optimize EHR ingestion pipeline performance
