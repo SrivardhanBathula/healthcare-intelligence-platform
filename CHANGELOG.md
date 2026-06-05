@@ -383,3 +383,4 @@
 - [2022-08-01] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-02] refactor: modularize EHR data standardization logic
 - [2022-08-02] fix: correct survival analysis time window calculation
+- [2022-08-09] fix: handle null values in OMOP CDM transformer
