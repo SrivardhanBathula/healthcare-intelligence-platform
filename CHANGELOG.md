@@ -204,3 +204,4 @@
 - [2022-11-04] refactor: optimize ClinicalBERT batch inference
 - [2022-11-04] refactor: improve ICU risk model preprocessing
 - [2022-11-07] fix: correct survival analysis time window calculation
+- [2022-11-11] chore: upgrade scikit-learn to latest stable
