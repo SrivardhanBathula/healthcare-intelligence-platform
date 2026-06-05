@@ -169,3 +169,4 @@
 - [2022-08-24] refactor: optimize EHR ingestion pipeline performance
 - [2022-08-25] refactor: improve ICU risk model preprocessing
 - [2022-08-27] chore: update SNOMED CT vocabulary mappings
+- [2022-08-29] refactor: vectorize survival analysis feature computation
