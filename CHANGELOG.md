@@ -676,3 +676,4 @@
 - [2024-01-26] refactor: optimize ClinicalBERT batch inference
 - [2024-01-31] docs: add HIPAA compliance notes to data pipeline
 - [2024-02-05] feat: add Prometheus metrics for pipeline monitoring
+- [2024-02-05] docs: add HIPAA compliance notes to data pipeline
