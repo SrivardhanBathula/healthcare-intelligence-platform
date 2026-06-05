@@ -253,3 +253,4 @@
 - [2021-10-27] chore: clean up unused imports and dead code
 - [2021-11-02] docs: document OMOP CDM schema transformations
 - [2021-11-02] chore: clean up unused imports and dead code
+- [2021-11-05] test: add unit tests for OMOP transformer
