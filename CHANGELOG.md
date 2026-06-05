@@ -337,3 +337,4 @@
 - [2022-04-22] feat: add Prometheus metrics for pipeline monitoring
 - [2022-04-23] fix: resolve Grafana dashboard data source config
 - [2022-04-25] chore: upgrade scikit-learn to latest stable
+- [2022-04-25] feat: add Prometheus metrics for pipeline monitoring
