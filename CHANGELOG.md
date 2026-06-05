@@ -595,3 +595,4 @@
 - [2023-08-07] fix: handle missing lab values in ICU risk model
 - [2023-08-08] chore: upgrade scikit-learn to latest stable
 - [2023-08-10] fix: negation detection edge case in NER pipeline
+- [2023-08-11] fix: correct ICD-10 to SNOMED mapping for edge cases
