@@ -673,3 +673,4 @@
 - [2024-01-19] docs: document OMOP CDM schema transformations
 - [2024-01-22] fix: correct patient age calculation in risk model
 - [2024-01-25] refactor: optimize ClinicalBERT batch inference
+- [2024-01-26] refactor: optimize ClinicalBERT batch inference
