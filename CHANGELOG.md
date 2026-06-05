@@ -463,3 +463,4 @@
 - [2023-01-10] fix: resolve Grafana dashboard data source config
 - [2023-01-10] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-01-12] refactor: modularize EHR data standardization logic
+- [2023-01-13] chore: update requirements.txt dependencies
