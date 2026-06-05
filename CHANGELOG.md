@@ -333,3 +333,4 @@
 - [2022-04-12] docs: document OMOP CDM schema transformations
 - [2022-04-12] refactor: optimize EHR ingestion pipeline performance
 - [2022-04-13] refactor: modularize EHR data standardization logic
+- [2022-04-14] test: add integration tests for clinical NER pipeline
