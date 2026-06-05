@@ -510,3 +510,4 @@
 - [2023-03-22] refactor: vectorize survival analysis feature computation
 - [2023-03-22] chore: clean up unused imports and dead code
 - [2023-03-23] refactor: optimize ClinicalBERT batch inference
+- [2023-03-24] test: add integration tests for clinical NER pipeline
