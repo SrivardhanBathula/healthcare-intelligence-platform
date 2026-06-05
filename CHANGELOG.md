@@ -291,3 +291,4 @@
 - [2022-01-13] refactor: modularize EHR data standardization logic
 - [2022-01-13] refactor: optimize EHR ingestion pipeline performance
 - [2022-01-18] refactor: optimize EHR ingestion pipeline performance
+- [2022-01-20] fix: handle null values in OMOP CDM transformer
