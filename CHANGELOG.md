@@ -327,3 +327,4 @@
 - [2022-04-04] fix: resolve Grafana dashboard data source config
 - [2022-04-05] refactor: optimize ClinicalBERT batch inference
 - [2022-04-05] chore: upgrade scikit-learn to latest stable
+- [2022-04-06] feat: add Prometheus metrics for pipeline monitoring
