@@ -521,3 +521,4 @@
 - [2023-04-13] chore: upgrade scikit-learn to latest stable
 - [2023-04-13] test: add integration tests for clinical NER pipeline
 - [2023-04-14] refactor: vectorize survival analysis feature computation
+- [2023-04-14] refactor: improve ICU risk model preprocessing
