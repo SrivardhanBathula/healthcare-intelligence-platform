@@ -708,3 +708,4 @@
 - [2024-04-01] docs: add HIPAA compliance notes to data pipeline
 - [2024-04-03] refactor: improve temporal feature extraction efficiency
 - [2024-04-08] feat: add ICD-10 code validation layer
+- [2024-04-08] fix: correct ICD-10 to SNOMED mapping for edge cases
