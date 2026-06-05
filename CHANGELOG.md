@@ -684,3 +684,4 @@
 - [2024-02-22] chore: upgrade scikit-learn to latest stable
 - [2024-02-23] docs: update clinical NLP pipeline documentation
 - [2024-02-26] test: add unit tests for OMOP transformer
+- [2024-02-27] fix: handle missing lab values in ICU risk model
