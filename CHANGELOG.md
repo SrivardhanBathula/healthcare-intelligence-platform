@@ -704,3 +704,4 @@
 - [2024-03-26] test: add unit tests for OMOP transformer
 - [2024-03-28] feat: add Prometheus metrics for pipeline monitoring
 - [2024-03-28] refactor: vectorize survival analysis feature computation
+- [2024-03-30] fix: resolve Grafana dashboard data source config
