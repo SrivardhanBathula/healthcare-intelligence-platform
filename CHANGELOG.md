@@ -232,3 +232,4 @@
 - [2021-09-09] docs: update clinical NLP pipeline documentation
 - [2021-09-10] docs: update clinical NLP pipeline documentation
 - [2021-09-10] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-09-13] refactor: improve ICU risk model preprocessing
