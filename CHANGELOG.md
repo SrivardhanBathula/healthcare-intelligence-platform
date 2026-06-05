@@ -43,3 +43,4 @@
 - [2021-12-02] docs: update clinical NLP pipeline documentation
 - [2021-12-03] fix: correct survival analysis time window calculation
 - [2021-12-08] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2021-12-08] docs: document OMOP CDM schema transformations
