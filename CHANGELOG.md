@@ -561,3 +561,4 @@
 - [2023-06-15] fix: handle missing lab values in ICU risk model
 - [2023-06-16] fix: handle missing lab values in ICU risk model
 - [2023-06-16] fix: correct patient age calculation in risk model
+- [2023-06-21] chore: update requirements.txt dependencies
