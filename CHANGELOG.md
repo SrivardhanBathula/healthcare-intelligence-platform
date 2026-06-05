@@ -455,3 +455,4 @@
 - [2022-12-22] test: add unit tests for OMOP transformer
 - [2022-12-23] fix: handle null values in OMOP CDM transformer
 - [2022-12-23] chore: clean up unused imports and dead code
+- [2022-12-26] chore: update SNOMED CT vocabulary mappings
