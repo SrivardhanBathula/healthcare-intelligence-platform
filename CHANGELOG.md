@@ -125,3 +125,4 @@
 - [2022-06-03] fix: handle missing lab values in ICU risk model
 - [2022-06-03] refactor: improve temporal feature extraction efficiency
 - [2022-06-06] docs: add HIPAA compliance notes to data pipeline
+- [2022-06-08] refactor: optimize EHR ingestion pipeline performance
