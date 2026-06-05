@@ -199,3 +199,4 @@
 - [2022-10-13] feat: add Prometheus metrics for pipeline monitoring
 - [2022-10-13] test: add unit tests for OMOP transformer
 - [2022-10-21] test: add integration tests for clinical NER pipeline
+- [2022-10-21] refactor: optimize ClinicalBERT batch inference
