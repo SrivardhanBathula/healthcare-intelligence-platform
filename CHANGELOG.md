@@ -493,3 +493,4 @@
 - [2023-02-28] test: add integration tests for clinical NER pipeline
 - [2023-02-28] fix: negation detection edge case in NER pipeline
 - [2023-03-01] feat: add ICD-10 code validation layer
+- [2023-03-03] docs: document OMOP CDM schema transformations
