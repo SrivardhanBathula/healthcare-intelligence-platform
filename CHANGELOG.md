@@ -745,3 +745,4 @@
 - [2024-06-05] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-06-06] docs: document OMOP CDM schema transformations
 - [2024-06-06] fix: negation detection edge case in NER pipeline
+- [2024-06-07] fix: resolve Grafana dashboard data source config
