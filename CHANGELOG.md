@@ -343,3 +343,4 @@
 - [2022-05-02] refactor: optimize EHR ingestion pipeline performance
 - [2022-05-04] refactor: vectorize survival analysis feature computation
 - [2022-05-04] refactor: improve ICU risk model preprocessing
+- [2022-05-13] refactor: vectorize survival analysis feature computation
