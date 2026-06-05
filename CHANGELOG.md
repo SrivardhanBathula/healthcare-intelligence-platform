@@ -614,3 +614,4 @@
 - [2023-09-17] refactor: improve temporal feature extraction efficiency
 - [2023-09-20] docs: add HIPAA compliance notes to data pipeline
 - [2023-09-20] docs: document OMOP CDM schema transformations
+- [2023-09-27] chore: update requirements.txt dependencies
