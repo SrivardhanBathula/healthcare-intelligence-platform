@@ -113,3 +113,4 @@
 - [2022-04-23] fix: handle missing lab values in ICU risk model
 - [2022-04-25] chore: upgrade scikit-learn to latest stable
 - [2022-04-25] feat: add Prometheus metrics for pipeline monitoring
+- [2022-04-26] feat: add ICD-10 code validation layer
