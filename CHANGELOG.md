@@ -633,3 +633,4 @@
 - [2023-10-27] chore: update SNOMED CT vocabulary mappings
 - [2023-10-30] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-10-30] docs: add HIPAA compliance notes to data pipeline
+- [2023-11-01] refactor: optimize ClinicalBERT batch inference
