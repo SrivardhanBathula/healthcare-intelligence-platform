@@ -659,3 +659,4 @@
 - [2023-12-23] fix: handle missing lab values in ICU risk model
 - [2023-12-25] refactor: optimize EHR ingestion pipeline performance
 - [2023-12-26] refactor: modularize EHR data standardization logic
+- [2023-12-26] fix: correct ICD-10 to SNOMED mapping for edge cases
