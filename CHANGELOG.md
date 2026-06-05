@@ -108,3 +108,4 @@
 - [2022-04-12] docs: document OMOP CDM schema transformations
 - [2022-04-13] refactor: modularize EHR data standardization logic
 - [2022-04-15] docs: add HIPAA compliance notes to data pipeline
+- [2022-04-22] feat: add Prometheus metrics for pipeline monitoring
