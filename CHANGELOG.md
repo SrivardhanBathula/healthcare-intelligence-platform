@@ -731,3 +731,4 @@
 - [2024-05-15] chore: update SNOMED CT vocabulary mappings
 - [2024-05-15] feat: add Prometheus metrics for pipeline monitoring
 - [2024-05-16] chore: upgrade scikit-learn to latest stable
+- [2024-05-20] chore: upgrade scikit-learn to latest stable
