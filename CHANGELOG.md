@@ -234,3 +234,4 @@
 - [2021-09-10] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-09-13] refactor: improve ICU risk model preprocessing
 - [2021-09-14] feat: add ICD-10 code validation layer
+- [2021-09-21] fix: correct ICD-10 to SNOMED mapping for edge cases
