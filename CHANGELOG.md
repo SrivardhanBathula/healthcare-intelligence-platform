@@ -225,3 +225,4 @@
 - [2022-12-21] fix: resolve memory leak in PySpark feature job
 - [2022-12-22] refactor: optimize EHR ingestion pipeline performance
 - [2022-12-22] test: add unit tests for OMOP transformer
+- [2022-12-23] fix: handle null values in OMOP CDM transformer
