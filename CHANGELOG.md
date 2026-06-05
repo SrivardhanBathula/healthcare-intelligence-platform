@@ -40,3 +40,4 @@
 - [2021-11-27] chore: update requirements.txt dependencies
 - [2021-11-30] fix: resolve Grafana dashboard data source config
 - [2021-11-30] feat: add Prometheus metrics for pipeline monitoring
+- [2021-12-02] docs: update clinical NLP pipeline documentation
