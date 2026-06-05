@@ -101,3 +101,4 @@
 - [2022-04-01] fix: correct survival analysis time window calculation
 - [2022-04-04] fix: resolve Grafana dashboard data source config
 - [2022-04-05] refactor: optimize ClinicalBERT batch inference
+- [2022-04-05] chore: upgrade scikit-learn to latest stable
