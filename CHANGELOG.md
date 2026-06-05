@@ -158,3 +158,4 @@
 - [2022-08-10] fix: resolve Grafana dashboard data source config
 - [2022-08-11] refactor: improve temporal feature extraction efficiency
 - [2022-08-11] docs: add HIPAA compliance notes to data pipeline
+- [2022-08-12] chore: upgrade scikit-learn to latest stable
