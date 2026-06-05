@@ -605,3 +605,4 @@
 - [2023-08-25] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-08-30] feat: add Prometheus metrics for pipeline monitoring
 - [2023-08-31] chore: clean up unused imports and dead code
+- [2023-09-01] test: add integration tests for clinical NER pipeline
