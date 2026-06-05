@@ -375,3 +375,4 @@
 - [2022-07-08] refactor: improve temporal feature extraction efficiency
 - [2022-07-13] docs: update clinical NLP pipeline documentation
 - [2022-07-13] refactor: improve ICU risk model preprocessing
+- [2022-07-14] refactor: optimize EHR ingestion pipeline performance
