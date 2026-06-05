@@ -478,3 +478,4 @@
 - [2023-02-07] chore: clean up unused imports and dead code
 - [2023-02-07] fix: handle missing lab values in ICU risk model
 - [2023-02-08] chore: upgrade scikit-learn to latest stable
+- [2023-02-09] fix: handle null values in OMOP CDM transformer
