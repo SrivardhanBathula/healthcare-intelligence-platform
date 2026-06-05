@@ -495,3 +495,4 @@
 - [2023-03-01] feat: add ICD-10 code validation layer
 - [2023-03-03] docs: document OMOP CDM schema transformations
 - [2023-03-06] docs: document OMOP CDM schema transformations
+- [2023-03-06] fix: resolve Grafana dashboard data source config
