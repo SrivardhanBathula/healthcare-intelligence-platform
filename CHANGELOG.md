@@ -48,3 +48,4 @@
 - [2021-12-12] feat: add Prometheus metrics for pipeline monitoring
 - [2021-12-12] fix: handle missing lab values in ICU risk model
 - [2021-12-17] refactor: optimize ClinicalBERT batch inference
+- [2021-12-17] fix: correct patient age calculation in risk model
