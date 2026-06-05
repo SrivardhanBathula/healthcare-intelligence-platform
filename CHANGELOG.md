@@ -586,3 +586,4 @@
 - [2023-07-20] fix: handle null values in OMOP CDM transformer
 - [2023-07-21] refactor: improve ICU risk model preprocessing
 - [2023-07-21] refactor: vectorize survival analysis feature computation
+- [2023-07-24] fix: resolve Grafana dashboard data source config
