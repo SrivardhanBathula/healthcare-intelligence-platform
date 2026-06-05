@@ -503,3 +503,4 @@
 - [2023-03-10] fix: resolve Grafana dashboard data source config
 - [2023-03-13] chore: clean up unused imports and dead code
 - [2023-03-13] fix: handle missing lab values in ICU risk model
+- [2023-03-15] feat: add Prometheus metrics for pipeline monitoring
