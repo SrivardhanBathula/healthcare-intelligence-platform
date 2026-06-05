@@ -686,3 +686,4 @@
 - [2024-02-26] test: add unit tests for OMOP transformer
 - [2024-02-27] fix: handle missing lab values in ICU risk model
 - [2024-02-28] fix: negation detection edge case in NER pipeline
+- [2024-02-29] fix: correct patient age calculation in risk model
