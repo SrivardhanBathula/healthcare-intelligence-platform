@@ -624,3 +624,4 @@
 - [2023-10-04] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-10-09] test: add unit tests for OMOP transformer
 - [2023-10-10] refactor: optimize ClinicalBERT batch inference
+- [2023-10-11] refactor: vectorize survival analysis feature computation
