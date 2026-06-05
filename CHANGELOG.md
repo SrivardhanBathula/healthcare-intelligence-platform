@@ -549,3 +549,4 @@
 - [2023-05-23] feat: add ICD-10 code validation layer
 - [2023-05-25] refactor: improve temporal feature extraction efficiency
 - [2023-05-25] fix: resolve memory leak in PySpark feature job
+- [2023-05-26] fix: resolve Grafana dashboard data source config
