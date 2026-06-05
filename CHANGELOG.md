@@ -61,3 +61,4 @@
 - [2022-01-04] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-01-06] chore: update requirements.txt dependencies
 - [2022-01-07] chore: update SNOMED CT vocabulary mappings
+- [2022-01-11] fix: resolve Grafana dashboard data source config
