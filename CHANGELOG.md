@@ -219,3 +219,4 @@
 - [2022-12-14] fix: correct survival analysis time window calculation
 - [2022-12-14] fix: handle missing lab values in ICU risk model
 - [2022-12-17] chore: upgrade scikit-learn to latest stable
+- [2022-12-17] refactor: improve temporal feature extraction efficiency
