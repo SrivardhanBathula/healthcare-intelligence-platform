@@ -606,3 +606,4 @@
 - [2023-08-30] feat: add Prometheus metrics for pipeline monitoring
 - [2023-08-31] chore: clean up unused imports and dead code
 - [2023-09-01] test: add integration tests for clinical NER pipeline
+- [2023-09-02] chore: update SNOMED CT vocabulary mappings
