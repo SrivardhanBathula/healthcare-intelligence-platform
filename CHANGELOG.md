@@ -513,3 +513,4 @@
 - [2023-03-24] test: add integration tests for clinical NER pipeline
 - [2023-03-26] chore: update SNOMED CT vocabulary mappings
 - [2023-03-27] fix: correct patient age calculation in risk model
+- [2023-03-29] fix: negation detection edge case in NER pipeline
