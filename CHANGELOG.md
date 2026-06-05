@@ -671,3 +671,4 @@
 - [2024-01-17] chore: update requirements.txt dependencies
 - [2024-01-18] fix: handle null values in OMOP CDM transformer
 - [2024-01-19] docs: document OMOP CDM schema transformations
+- [2024-01-22] fix: correct patient age calculation in risk model
