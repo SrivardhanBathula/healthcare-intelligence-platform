@@ -84,3 +84,4 @@
 - [2022-02-23] feat: add ICD-10 code validation layer
 - [2022-02-26] refactor: optimize ClinicalBERT batch inference
 - [2022-02-28] refactor: optimize ClinicalBERT batch inference
+- [2022-03-02] refactor: improve temporal feature extraction efficiency
