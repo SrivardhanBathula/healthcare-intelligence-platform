@@ -506,3 +506,4 @@
 - [2023-03-15] feat: add Prometheus metrics for pipeline monitoring
 - [2023-03-18] refactor: improve temporal feature extraction efficiency
 - [2023-03-18] test: add integration tests for clinical NER pipeline
+- [2023-03-20] chore: upgrade scikit-learn to latest stable
