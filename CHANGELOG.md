@@ -697,3 +697,4 @@
 - [2024-03-13] feat: add ICD-10 code validation layer
 - [2024-03-13] docs: document OMOP CDM schema transformations
 - [2024-03-15] refactor: vectorize survival analysis feature computation
+- [2024-03-21] docs: add HIPAA compliance notes to data pipeline
