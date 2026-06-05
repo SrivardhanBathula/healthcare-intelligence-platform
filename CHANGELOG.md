@@ -170,3 +170,4 @@
 - [2022-08-25] refactor: improve ICU risk model preprocessing
 - [2022-08-27] chore: update SNOMED CT vocabulary mappings
 - [2022-08-29] refactor: vectorize survival analysis feature computation
+- [2022-08-30] docs: add HIPAA compliance notes to data pipeline
