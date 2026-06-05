@@ -612,3 +612,4 @@
 - [2023-09-14] chore: clean up unused imports and dead code
 - [2023-09-17] chore: upgrade scikit-learn to latest stable
 - [2023-09-17] refactor: improve temporal feature extraction efficiency
+- [2023-09-20] docs: add HIPAA compliance notes to data pipeline
