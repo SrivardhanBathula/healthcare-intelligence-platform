@@ -151,3 +151,4 @@
 - [2022-07-28] refactor: improve ICU risk model preprocessing
 - [2022-07-28] fix: correct patient age calculation in risk model
 - [2022-07-29] chore: update SNOMED CT vocabulary mappings
+- [2022-08-01] docs: add HIPAA compliance notes to data pipeline
