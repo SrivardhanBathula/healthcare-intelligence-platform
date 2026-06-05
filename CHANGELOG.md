@@ -589,3 +589,4 @@
 - [2023-07-24] fix: resolve Grafana dashboard data source config
 - [2023-07-27] fix: resolve Grafana dashboard data source config
 - [2023-07-27] fix: resolve memory leak in PySpark feature job
+- [2023-08-02] fix: handle null values in OMOP CDM transformer
