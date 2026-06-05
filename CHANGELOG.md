@@ -237,3 +237,4 @@
 - [2021-09-21] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-09-26] test: add unit tests for OMOP transformer
 - [2021-09-29] fix: handle missing lab values in ICU risk model
+- [2021-09-30] fix: negation detection edge case in NER pipeline
