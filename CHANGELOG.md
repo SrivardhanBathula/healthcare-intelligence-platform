@@ -465,3 +465,4 @@
 - [2023-01-12] refactor: modularize EHR data standardization logic
 - [2023-01-13] chore: update requirements.txt dependencies
 - [2023-01-16] feat: add ICD-10 code validation layer
+- [2023-01-16] fix: correct patient age calculation in risk model
