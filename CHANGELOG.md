@@ -600,3 +600,4 @@
 - [2023-08-16] refactor: improve ICU risk model preprocessing
 - [2023-08-18] docs: document OMOP CDM schema transformations
 - [2023-08-21] feat: add ICD-10 code validation layer
+- [2023-08-23] fix: negation detection edge case in NER pipeline
