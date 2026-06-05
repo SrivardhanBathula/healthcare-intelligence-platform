@@ -75,3 +75,4 @@
 - [2022-02-07] docs: update clinical NLP pipeline documentation
 - [2022-02-08] test: add unit tests for OMOP transformer
 - [2022-02-09] chore: upgrade scikit-learn to latest stable
+- [2022-02-09] docs: document OMOP CDM schema transformations
