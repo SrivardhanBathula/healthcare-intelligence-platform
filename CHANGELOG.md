@@ -525,3 +525,4 @@
 - [2023-04-17] fix: handle missing lab values in ICU risk model
 - [2023-04-19] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-04-25] docs: document OMOP CDM schema transformations
+- [2023-04-26] refactor: modularize EHR data standardization logic
