@@ -347,3 +347,4 @@
 - [2022-05-16] docs: document OMOP CDM schema transformations
 - [2022-05-16] test: add integration tests for clinical NER pipeline
 - [2022-05-19] refactor: modularize EHR data standardization logic
+- [2022-05-20] chore: upgrade scikit-learn to latest stable
