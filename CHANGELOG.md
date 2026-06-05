@@ -124,3 +124,4 @@
 - [2022-05-31] fix: correct patient age calculation in risk model
 - [2022-06-03] fix: handle missing lab values in ICU risk model
 - [2022-06-03] refactor: improve temporal feature extraction efficiency
+- [2022-06-06] docs: add HIPAA compliance notes to data pipeline
