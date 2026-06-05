@@ -27,3 +27,4 @@
 - [2021-10-20] fix: correct survival analysis time window calculation
 - [2021-10-22] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-10-22] fix: resolve Grafana dashboard data source config
+- [2021-11-02] docs: document OMOP CDM schema transformations
