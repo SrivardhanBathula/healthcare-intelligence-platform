@@ -625,3 +625,4 @@
 - [2023-10-09] test: add unit tests for OMOP transformer
 - [2023-10-10] refactor: optimize ClinicalBERT batch inference
 - [2023-10-11] refactor: vectorize survival analysis feature computation
+- [2023-10-13] chore: update SNOMED CT vocabulary mappings
