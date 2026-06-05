@@ -670,3 +670,4 @@
 - [2024-01-16] feat: add ICD-10 code validation layer
 - [2024-01-17] chore: update requirements.txt dependencies
 - [2024-01-18] fix: handle null values in OMOP CDM transformer
+- [2024-01-19] docs: document OMOP CDM schema transformations
