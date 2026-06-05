@@ -38,3 +38,4 @@
 - [2021-11-23] test: add unit tests for OMOP transformer
 - [2021-11-26] docs: add HIPAA compliance notes to data pipeline
 - [2021-11-27] chore: update requirements.txt dependencies
+- [2021-11-30] fix: resolve Grafana dashboard data source config
