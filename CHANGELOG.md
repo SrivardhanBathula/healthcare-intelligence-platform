@@ -582,3 +582,4 @@
 - [2023-07-18] chore: upgrade scikit-learn to latest stable
 - [2023-07-18] fix: handle missing lab values in ICU risk model
 - [2023-07-19] docs: document OMOP CDM schema transformations
+- [2023-07-19] refactor: improve ICU risk model preprocessing
