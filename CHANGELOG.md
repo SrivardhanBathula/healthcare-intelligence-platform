@@ -646,3 +646,4 @@
 - [2023-11-23] fix: resolve memory leak in PySpark feature job
 - [2023-11-23] test: add unit tests for OMOP transformer
 - [2023-11-24] docs: document OMOP CDM schema transformations
+- [2023-11-27] fix: negation detection edge case in NER pipeline
