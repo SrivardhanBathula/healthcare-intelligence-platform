@@ -470,3 +470,4 @@
 - [2023-01-17] chore: upgrade scikit-learn to latest stable
 - [2023-01-18] chore: update requirements.txt dependencies
 - [2023-01-20] refactor: optimize ClinicalBERT batch inference
+- [2023-01-20] chore: update SNOMED CT vocabulary mappings
