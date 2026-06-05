@@ -78,3 +78,4 @@
 - [2022-02-09] docs: document OMOP CDM schema transformations
 - [2022-02-10] chore: update requirements.txt dependencies
 - [2022-02-12] fix: correct survival analysis time window calculation
+- [2022-02-13] test: add integration tests for clinical NER pipeline
