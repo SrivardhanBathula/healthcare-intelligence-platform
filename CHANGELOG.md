@@ -339,3 +339,4 @@
 - [2022-04-25] chore: upgrade scikit-learn to latest stable
 - [2022-04-25] feat: add Prometheus metrics for pipeline monitoring
 - [2022-04-26] feat: add ICD-10 code validation layer
+- [2022-04-27] fix: negation detection edge case in NER pipeline
