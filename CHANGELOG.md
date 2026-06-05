@@ -145,3 +145,4 @@
 - [2022-07-07] chore: clean up unused imports and dead code
 - [2022-07-08] refactor: improve temporal feature extraction efficiency
 - [2022-07-13] refactor: improve ICU risk model preprocessing
+- [2022-07-14] refactor: optimize EHR ingestion pipeline performance
