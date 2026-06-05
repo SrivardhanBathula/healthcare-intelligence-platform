@@ -411,3 +411,4 @@
 - [2022-09-20] fix: resolve Grafana dashboard data source config
 - [2022-09-22] test: add integration tests for clinical NER pipeline
 - [2022-09-23] chore: upgrade scikit-learn to latest stable
+- [2022-09-23] fix: correct ICD-10 to SNOMED mapping for edge cases
