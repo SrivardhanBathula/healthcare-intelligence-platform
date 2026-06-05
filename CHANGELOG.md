@@ -764,3 +764,4 @@
 - [2024-07-12] chore: update SNOMED CT vocabulary mappings
 - [2024-07-12] refactor: improve ICU risk model preprocessing
 - [2024-07-15] feat: add Prometheus metrics for pipeline monitoring
+- [2024-07-15] fix: resolve Grafana dashboard data source config
