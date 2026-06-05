@@ -729,3 +729,4 @@
 - [2024-05-10] refactor: modularize EHR data standardization logic
 - [2024-05-10] docs: add HIPAA compliance notes to data pipeline
 - [2024-05-15] chore: update SNOMED CT vocabulary mappings
+- [2024-05-15] feat: add Prometheus metrics for pipeline monitoring
