@@ -297,3 +297,4 @@
 - [2022-01-21] fix: negation detection edge case in NER pipeline
 - [2022-02-01] refactor: modularize EHR data standardization logic
 - [2022-02-01] chore: upgrade scikit-learn to latest stable
+- [2022-02-07] fix: handle null values in OMOP CDM transformer
