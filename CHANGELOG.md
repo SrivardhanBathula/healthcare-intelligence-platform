@@ -186,3 +186,4 @@
 - [2022-09-23] chore: upgrade scikit-learn to latest stable
 - [2022-09-23] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-09-27] feat: add ICD-10 code validation layer
+- [2022-09-27] refactor: optimize ClinicalBERT batch inference
