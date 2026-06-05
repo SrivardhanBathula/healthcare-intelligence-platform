@@ -329,3 +329,4 @@
 - [2022-04-05] chore: upgrade scikit-learn to latest stable
 - [2022-04-06] feat: add Prometheus metrics for pipeline monitoring
 - [2022-04-06] docs: update clinical NLP pipeline documentation
+- [2022-04-07] fix: handle missing lab values in ICU risk model
