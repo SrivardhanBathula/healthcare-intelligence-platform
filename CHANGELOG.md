@@ -505,3 +505,4 @@
 - [2023-03-13] fix: handle missing lab values in ICU risk model
 - [2023-03-15] feat: add Prometheus metrics for pipeline monitoring
 - [2023-03-18] refactor: improve temporal feature extraction efficiency
+- [2023-03-18] test: add integration tests for clinical NER pipeline
