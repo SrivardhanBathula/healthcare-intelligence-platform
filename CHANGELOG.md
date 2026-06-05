@@ -689,3 +689,4 @@
 - [2024-02-29] fix: correct patient age calculation in risk model
 - [2024-03-01] docs: update clinical NLP pipeline documentation
 - [2024-03-02] test: add unit tests for OMOP transformer
+- [2024-03-02] fix: correct survival analysis time window calculation
