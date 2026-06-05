@@ -536,3 +536,4 @@
 - [2023-05-08] refactor: optimize ClinicalBERT batch inference
 - [2023-05-08] fix: resolve memory leak in PySpark feature job
 - [2023-05-09] refactor: optimize EHR ingestion pipeline performance
+- [2023-05-10] fix: resolve memory leak in PySpark feature job
