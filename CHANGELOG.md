@@ -437,3 +437,4 @@
 - [2022-11-26] test: add unit tests for OMOP transformer
 - [2022-11-30] feat: add ICD-10 code validation layer
 - [2022-12-02] refactor: modularize EHR data standardization logic
+- [2022-12-05] chore: update SNOMED CT vocabulary mappings
