@@ -541,3 +541,4 @@
 - [2023-05-11] refactor: optimize ClinicalBERT batch inference
 - [2023-05-12] test: add integration tests for clinical NER pipeline
 - [2023-05-15] fix: resolve Grafana dashboard data source config
+- [2023-05-17] refactor: optimize EHR ingestion pipeline performance
