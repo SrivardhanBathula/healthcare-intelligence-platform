@@ -628,3 +628,4 @@
 - [2023-10-13] chore: update SNOMED CT vocabulary mappings
 - [2023-10-19] refactor: optimize ClinicalBERT batch inference
 - [2023-10-23] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-10-23] refactor: vectorize survival analysis feature computation
