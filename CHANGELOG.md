@@ -592,3 +592,4 @@
 - [2023-08-02] fix: handle null values in OMOP CDM transformer
 - [2023-08-05] fix: resolve Grafana dashboard data source config
 - [2023-08-05] refactor: optimize ClinicalBERT batch inference
+- [2023-08-07] fix: handle missing lab values in ICU risk model
