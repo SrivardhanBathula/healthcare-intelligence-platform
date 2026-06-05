@@ -533,3 +533,4 @@
 - [2023-05-02] test: add unit tests for OMOP transformer
 - [2023-05-03] refactor: optimize EHR ingestion pipeline performance
 - [2023-05-04] test: add unit tests for OMOP transformer
+- [2023-05-08] refactor: optimize ClinicalBERT batch inference
