@@ -137,3 +137,4 @@
 - [2022-06-21] refactor: improve temporal feature extraction efficiency
 - [2022-06-22] chore: update SNOMED CT vocabulary mappings
 - [2022-06-23] refactor: improve ICU risk model preprocessing
+- [2022-06-24] fix: correct survival analysis time window calculation
