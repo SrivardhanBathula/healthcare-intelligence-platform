@@ -679,3 +679,4 @@
 - [2024-02-05] docs: add HIPAA compliance notes to data pipeline
 - [2024-02-06] refactor: vectorize survival analysis feature computation
 - [2024-02-12] docs: update clinical NLP pipeline documentation
+- [2024-02-15] fix: correct patient age calculation in risk model
