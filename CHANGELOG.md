@@ -473,3 +473,4 @@
 - [2023-01-20] chore: update SNOMED CT vocabulary mappings
 - [2023-01-25] test: add unit tests for OMOP transformer
 - [2023-02-03] fix: correct survival analysis time window calculation
+- [2023-02-03] chore: upgrade scikit-learn to latest stable
