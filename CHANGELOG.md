@@ -508,3 +508,4 @@
 - [2023-03-18] test: add integration tests for clinical NER pipeline
 - [2023-03-20] chore: upgrade scikit-learn to latest stable
 - [2023-03-22] refactor: vectorize survival analysis feature computation
+- [2023-03-22] chore: clean up unused imports and dead code
