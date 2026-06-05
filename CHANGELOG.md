@@ -710,3 +710,4 @@
 - [2024-04-08] feat: add ICD-10 code validation layer
 - [2024-04-08] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-04-09] chore: upgrade scikit-learn to latest stable
+- [2024-04-09] fix: resolve memory leak in PySpark feature job
