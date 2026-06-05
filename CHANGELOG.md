@@ -249,3 +249,4 @@
 - [2021-10-18] refactor: improve ICU risk model preprocessing
 - [2021-10-18] test: add integration tests for clinical NER pipeline
 - [2021-10-20] fix: correct survival analysis time window calculation
+- [2021-10-22] fix: resolve Grafana dashboard data source config
