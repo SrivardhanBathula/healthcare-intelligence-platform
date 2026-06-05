@@ -59,3 +59,4 @@
 - [2022-01-01] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-01-03] feat: add ICD-10 code validation layer
 - [2022-01-04] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-01-06] chore: update requirements.txt dependencies
