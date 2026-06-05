@@ -460,3 +460,4 @@
 - [2022-12-28] fix: resolve Grafana dashboard data source config
 - [2023-01-02] fix: resolve memory leak in PySpark feature job
 - [2023-01-06] test: add integration tests for clinical NER pipeline
+- [2023-01-10] fix: resolve Grafana dashboard data source config
