@@ -599,3 +599,4 @@
 - [2023-08-14] chore: update SNOMED CT vocabulary mappings
 - [2023-08-16] refactor: improve ICU risk model preprocessing
 - [2023-08-18] docs: document OMOP CDM schema transformations
+- [2023-08-21] feat: add ICD-10 code validation layer
