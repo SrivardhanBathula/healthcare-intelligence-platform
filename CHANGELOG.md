@@ -575,3 +575,4 @@
 - [2023-07-10] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-07-12] fix: negation detection edge case in NER pipeline
 - [2023-07-12] docs: update clinical NLP pipeline documentation
+- [2023-07-14] fix: correct ICD-10 to SNOMED mapping for edge cases
