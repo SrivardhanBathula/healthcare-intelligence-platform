@@ -724,3 +724,4 @@
 - [2024-05-04] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-07] refactor: modularize EHR data standardization logic
 - [2024-05-07] fix: correct patient age calculation in risk model
+- [2024-05-09] feat: add Prometheus metrics for pipeline monitoring
