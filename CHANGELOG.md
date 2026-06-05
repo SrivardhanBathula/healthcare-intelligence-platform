@@ -577,3 +577,4 @@
 - [2023-07-12] docs: update clinical NLP pipeline documentation
 - [2023-07-14] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-07-14] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-07-15] refactor: optimize ClinicalBERT batch inference
