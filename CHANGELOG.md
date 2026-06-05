@@ -224,3 +224,4 @@
 - [2022-12-19] chore: upgrade scikit-learn to latest stable
 - [2022-12-21] fix: resolve memory leak in PySpark feature job
 - [2022-12-22] refactor: optimize EHR ingestion pipeline performance
+- [2022-12-22] test: add unit tests for OMOP transformer
