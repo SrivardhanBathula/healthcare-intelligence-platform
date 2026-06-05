@@ -514,3 +514,4 @@
 - [2023-03-26] chore: update SNOMED CT vocabulary mappings
 - [2023-03-27] fix: correct patient age calculation in risk model
 - [2023-03-29] fix: negation detection edge case in NER pipeline
+- [2023-03-31] feat: add Prometheus metrics for pipeline monitoring
