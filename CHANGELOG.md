@@ -179,3 +179,4 @@
 - [2022-09-09] chore: upgrade scikit-learn to latest stable
 - [2022-09-15] chore: update requirements.txt dependencies
 - [2022-09-18] chore: clean up unused imports and dead code
+- [2022-09-19] fix: handle missing lab values in ICU risk model
