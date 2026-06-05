@@ -255,3 +255,4 @@
 - [2021-11-02] chore: clean up unused imports and dead code
 - [2021-11-05] test: add unit tests for OMOP transformer
 - [2021-11-09] fix: resolve memory leak in PySpark feature job
+- [2021-11-11] chore: clean up unused imports and dead code
