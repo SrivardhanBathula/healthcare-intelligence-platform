@@ -597,3 +597,4 @@
 - [2023-08-10] fix: negation detection edge case in NER pipeline
 - [2023-08-11] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-08-14] chore: update SNOMED CT vocabulary mappings
+- [2023-08-16] refactor: improve ICU risk model preprocessing
