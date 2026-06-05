@@ -310,3 +310,4 @@
 - [2022-02-26] refactor: optimize ClinicalBERT batch inference
 - [2022-02-28] refactor: optimize ClinicalBERT batch inference
 - [2022-03-01] feat: add Prometheus metrics for pipeline monitoring
+- [2022-03-02] refactor: improve temporal feature extraction efficiency
