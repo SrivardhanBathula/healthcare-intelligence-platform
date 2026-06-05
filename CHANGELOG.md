@@ -388,3 +388,4 @@
 - [2022-08-11] refactor: improve temporal feature extraction efficiency
 - [2022-08-11] docs: add HIPAA compliance notes to data pipeline
 - [2022-08-15] chore: update requirements.txt dependencies
+- [2022-08-17] chore: upgrade scikit-learn to latest stable
