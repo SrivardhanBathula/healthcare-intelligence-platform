@@ -30,3 +30,4 @@
 - [2021-11-02] docs: document OMOP CDM schema transformations
 - [2021-11-03] chore: update SNOMED CT vocabulary mappings
 - [2021-11-05] test: add unit tests for OMOP transformer
+- [2021-11-09] fix: resolve memory leak in PySpark feature job
