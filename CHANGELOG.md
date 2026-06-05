@@ -415,3 +415,4 @@
 - [2022-09-27] feat: add ICD-10 code validation layer
 - [2022-09-27] refactor: optimize ClinicalBERT batch inference
 - [2022-09-28] chore: update SNOMED CT vocabulary mappings
+- [2022-09-30] refactor: vectorize survival analysis feature computation
