@@ -243,3 +243,4 @@
 - [2021-10-05] docs: document OMOP CDM schema transformations
 - [2021-10-08] feat: add ICD-10 code validation layer
 - [2021-10-12] fix: resolve Grafana dashboard data source config
+- [2021-10-13] fix: correct patient age calculation in risk model
