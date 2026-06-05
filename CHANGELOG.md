@@ -608,3 +608,4 @@
 - [2023-09-01] test: add integration tests for clinical NER pipeline
 - [2023-09-02] chore: update SNOMED CT vocabulary mappings
 - [2023-09-05] fix: resolve memory leak in PySpark feature job
+- [2023-09-12] test: add integration tests for clinical NER pipeline
