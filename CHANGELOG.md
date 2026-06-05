@@ -694,3 +694,4 @@
 - [2024-03-07] docs: document OMOP CDM schema transformations
 - [2024-03-12] fix: correct patient age calculation in risk model
 - [2024-03-12] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2024-03-13] feat: add ICD-10 code validation layer
