@@ -531,3 +531,4 @@
 - [2023-05-01] feat: add ICD-10 code validation layer
 - [2023-05-01] fix: handle missing lab values in ICU risk model
 - [2023-05-02] test: add unit tests for OMOP transformer
+- [2023-05-03] refactor: optimize EHR ingestion pipeline performance
