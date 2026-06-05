@@ -522,3 +522,4 @@
 - [2023-04-13] test: add integration tests for clinical NER pipeline
 - [2023-04-14] refactor: vectorize survival analysis feature computation
 - [2023-04-14] refactor: improve ICU risk model preprocessing
+- [2023-04-17] fix: handle missing lab values in ICU risk model
