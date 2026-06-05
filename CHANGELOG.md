@@ -396,3 +396,4 @@
 - [2022-08-24] refactor: optimize EHR ingestion pipeline performance
 - [2022-08-27] chore: update SNOMED CT vocabulary mappings
 - [2022-08-30] docs: add HIPAA compliance notes to data pipeline
+- [2022-09-01] test: add integration tests for clinical NER pipeline
