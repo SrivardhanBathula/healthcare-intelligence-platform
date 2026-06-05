@@ -358,3 +358,4 @@
 - [2022-06-10] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-12] refactor: optimize ClinicalBERT batch inference
 - [2022-06-12] test: add unit tests for OMOP transformer
+- [2022-06-13] fix: correct ICD-10 to SNOMED mapping for edge cases
