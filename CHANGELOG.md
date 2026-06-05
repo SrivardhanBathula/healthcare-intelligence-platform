@@ -318,3 +318,4 @@
 - [2022-03-08] fix: resolve Grafana dashboard data source config
 - [2022-03-14] test: add unit tests for OMOP transformer
 - [2022-03-14] docs: document OMOP CDM schema transformations
+- [2022-03-24] refactor: vectorize survival analysis feature computation
