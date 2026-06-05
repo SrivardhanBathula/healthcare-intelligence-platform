@@ -692,3 +692,4 @@
 - [2024-03-02] fix: correct survival analysis time window calculation
 - [2024-03-05] test: add unit tests for OMOP transformer
 - [2024-03-07] docs: document OMOP CDM schema transformations
+- [2024-03-12] fix: correct patient age calculation in risk model
