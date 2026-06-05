@@ -450,3 +450,4 @@
 - [2022-12-17] refactor: improve temporal feature extraction efficiency
 - [2022-12-19] chore: upgrade scikit-learn to latest stable
 - [2022-12-21] fix: resolve memory leak in PySpark feature job
+- [2022-12-21] refactor: improve ICU risk model preprocessing
