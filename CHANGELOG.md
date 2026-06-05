@@ -398,3 +398,4 @@
 - [2022-08-30] docs: add HIPAA compliance notes to data pipeline
 - [2022-09-01] test: add integration tests for clinical NER pipeline
 - [2022-09-02] feat: add ICD-10 code validation layer
+- [2022-09-02] refactor: modularize EHR data standardization logic
