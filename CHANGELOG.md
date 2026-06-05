@@ -120,3 +120,4 @@
 - [2022-05-13] refactor: vectorize survival analysis feature computation
 - [2022-05-16] docs: document OMOP CDM schema transformations
 - [2022-05-19] refactor: modularize EHR data standardization logic
+- [2022-05-20] chore: upgrade scikit-learn to latest stable
