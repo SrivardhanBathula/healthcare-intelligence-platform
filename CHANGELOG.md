@@ -545,3 +545,4 @@
 - [2023-05-19] chore: update requirements.txt dependencies
 - [2023-05-19] feat: add ICD-10 code validation layer
 - [2023-05-22] docs: add HIPAA compliance notes to data pipeline
+- [2023-05-22] fix: negation detection edge case in NER pipeline
