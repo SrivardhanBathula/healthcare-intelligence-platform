@@ -368,3 +368,4 @@
 - [2022-06-24] fix: correct survival analysis time window calculation
 - [2022-06-29] refactor: optimize EHR ingestion pipeline performance
 - [2022-06-29] docs: add HIPAA compliance notes to data pipeline
+- [2022-07-03] fix: resolve Grafana dashboard data source config
