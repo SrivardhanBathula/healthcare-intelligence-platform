@@ -127,3 +127,4 @@
 - [2022-06-06] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-08] refactor: optimize EHR ingestion pipeline performance
 - [2022-06-09] refactor: modularize EHR data standardization logic
+- [2022-06-10] docs: add HIPAA compliance notes to data pipeline
