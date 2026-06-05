@@ -543,3 +543,4 @@
 - [2023-05-15] fix: resolve Grafana dashboard data source config
 - [2023-05-17] refactor: optimize EHR ingestion pipeline performance
 - [2023-05-19] chore: update requirements.txt dependencies
+- [2023-05-19] feat: add ICD-10 code validation layer
