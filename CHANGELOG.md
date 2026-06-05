@@ -446,3 +446,4 @@
 - [2022-12-09] test: add unit tests for OMOP transformer
 - [2022-12-14] fix: correct survival analysis time window calculation
 - [2022-12-14] fix: handle missing lab values in ICU risk model
+- [2022-12-17] chore: upgrade scikit-learn to latest stable
