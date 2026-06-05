@@ -31,3 +31,4 @@
 - [2021-11-03] chore: update SNOMED CT vocabulary mappings
 - [2021-11-05] test: add unit tests for OMOP transformer
 - [2021-11-09] fix: resolve memory leak in PySpark feature job
+- [2021-11-11] chore: clean up unused imports and dead code
