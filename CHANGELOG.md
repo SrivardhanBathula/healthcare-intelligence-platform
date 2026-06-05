@@ -611,3 +611,4 @@
 - [2023-09-12] test: add integration tests for clinical NER pipeline
 - [2023-09-14] chore: clean up unused imports and dead code
 - [2023-09-17] chore: upgrade scikit-learn to latest stable
+- [2023-09-17] refactor: improve temporal feature extraction efficiency
