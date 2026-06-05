@@ -245,3 +245,4 @@
 - [2021-10-12] fix: resolve Grafana dashboard data source config
 - [2021-10-13] fix: correct patient age calculation in risk model
 - [2021-10-13] fix: correct patient age calculation in risk model
+- [2021-10-15] fix: resolve memory leak in PySpark feature job
