@@ -433,3 +433,4 @@
 - [2022-11-07] fix: correct survival analysis time window calculation
 - [2022-11-11] chore: upgrade scikit-learn to latest stable
 - [2022-11-22] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-11-22] chore: update requirements.txt dependencies
