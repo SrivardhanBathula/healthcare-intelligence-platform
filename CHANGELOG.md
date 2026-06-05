@@ -726,3 +726,4 @@
 - [2024-05-07] fix: correct patient age calculation in risk model
 - [2024-05-09] feat: add Prometheus metrics for pipeline monitoring
 - [2024-05-09] refactor: optimize ClinicalBERT batch inference
+- [2024-05-10] refactor: modularize EHR data standardization logic
