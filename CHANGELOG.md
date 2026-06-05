@@ -579,3 +579,4 @@
 - [2023-07-14] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-07-15] refactor: optimize ClinicalBERT batch inference
 - [2023-07-17] refactor: modularize EHR data standardization logic
+- [2023-07-18] chore: upgrade scikit-learn to latest stable
