@@ -231,3 +231,4 @@
 - [2021-09-09] refactor: modularize EHR data standardization logic
 - [2021-09-09] docs: update clinical NLP pipeline documentation
 - [2021-09-10] docs: update clinical NLP pipeline documentation
+- [2021-09-10] fix: correct ICD-10 to SNOMED mapping for edge cases
