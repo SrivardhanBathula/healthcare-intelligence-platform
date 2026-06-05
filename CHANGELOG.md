@@ -765,3 +765,4 @@
 - [2024-07-12] refactor: improve ICU risk model preprocessing
 - [2024-07-15] feat: add Prometheus metrics for pipeline monitoring
 - [2024-07-15] fix: resolve Grafana dashboard data source config
+- [2024-07-19] fix: resolve memory leak in PySpark feature job
