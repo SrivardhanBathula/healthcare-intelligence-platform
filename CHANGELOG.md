@@ -486,3 +486,4 @@
 - [2023-02-16] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-16] docs: update clinical NLP pipeline documentation
 - [2023-02-17] refactor: optimize EHR ingestion pipeline performance
+- [2023-02-21] chore: update requirements.txt dependencies
