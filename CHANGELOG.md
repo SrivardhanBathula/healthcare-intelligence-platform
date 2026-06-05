@@ -419,3 +419,4 @@
 - [2022-10-01] fix: handle null values in OMOP CDM transformer
 - [2022-10-04] refactor: improve ICU risk model preprocessing
 - [2022-10-04] feat: add Prometheus metrics for pipeline monitoring
+- [2022-10-05] refactor: improve temporal feature extraction efficiency
