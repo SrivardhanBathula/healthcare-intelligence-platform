@@ -551,3 +551,4 @@
 - [2023-05-25] fix: resolve memory leak in PySpark feature job
 - [2023-05-26] fix: resolve Grafana dashboard data source config
 - [2023-05-29] refactor: improve ICU risk model preprocessing
+- [2023-06-01] fix: handle null values in OMOP CDM transformer
