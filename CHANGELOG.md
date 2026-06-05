@@ -345,3 +345,4 @@
 - [2022-05-04] refactor: improve ICU risk model preprocessing
 - [2022-05-13] refactor: vectorize survival analysis feature computation
 - [2022-05-16] docs: document OMOP CDM schema transformations
+- [2022-05-16] test: add integration tests for clinical NER pipeline
