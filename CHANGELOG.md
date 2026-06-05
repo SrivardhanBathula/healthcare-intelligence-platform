@@ -763,3 +763,4 @@
 - [2024-07-11] test: add integration tests for clinical NER pipeline
 - [2024-07-12] chore: update SNOMED CT vocabulary mappings
 - [2024-07-12] refactor: improve ICU risk model preprocessing
+- [2024-07-15] feat: add Prometheus metrics for pipeline monitoring
