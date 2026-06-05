@@ -754,3 +754,4 @@
 - [2024-06-23] chore: upgrade scikit-learn to latest stable
 - [2024-06-23] refactor: improve ICU risk model preprocessing
 - [2024-06-24] refactor: improve ICU risk model preprocessing
+- [2024-06-26] chore: update requirements.txt dependencies
