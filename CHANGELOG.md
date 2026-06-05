@@ -750,3 +750,4 @@
 - [2024-06-12] fix: negation detection edge case in NER pipeline
 - [2024-06-18] fix: correct patient age calculation in risk model
 - [2024-06-18] chore: upgrade scikit-learn to latest stable
+- [2024-06-19] fix: negation detection edge case in NER pipeline
