@@ -458,3 +458,4 @@
 - [2022-12-26] chore: update SNOMED CT vocabulary mappings
 - [2022-12-28] chore: update requirements.txt dependencies
 - [2022-12-28] fix: resolve Grafana dashboard data source config
+- [2023-01-02] fix: resolve memory leak in PySpark feature job
