@@ -480,3 +480,4 @@
 - [2023-02-08] chore: upgrade scikit-learn to latest stable
 - [2023-02-09] fix: handle null values in OMOP CDM transformer
 - [2023-02-09] test: add integration tests for clinical NER pipeline
+- [2023-02-10] chore: update requirements.txt dependencies
