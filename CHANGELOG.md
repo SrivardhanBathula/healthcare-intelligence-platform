@@ -532,3 +532,4 @@
 - [2023-05-01] fix: handle missing lab values in ICU risk model
 - [2023-05-02] test: add unit tests for OMOP transformer
 - [2023-05-03] refactor: optimize EHR ingestion pipeline performance
+- [2023-05-04] test: add unit tests for OMOP transformer
