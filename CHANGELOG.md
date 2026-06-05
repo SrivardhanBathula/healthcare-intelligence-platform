@@ -261,3 +261,4 @@
 - [2021-11-17] chore: upgrade scikit-learn to latest stable
 - [2021-11-18] test: add unit tests for OMOP transformer
 - [2021-11-23] test: add unit tests for OMOP transformer
+- [2021-11-23] docs: update clinical NLP pipeline documentation
