@@ -341,3 +341,4 @@
 - [2022-04-26] feat: add ICD-10 code validation layer
 - [2022-04-27] fix: negation detection edge case in NER pipeline
 - [2022-05-02] refactor: optimize EHR ingestion pipeline performance
+- [2022-05-04] refactor: vectorize survival analysis feature computation
