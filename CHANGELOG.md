@@ -353,3 +353,4 @@
 - [2022-06-03] refactor: improve temporal feature extraction efficiency
 - [2022-06-06] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-07] fix: correct survival analysis time window calculation
+- [2022-06-08] refactor: optimize EHR ingestion pipeline performance
