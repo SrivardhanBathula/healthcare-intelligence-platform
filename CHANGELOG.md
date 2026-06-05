@@ -175,3 +175,4 @@
 - [2022-09-02] feat: add ICD-10 code validation layer
 - [2022-09-02] refactor: modularize EHR data standardization logic
 - [2022-09-05] refactor: optimize ClinicalBERT batch inference
+- [2022-09-08] fix: correct ICD-10 to SNOMED mapping for edge cases
