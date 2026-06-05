@@ -662,3 +662,4 @@
 - [2023-12-26] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-12-27] refactor: improve ICU risk model preprocessing
 - [2024-01-02] feat: add Prometheus metrics for pipeline monitoring
+- [2024-01-05] fix: negation detection edge case in NER pipeline
