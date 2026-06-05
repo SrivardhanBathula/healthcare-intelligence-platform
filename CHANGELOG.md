@@ -740,3 +740,4 @@
 - [2024-05-29] refactor: optimize ClinicalBERT batch inference
 - [2024-05-29] refactor: modularize EHR data standardization logic
 - [2024-05-31] chore: update requirements.txt dependencies
+- [2024-06-02] test: add integration tests for clinical NER pipeline
