@@ -230,3 +230,4 @@
 - [2021-09-07] fix: correct patient age calculation in risk model
 - [2021-09-09] refactor: modularize EHR data standardization logic
 - [2021-09-09] docs: update clinical NLP pipeline documentation
+- [2021-09-10] docs: update clinical NLP pipeline documentation
