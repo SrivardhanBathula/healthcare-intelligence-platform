@@ -529,3 +529,4 @@
 - [2023-04-28] fix: correct survival analysis time window calculation
 - [2023-04-28] fix: negation detection edge case in NER pipeline
 - [2023-05-01] feat: add ICD-10 code validation layer
+- [2023-05-01] fix: handle missing lab values in ICU risk model
