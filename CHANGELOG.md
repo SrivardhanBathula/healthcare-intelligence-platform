@@ -189,3 +189,4 @@
 - [2022-09-27] refactor: optimize ClinicalBERT batch inference
 - [2022-09-28] chore: update SNOMED CT vocabulary mappings
 - [2022-09-30] refactor: vectorize survival analysis feature computation
+- [2022-10-01] refactor: modularize EHR data standardization logic
