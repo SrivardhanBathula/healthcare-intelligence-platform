@@ -527,3 +527,4 @@
 - [2023-04-25] docs: document OMOP CDM schema transformations
 - [2023-04-26] refactor: modularize EHR data standardization logic
 - [2023-04-28] fix: correct survival analysis time window calculation
+- [2023-04-28] fix: negation detection edge case in NER pipeline
