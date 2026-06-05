@@ -64,3 +64,4 @@
 - [2022-01-11] fix: resolve Grafana dashboard data source config
 - [2022-01-11] docs: add HIPAA compliance notes to data pipeline
 - [2022-01-13] refactor: modularize EHR data standardization logic
+- [2022-01-13] refactor: optimize EHR ingestion pipeline performance
