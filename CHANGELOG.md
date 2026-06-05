@@ -500,3 +500,4 @@
 - [2023-03-07] fix: resolve memory leak in PySpark feature job
 - [2023-03-08] docs: document OMOP CDM schema transformations
 - [2023-03-09] refactor: improve temporal feature extraction efficiency
+- [2023-03-10] fix: resolve Grafana dashboard data source config
