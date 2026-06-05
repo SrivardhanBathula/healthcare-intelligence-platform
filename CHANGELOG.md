@@ -516,3 +516,4 @@
 - [2023-03-29] fix: negation detection edge case in NER pipeline
 - [2023-03-31] feat: add Prometheus metrics for pipeline monitoring
 - [2023-04-06] fix: resolve Grafana dashboard data source config
+- [2023-04-07] fix: negation detection edge case in NER pipeline
