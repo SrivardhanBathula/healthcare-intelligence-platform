@@ -167,3 +167,4 @@
 - [2022-08-23] fix: correct survival analysis time window calculation
 - [2022-08-23] refactor: optimize ClinicalBERT batch inference
 - [2022-08-24] refactor: optimize EHR ingestion pipeline performance
+- [2022-08-25] refactor: improve ICU risk model preprocessing
