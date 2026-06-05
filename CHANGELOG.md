@@ -648,3 +648,4 @@
 - [2023-11-24] docs: document OMOP CDM schema transformations
 - [2023-11-27] fix: negation detection edge case in NER pipeline
 - [2023-11-29] refactor: improve ICU risk model preprocessing
+- [2023-12-06] test: add unit tests for OMOP transformer
