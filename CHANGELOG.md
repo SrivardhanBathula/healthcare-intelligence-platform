@@ -752,3 +752,4 @@
 - [2024-06-18] chore: upgrade scikit-learn to latest stable
 - [2024-06-19] fix: negation detection edge case in NER pipeline
 - [2024-06-23] chore: upgrade scikit-learn to latest stable
+- [2024-06-23] refactor: improve ICU risk model preprocessing
