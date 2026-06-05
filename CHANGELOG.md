@@ -702,3 +702,4 @@
 - [2024-03-23] refactor: optimize ClinicalBERT batch inference
 - [2024-03-25] refactor: improve ICU risk model preprocessing
 - [2024-03-26] test: add unit tests for OMOP transformer
+- [2024-03-28] feat: add Prometheus metrics for pipeline monitoring
