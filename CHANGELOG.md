@@ -328,3 +328,4 @@
 - [2022-04-05] refactor: optimize ClinicalBERT batch inference
 - [2022-04-05] chore: upgrade scikit-learn to latest stable
 - [2022-04-06] feat: add Prometheus metrics for pipeline monitoring
+- [2022-04-06] docs: update clinical NLP pipeline documentation
