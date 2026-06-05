@@ -441,3 +441,4 @@
 - [2022-12-06] fix: handle missing lab values in ICU risk model
 - [2022-12-06] refactor: vectorize survival analysis feature computation
 - [2022-12-08] refactor: modularize EHR data standardization logic
+- [2022-12-08] docs: add HIPAA compliance notes to data pipeline
