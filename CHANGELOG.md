@@ -555,3 +555,4 @@
 - [2023-06-02] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2023-06-05] docs: document OMOP CDM schema transformations
 - [2023-06-06] chore: update SNOMED CT vocabulary mappings
+- [2023-06-12] docs: add HIPAA compliance notes to data pipeline
