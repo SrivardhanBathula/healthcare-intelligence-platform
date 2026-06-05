@@ -63,3 +63,4 @@
 - [2022-01-07] chore: update SNOMED CT vocabulary mappings
 - [2022-01-11] fix: resolve Grafana dashboard data source config
 - [2022-01-11] docs: add HIPAA compliance notes to data pipeline
+- [2022-01-13] refactor: modularize EHR data standardization logic
