@@ -747,3 +747,4 @@
 - [2024-06-06] fix: negation detection edge case in NER pipeline
 - [2024-06-07] fix: resolve Grafana dashboard data source config
 - [2024-06-08] chore: update SNOMED CT vocabulary mappings
+- [2024-06-12] fix: negation detection edge case in NER pipeline
