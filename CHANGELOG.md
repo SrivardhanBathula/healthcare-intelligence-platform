@@ -250,3 +250,4 @@
 - [2021-10-18] test: add integration tests for clinical NER pipeline
 - [2021-10-20] fix: correct survival analysis time window calculation
 - [2021-10-22] fix: resolve Grafana dashboard data source config
+- [2021-10-27] chore: clean up unused imports and dead code
