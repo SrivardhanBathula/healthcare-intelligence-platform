@@ -759,3 +759,4 @@
 - [2024-06-27] refactor: modularize EHR data standardization logic
 - [2024-06-28] fix: correct survival analysis time window calculation
 - [2024-06-28] feat: add ICD-10 code validation layer
+- [2024-07-03] fix: resolve Grafana dashboard data source config
