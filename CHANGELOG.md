@@ -263,3 +263,4 @@
 - [2021-11-23] test: add unit tests for OMOP transformer
 - [2021-11-23] docs: update clinical NLP pipeline documentation
 - [2021-11-27] chore: update requirements.txt dependencies
+- [2021-11-30] fix: resolve Grafana dashboard data source config
