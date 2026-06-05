@@ -602,3 +602,4 @@
 - [2023-08-21] feat: add ICD-10 code validation layer
 - [2023-08-23] fix: negation detection edge case in NER pipeline
 - [2023-08-23] docs: add HIPAA compliance notes to data pipeline
+- [2023-08-25] fix: correct ICD-10 to SNOMED mapping for edge cases
