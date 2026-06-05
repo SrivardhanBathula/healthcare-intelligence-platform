@@ -714,3 +714,4 @@
 - [2024-04-15] feat: add Prometheus metrics for pipeline monitoring
 - [2024-04-18] refactor: modularize EHR data standardization logic
 - [2024-04-19] docs: document OMOP CDM schema transformations
+- [2024-04-24] test: add unit tests for OMOP transformer
