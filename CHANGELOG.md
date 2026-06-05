@@ -93,3 +93,4 @@
 - [2022-03-14] test: add unit tests for OMOP transformer
 - [2022-03-14] docs: document OMOP CDM schema transformations
 - [2022-03-18] feat: add Prometheus metrics for pipeline monitoring
+- [2022-03-24] refactor: vectorize survival analysis feature computation
