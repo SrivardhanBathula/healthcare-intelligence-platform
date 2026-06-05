@@ -523,3 +523,4 @@
 - [2023-04-14] refactor: vectorize survival analysis feature computation
 - [2023-04-14] refactor: improve ICU risk model preprocessing
 - [2023-04-17] fix: handle missing lab values in ICU risk model
+- [2023-04-19] fix: correct ICD-10 to SNOMED mapping for edge cases
