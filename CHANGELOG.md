@@ -474,3 +474,4 @@
 - [2023-01-25] test: add unit tests for OMOP transformer
 - [2023-02-03] fix: correct survival analysis time window calculation
 - [2023-02-03] chore: upgrade scikit-learn to latest stable
+- [2023-02-06] fix: resolve memory leak in PySpark feature job
