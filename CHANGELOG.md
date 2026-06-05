@@ -299,3 +299,4 @@
 - [2022-02-01] chore: upgrade scikit-learn to latest stable
 - [2022-02-07] fix: handle null values in OMOP CDM transformer
 - [2022-02-07] docs: update clinical NLP pipeline documentation
+- [2022-02-08] test: add unit tests for OMOP transformer
