@@ -640,3 +640,4 @@
 - [2023-11-13] fix: resolve Grafana dashboard data source config
 - [2023-11-15] chore: clean up unused imports and dead code
 - [2023-11-15] chore: update SNOMED CT vocabulary mappings
+- [2023-11-16] fix: correct survival analysis time window calculation
