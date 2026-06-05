@@ -738,3 +738,4 @@
 - [2024-05-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-27] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2024-05-29] refactor: optimize ClinicalBERT batch inference
+- [2024-05-29] refactor: modularize EHR data standardization logic
