@@ -68,3 +68,4 @@
 - [2022-01-18] refactor: optimize EHR ingestion pipeline performance
 - [2022-01-20] fix: handle null values in OMOP CDM transformer
 - [2022-01-20] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-01-21] fix: negation detection edge case in NER pipeline
