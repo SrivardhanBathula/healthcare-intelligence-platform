@@ -556,3 +556,4 @@
 - [2023-06-05] docs: document OMOP CDM schema transformations
 - [2023-06-06] chore: update SNOMED CT vocabulary mappings
 - [2023-06-12] docs: add HIPAA compliance notes to data pipeline
+- [2023-06-13] feat: add ICD-10 code validation layer
