@@ -279,3 +279,4 @@
 - [2021-12-21] test: add unit tests for OMOP transformer
 - [2021-12-24] feat: add ICD-10 code validation layer
 - [2021-12-24] refactor: improve temporal feature extraction efficiency
+- [2021-12-27] fix: correct survival analysis time window calculation
