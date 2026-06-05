@@ -295,3 +295,4 @@
 - [2022-01-20] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2022-01-21] fix: negation detection edge case in NER pipeline
 - [2022-01-21] fix: negation detection edge case in NER pipeline
+- [2022-02-01] refactor: modularize EHR data standardization logic
