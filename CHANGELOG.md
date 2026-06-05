@@ -456,3 +456,4 @@
 - [2022-12-23] fix: handle null values in OMOP CDM transformer
 - [2022-12-23] chore: clean up unused imports and dead code
 - [2022-12-26] chore: update SNOMED CT vocabulary mappings
+- [2022-12-28] chore: update requirements.txt dependencies
