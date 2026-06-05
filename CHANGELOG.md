@@ -497,3 +497,4 @@
 - [2023-03-06] docs: document OMOP CDM schema transformations
 - [2023-03-06] fix: resolve Grafana dashboard data source config
 - [2023-03-07] fix: correct survival analysis time window calculation
+- [2023-03-07] fix: resolve memory leak in PySpark feature job
