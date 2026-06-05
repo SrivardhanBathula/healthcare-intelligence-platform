@@ -721,3 +721,4 @@
 - [2024-05-02] docs: document OMOP CDM schema transformations
 - [2024-05-03] refactor: modularize EHR data standardization logic
 - [2024-05-03] chore: clean up unused imports and dead code
+- [2024-05-04] fix: correct ICD-10 to SNOMED mapping for edge cases
