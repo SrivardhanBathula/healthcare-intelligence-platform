@@ -620,3 +620,4 @@
 - [2023-09-29] chore: clean up unused imports and dead code
 - [2023-09-29] docs: add HIPAA compliance notes to data pipeline
 - [2023-10-02] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2023-10-03] chore: upgrade scikit-learn to latest stable
