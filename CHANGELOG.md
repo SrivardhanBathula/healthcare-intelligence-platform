@@ -569,3 +569,4 @@
 - [2023-06-27] docs: document OMOP CDM schema transformations
 - [2023-06-28] feat: add Prometheus metrics for pipeline monitoring
 - [2023-06-29] chore: update SNOMED CT vocabulary mappings
+- [2023-06-30] feat: add Prometheus metrics for pipeline monitoring
