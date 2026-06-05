@@ -39,3 +39,4 @@
 - [2021-11-26] docs: add HIPAA compliance notes to data pipeline
 - [2021-11-27] chore: update requirements.txt dependencies
 - [2021-11-30] fix: resolve Grafana dashboard data source config
+- [2021-11-30] feat: add Prometheus metrics for pipeline monitoring
