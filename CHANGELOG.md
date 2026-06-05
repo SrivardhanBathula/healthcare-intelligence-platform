@@ -357,3 +357,4 @@
 - [2022-06-09] refactor: modularize EHR data standardization logic
 - [2022-06-10] docs: add HIPAA compliance notes to data pipeline
 - [2022-06-12] refactor: optimize ClinicalBERT batch inference
+- [2022-06-12] test: add unit tests for OMOP transformer
