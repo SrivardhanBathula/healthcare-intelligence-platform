@@ -45,3 +45,4 @@
 - [2021-12-08] fix: correct ICD-10 to SNOMED mapping for edge cases
 - [2021-12-08] docs: document OMOP CDM schema transformations
 - [2021-12-09] docs: add HIPAA compliance notes to data pipeline
+- [2021-12-12] feat: add Prometheus metrics for pipeline monitoring
