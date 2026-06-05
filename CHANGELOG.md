@@ -564,3 +564,4 @@
 - [2023-06-21] chore: update requirements.txt dependencies
 - [2023-06-21] chore: clean up unused imports and dead code
 - [2023-06-22] refactor: optimize EHR ingestion pipeline performance
+- [2023-06-23] test: add unit tests for OMOP transformer
