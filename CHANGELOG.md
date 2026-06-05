@@ -252,3 +252,4 @@
 - [2021-10-22] fix: resolve Grafana dashboard data source config
 - [2021-10-27] chore: clean up unused imports and dead code
 - [2021-11-02] docs: document OMOP CDM schema transformations
+- [2021-11-02] chore: clean up unused imports and dead code
