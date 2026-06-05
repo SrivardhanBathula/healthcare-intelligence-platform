@@ -313,3 +313,4 @@
 - [2022-03-02] refactor: improve temporal feature extraction efficiency
 - [2022-03-02] refactor: optimize EHR ingestion pipeline performance
 - [2022-03-03] refactor: improve temporal feature extraction efficiency
+- [2022-03-04] fix: handle missing lab values in ICU risk model
