@@ -663,3 +663,4 @@
 - [2023-12-27] refactor: improve ICU risk model preprocessing
 - [2024-01-02] feat: add Prometheus metrics for pipeline monitoring
 - [2024-01-05] fix: negation detection edge case in NER pipeline
+- [2024-01-10] fix: correct patient age calculation in risk model
