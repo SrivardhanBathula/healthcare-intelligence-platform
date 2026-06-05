@@ -651,3 +651,4 @@
 - [2023-12-06] test: add unit tests for OMOP transformer
 - [2023-12-07] fix: correct patient age calculation in risk model
 - [2023-12-07] refactor: vectorize survival analysis feature computation
+- [2023-12-15] chore: clean up unused imports and dead code
