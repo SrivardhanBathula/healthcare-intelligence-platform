@@ -563,3 +563,4 @@
 - [2023-06-16] fix: correct patient age calculation in risk model
 - [2023-06-21] chore: update requirements.txt dependencies
 - [2023-06-21] chore: clean up unused imports and dead code
+- [2023-06-22] refactor: optimize EHR ingestion pipeline performance
