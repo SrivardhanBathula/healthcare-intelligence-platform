@@ -483,3 +483,4 @@
 - [2023-02-10] chore: update requirements.txt dependencies
 - [2023-02-14] refactor: modularize EHR data standardization logic
 - [2023-02-14] chore: update requirements.txt dependencies
+- [2023-02-16] feat: add Prometheus metrics for pipeline monitoring
