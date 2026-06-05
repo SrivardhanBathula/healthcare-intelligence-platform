@@ -491,3 +491,4 @@
 - [2023-02-23] feat: add ICD-10 code validation layer
 - [2023-02-24] feat: add Prometheus metrics for pipeline monitoring
 - [2023-02-28] test: add integration tests for clinical NER pipeline
+- [2023-02-28] fix: negation detection edge case in NER pipeline
