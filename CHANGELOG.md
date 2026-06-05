@@ -402,3 +402,4 @@
 - [2022-09-05] refactor: optimize ClinicalBERT batch inference
 - [2022-09-07] fix: resolve memory leak in PySpark feature job
 - [2022-09-08] fix: correct ICD-10 to SNOMED mapping for edge cases
+- [2022-09-09] chore: upgrade scikit-learn to latest stable
