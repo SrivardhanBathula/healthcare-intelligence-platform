@@ -227,3 +227,4 @@
 - [2022-12-22] test: add unit tests for OMOP transformer
 - [2022-12-23] fix: handle null values in OMOP CDM transformer
 - [2021-09-07] fix: correct survival analysis time window calculation
+- [2021-09-07] fix: correct patient age calculation in risk model
