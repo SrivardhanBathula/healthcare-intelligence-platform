@@ -519,3 +519,4 @@
 - [2023-04-07] fix: negation detection edge case in NER pipeline
 - [2023-04-10] chore: update SNOMED CT vocabulary mappings
 - [2023-04-13] chore: upgrade scikit-learn to latest stable
+- [2023-04-13] test: add integration tests for clinical NER pipeline
