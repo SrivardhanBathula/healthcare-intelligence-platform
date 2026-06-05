@@ -89,3 +89,4 @@
 - [2022-03-03] refactor: improve temporal feature extraction efficiency
 - [2022-03-04] fix: handle missing lab values in ICU risk model
 - [2022-03-08] feat: add ICD-10 code validation layer
+- [2022-03-08] fix: resolve Grafana dashboard data source config
