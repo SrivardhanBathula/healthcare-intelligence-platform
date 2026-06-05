@@ -276,3 +276,4 @@
 - [2021-12-17] fix: correct patient age calculation in risk model
 - [2021-12-19] docs: add HIPAA compliance notes to data pipeline
 - [2021-12-21] test: add integration tests for clinical NER pipeline
+- [2021-12-21] test: add unit tests for OMOP transformer
