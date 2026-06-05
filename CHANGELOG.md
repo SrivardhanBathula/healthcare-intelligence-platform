@@ -147,3 +147,4 @@
 - [2022-07-13] refactor: improve ICU risk model preprocessing
 - [2022-07-14] refactor: optimize EHR ingestion pipeline performance
 - [2022-07-14] test: add integration tests for clinical NER pipeline
+- [2022-07-15] refactor: vectorize survival analysis feature computation
