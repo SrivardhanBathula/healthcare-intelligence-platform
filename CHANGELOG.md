@@ -350,3 +350,4 @@
 - [2022-05-20] chore: upgrade scikit-learn to latest stable
 - [2022-05-27] fix: correct patient age calculation in risk model
 - [2022-06-03] fix: handle missing lab values in ICU risk model
+- [2022-06-03] refactor: improve temporal feature extraction efficiency
