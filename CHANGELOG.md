@@ -712,3 +712,4 @@
 - [2024-04-09] chore: upgrade scikit-learn to latest stable
 - [2024-04-09] fix: resolve memory leak in PySpark feature job
 - [2024-04-15] feat: add Prometheus metrics for pipeline monitoring
+- [2024-04-18] refactor: modularize EHR data standardization logic
