@@ -86,3 +86,4 @@
 - [2022-02-28] refactor: optimize ClinicalBERT batch inference
 - [2022-03-02] refactor: improve temporal feature extraction efficiency
 - [2022-03-02] refactor: optimize EHR ingestion pipeline performance
+- [2022-03-03] refactor: improve temporal feature extraction efficiency
