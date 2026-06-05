@@ -757,3 +757,4 @@
 - [2024-06-26] chore: update requirements.txt dependencies
 - [2024-06-26] fix: correct patient age calculation in risk model
 - [2024-06-27] refactor: modularize EHR data standardization logic
+- [2024-06-28] fix: correct survival analysis time window calculation
