@@ -164,3 +164,4 @@
 - [2022-08-19] chore: clean up unused imports and dead code
 - [2022-08-22] chore: clean up unused imports and dead code
 - [2022-08-22] docs: add HIPAA compliance notes to data pipeline
+- [2022-08-23] fix: correct survival analysis time window calculation
