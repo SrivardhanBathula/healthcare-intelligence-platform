@@ -150,3 +150,4 @@
 - [2022-07-15] refactor: vectorize survival analysis feature computation
 - [2022-07-28] refactor: improve ICU risk model preprocessing
 - [2022-07-28] fix: correct patient age calculation in risk model
+- [2022-07-29] chore: update SNOMED CT vocabulary mappings
