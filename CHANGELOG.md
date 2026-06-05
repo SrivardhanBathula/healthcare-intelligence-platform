@@ -644,3 +644,4 @@
 - [2023-11-21] fix: resolve Grafana dashboard data source config
 - [2023-11-21] chore: clean up unused imports and dead code
 - [2023-11-23] fix: resolve memory leak in PySpark feature job
+- [2023-11-23] test: add unit tests for OMOP transformer
