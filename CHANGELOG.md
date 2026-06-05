@@ -631,3 +631,4 @@
 - [2023-10-23] refactor: vectorize survival analysis feature computation
 - [2023-10-26] chore: update requirements.txt dependencies
 - [2023-10-27] chore: update SNOMED CT vocabulary mappings
+- [2023-10-30] fix: correct ICD-10 to SNOMED mapping for edge cases
