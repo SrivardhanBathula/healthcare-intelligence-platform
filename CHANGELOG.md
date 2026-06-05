@@ -761,3 +761,4 @@
 - [2024-06-28] feat: add ICD-10 code validation layer
 - [2024-07-03] fix: resolve Grafana dashboard data source config
 - [2024-07-11] test: add integration tests for clinical NER pipeline
+- [2024-07-12] chore: update SNOMED CT vocabulary mappings
