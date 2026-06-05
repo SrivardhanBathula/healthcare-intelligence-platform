@@ -615,3 +615,4 @@
 - [2023-09-20] docs: add HIPAA compliance notes to data pipeline
 - [2023-09-20] docs: document OMOP CDM schema transformations
 - [2023-09-27] chore: update requirements.txt dependencies
+- [2023-09-27] refactor: vectorize survival analysis feature computation
