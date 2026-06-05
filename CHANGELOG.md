@@ -143,3 +143,4 @@
 - [2022-07-04] refactor: improve temporal feature extraction efficiency
 - [2022-07-04] chore: update SNOMED CT vocabulary mappings
 - [2022-07-07] chore: clean up unused imports and dead code
+- [2022-07-08] refactor: improve temporal feature extraction efficiency
