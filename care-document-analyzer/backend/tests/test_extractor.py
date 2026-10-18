@@ -1,7 +1,7 @@
-from app.extractor import extract_document
+from app.extractor import demo_extract
 
 def test_fake_fall_extracts_identifier_and_date():
-    result = extract_document("2026-10-12 RES-1042 experienced an unwitnessed fall.")
+    result = demo_extract("2026-10-12 RES-1042 experienced an unwitnessed fall.")
     assert result.resident_id == "RES-1042"
     assert result.event_type == "fall"
     assert str(result.event_date) == "2026-10-12"
