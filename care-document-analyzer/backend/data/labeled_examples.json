@@ -1,0 +1,6 @@
+[
+  {"id":"synthetic-001","text":"2026-10-12 RES-1042 experienced an unwitnessed fall near the dining room.","expected":{"resident_id":"RES-1042","event_type":"fall","event_date":"2026-10-12","medications_mentioned":[],"risk_flags":["unwitnessed_event"]}},
+  {"id":"synthetic-002","text":"2026-10-13 RES-2041 medication note: missed dose of metformin.","expected":{"resident_id":"RES-2041","event_type":"medication","event_date":"2026-10-13","medications_mentioned":["metformin"],"risk_flags":["missed_medication_dose"]}},
+  {"id":"synthetic-003","text":"General shift note. Resident appears comfortable.","expected":{"resident_id":null,"event_type":"unknown","event_date":null,"medications_mentioned":[],"risk_flags":["date_missing","resident_id_missing"]}},
+  {"id":"synthetic-004","text":"2026-10-14 RES-3344 reported a bruise after possible head impact.","expected":{"resident_id":"RES-3344","event_type":"injury","event_date":"2026-10-14","medications_mentioned":[],"risk_flags":["possible_head_impact"]}}
+]

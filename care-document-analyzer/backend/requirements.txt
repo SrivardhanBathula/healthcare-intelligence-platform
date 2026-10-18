@@ -1,0 +1,6 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.8,<3
+sqlalchemy>=2,<3
+psycopg[binary]>=3.2,<4
+anthropic>=0.40,<1
