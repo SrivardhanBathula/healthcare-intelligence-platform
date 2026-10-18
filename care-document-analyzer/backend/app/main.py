@@ -23,7 +23,7 @@ def create(body:DocumentCreate,db:Session=Depends(db_session)):
     except Exception as e: raise HTTPException(502,detail="Extraction failed") from e
     elapsed=round((time.perf_counter()-start)*1000)
     doc=Document(title=body.title.strip(),content=body.content); db.add(doc); db.flush()
-    db.add(ExtractionRecord(document_id=doc.id,payload=result.model_dump(mode="json"),latency_ms=elapsed));
+    db.add(ExtractionRecord(document_id=doc.id,payload=result.model_dump(mode="json"),latency_ms=elapsed,model_used=model_used));
     try: db.commit()
     except Exception as e: db.rollback(); raise HTTPException(500,detail="Could not save document") from e
     db.refresh(doc)
