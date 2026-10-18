@@ -19,7 +19,7 @@ def health(): return {"status":"ok","mode":"demo"}
 @app.post("/api/documents")
 def create(body:DocumentCreate,db:Session=Depends(db_session)):
     start=time.perf_counter()
-    try: result=extract_document(body.content)
+    try: result, model_used=extract_document(body.content)
     except Exception as e: raise HTTPException(502,detail="Extraction failed") from e
     elapsed=round((time.perf_counter()-start)*1000)
     doc=Document(title=body.title.strip(),content=body.content); db.add(doc); db.flush()
@@ -27,7 +27,7 @@ def create(body:DocumentCreate,db:Session=Depends(db_session)):
     try: db.commit()
     except Exception as e: db.rollback(); raise HTTPException(500,detail="Could not save document") from e
     db.refresh(doc)
-    return {"id":doc.id,"title":doc.title,"extraction":result.model_dump(mode="json"),"created_at":doc.created_at.isoformat(),"latency_ms":elapsed,"model_used":"demo"}
+    return {"id":doc.id,"title":doc.title,"extraction":result.model_dump(mode="json"),"created_at":doc.created_at.isoformat(),"latency_ms":elapsed,"model_used":model_used}
 @app.get("/api/documents")
 def list_docs(q:str|None=None,limit:int=Query(50,ge=1,le=100),db:Session=Depends(db_session)):
     stmt=select(Document,ExtractionRecord).join(ExtractionRecord,ExtractionRecord.document_id==Document.id).order_by(Document.created_at.desc()).limit(limit)
